@@ -2,7 +2,7 @@
 
 Project Objective:
 
-The objective of this mini-project is to develop skills in web scraping by extracting and analyzing car details from Cars24.com. Interns will focus on gathering data specific to the Mumbai location, covering key details such as kilometers driven, year of manufacture, fuel type, transmission, and price. By the end of this project, interns will have hands-on experience in web scraping, data cleaning, and presenting structured data for analysis.
+The objective of this mini-project is to develop skills in web scraping by extracting and analyzing car details from Cars24.com. we will focus on gathering data specific to the Mumbai location, covering key details such as kilometers driven, year of manufacture, fuel type, transmission, and price. By the end of this project, interns will have hands-on experience in web scraping, data cleaning, and presenting structured data for analysis.
 
 
 Project Requirements:
