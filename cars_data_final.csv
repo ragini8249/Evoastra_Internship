@@ -1,0 +1,1704 @@
+year,company,car_name,km_driven,fuel_type,transmission,price,location
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.4 CRDI,95643,Diesel,Manual,₹7.13 Lakh,Ahmedabad
+2021,Tata,ALTROZ XE PETROL,47357,Petrol,Manual,₹5.17 Lakh,Ahmedabad
+2021,Maruti,Swift VXI,76623,Petrol,Manual,₹6.19 Lakh,Ahmedabad
+2015,Skoda,Rapid 1.5 TDI CR ELEGANCE AT,69545,Diesel,Automatic,₹5.59 Lakh,Ahmedabad
+2020,Maruti,Dzire VXI,70958,Petrol,Manual,₹6.16 Lakh,Ahmedabad
+2020,Maruti,Swift ZXI PLUS AMT,45992,Petrol,Automatic,₹6.92 Lakh,Ahmedabad
+2021,Volkswagen,Polo TRENDLINE 1.0L,23425,Petrol,Manual,₹5.86 Lakh,Ahmedabad
+2022,Maruti,Swift ZXI PLUS AMT,24102,Petrol,Automatic,₹7.89 Lakh,Ahmedabad
+2017,Hyundai,Creta E PLUS 1.4 DIESEL,82269,Diesel,Manual,₹8.27 Lakh,Ahmedabad
+2018,Honda,Amaze 1.2L I-VTEC SX,42820,Petrol,Manual,₹4.90 Lakh,Ahmedabad
+2016,Maruti,Vitara Brezza ZDI,88267,Diesel,Manual,₹6.99 Lakh,Ahmedabad
+2022,Honda,City 1.5L I-VTEC VX,12495,Petrol,Manual,₹12.00 Lakh,Ahmedabad
+2017,Tata,Tiago XZ PETROL,70332,Petrol,Manual,₹4.03 Lakh,Ahmedabad
+2019,Tata,Tiago XT PETROL,88351,Petrol,Manual,₹4.14 Lakh,Ahmedabad
+2022,Hyundai,AURA S 1.2 CNG,37146,CNG,Manual,₹7.88 Lakh,Ahmedabad
+2015,Honda,City 1.5L I-VTEC SV,86754,Petrol,Manual,₹4.87 Lakh,Ahmedabad
+2018,Tata,NEXON XM PETROL,33893,Petrol,Manual,₹6.75 Lakh,Ahmedabad
+2022,Skoda,SLAVIA STYLE 1.0L TSI AT,32848,Petrol,Automatic,₹13.00 Lakh,Ahmedabad
+2017,Maruti,Ciaz ZETA 1.4 MT PETROL,53155,Petrol,Manual,₹6.42 Lakh,Ahmedabad
+2016,Hyundai,Xcent S 1.2,48243,Petrol,Manual,₹4.52 Lakh,Ahmedabad
+2013,Hyundai,i20 MAGNA 1.2,57948,Petrol,Manual,₹3.37 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 ERA 1.2 KAPPA VTVT,63314,Petrol,Manual,₹4.20 Lakh,Ahmedabad
+2022,Maruti,S PRESSO VXI,17426,Petrol,Manual,₹5.03 Lakh,Ahmedabad
+2015,Hyundai,Xcent S 1.2,78469,Petrol,Manual,₹4.09 Lakh,Ahmedabad
+2022,Renault,TRIBER RXL MT,26543,Petrol,Manual,₹5.63 Lakh,Ahmedabad
+2023,Tata,Tiago XE PETROL,5985,Petrol,Manual,₹5.21 Lakh,Ahmedabad
+2021,Maruti,XL6 ZETA MT,20079,Petrol,Manual,₹9.65 Lakh,Ahmedabad
+2018,Tata,TIGOR XZ PLUS PETROL,44855,CNG,Manual,₹5.91 Lakh,Ahmedabad
+2021,Tata,NEXON XM DIESEL,83923,Diesel,Manual,₹8.36 Lakh,Ahmedabad
+2022,Skoda,SLAVIA STYLE 1.0L TSI AT,42844,Petrol,Automatic,₹13.23 Lakh,Ahmedabad
+2016,Honda,Amaze 1.2L I-VTEC VX,90892,Petrol,Manual,₹5.09 Lakh,Ahmedabad
+2018,Hyundai,Creta SX (O) 1.6 PETROL,61119,Petrol,Manual,₹9.04 Lakh,Ahmedabad
+2023,Honda,Amaze 1.2L I-VTEC S,11259,Petrol,Manual,₹7.52 Lakh,Ahmedabad
+2016,Hyundai,Xcent S 1.2,81517,Petrol,Manual,₹4.57 Lakh,Ahmedabad
+2019,Hyundai,Creta SX AT 1.6 PETROL,47083,Petrol,Automatic,₹10.78 Lakh,Ahmedabad
+2022,Maruti,S PRESSO VXI+,28393,Petrol,Manual,₹4.82 Lakh,Ahmedabad
+2022,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,18916,Petrol,Automatic,₹7.27 Lakh,Ahmedabad
+2021,KIA,SELTOS HTX ANNIVERSARY EDITION 1.5 DIESEL,90741,Diesel,Manual,₹13.48 Lakh,Ahmedabad
+2017,Hyundai,Elite i20 SPORTZ 1.2,34568,Petrol,Manual,₹5.93 Lakh,Ahmedabad
+2021,Maruti,Baleno ZETA PETROL 1.2,27957,Petrol,Manual,₹7.30 Lakh,Ahmedabad
+2021,Tata,ALTROZ XM PLUS PETROL,40081,Petrol,Manual,₹6.60 Lakh,Ahmedabad
+2021,Maruti,Alto LXI,28599,Petrol,Manual,₹3.60 Lakh,Ahmedabad
+2015,Honda,City 1.5L I-VTEC SV,56877,Petrol,Manual,₹5.08 Lakh,Ahmedabad
+2022,Maruti,Ciaz S 1.5 MT PETROL,27376,Petrol,Manual,₹9.97 Lakh,Ahmedabad
+2022,KIA,SELTOS HTX 1.5 PETROL,30261,Petrol,Manual,₹12.84 Lakh,Ahmedabad
+2016,Maruti,Wagon R 1.0 VXI,58428,CNG,Manual,₹3.81 Lakh,Ahmedabad
+2019,Hyundai,NEW SANTRO SPORTZ AMT,29743,Petrol,Automatic,₹5.08 Lakh,Ahmedabad
+2022,Volkswagen,Vento HIGHLINE PLUS 1.0L TSI AT,55571,Petrol,Automatic,₹11.83 Lakh,Ahmedabad
+2023,Tata,ALTROZ XZ PLUS DIESEL,38220,Diesel,Manual,₹8.86 Lakh,Ahmedabad
+2019,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,81316,Petrol,Automatic,₹6.03 Lakh,Ahmedabad
+2019,Honda,Amaze 1.2L I-VTEC S,69996,CNG,Manual,₹6.39 Lakh,Ahmedabad
+2023,Maruti,Baleno ALPHA PETROL 1.2,22213,Petrol,Manual,₹9.05 Lakh,Ahmedabad
+2017,Maruti,Baleno DELTA PETROL 1.2,71220,Petrol,Manual,₹4.74 Lakh,Ahmedabad
+2021,Tata,PUNCH CREATIVE iRA PACK AMT,43226,Petrol,Automatic,₹7.25 Lakh,Ahmedabad
+2019,Hyundai,NEW SANTRO SPORTZ MT,77773,Petrol,Manual,₹4.30 Lakh,Ahmedabad
+2022,KIA,SONET HTX PLUS 1.5,41560,Diesel,Manual,₹12.24 Lakh,Ahmedabad
+2019,Honda,WR-V 1.2L I-VTEC VX MT,14969,Petrol,Manual,₹7.89 Lakh,Ahmedabad
+2021,Maruti,Baleno ZETA PETROL 1.2,19858,Petrol,Manual,₹6.99 Lakh,Ahmedabad
+2018,Maruti,Ertiga ZDI + SHVS,67348,Diesel,Manual,₹8.75 Lakh,Ahmedabad
+2023,Nissan,MAGNITE XV MT,22774,Petrol,Manual,₹7.70 Lakh,Ahmedabad
+2019,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,86706,Petrol,Automatic,₹7.47 Lakh,Ahmedabad
+2020,Hyundai,VENUE SX 1.0 (O) TURBO IMT DUAL TONE,29424,Petrol,Manual,₹10.23 Lakh,Ahmedabad
+2021,Mahindra,Thar LX D AT 4WD HT,30063,Diesel,Automatic,₹13.97 Lakh,Ahmedabad
+2022,Tata,Harrier XZ PLUS 2.0L DUAL TONE,25391,Diesel,Manual,₹18.60 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,124292,Petrol,Manual,₹3.75 Lakh,Ahmedabad
+2020,Maruti,Baleno DELTA PETROL 1.2,21583,Petrol,Manual,₹6.12 Lakh,Ahmedabad
+2023,Honda,Amaze 1.2L I-VTEC VX CVT,7266,Petrol,Automatic,₹8.80 Lakh,Ahmedabad
+2020,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,40753,Petrol,Manual,₹8.39 Lakh,Ahmedabad
+2018,Honda,Amaze 1.2L I-VTEC S,69410,CNG,Manual,₹5.07 Lakh,Ahmedabad
+2016,Hyundai,Creta SX PLUS AT 1.6 PETROL,77051,Petrol,Automatic,₹7.70 Lakh,Ahmedabad
+2021,Maruti,Baleno ZETA PETROL 1.2,23309,Petrol,Manual,₹7.26 Lakh,Ahmedabad
+2017,Hyundai,Verna 1.6 CRDI SX,90504,Diesel,Manual,₹6.87 Lakh,Ahmedabad
+2021,Mahindra,Thar LX PETROL HT 4WD AT,52389,Petrol,Automatic,₹13.09 Lakh,Ahmedabad
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.2,65367,Petrol,Manual,₹6.20 Lakh,Ahmedabad
+2023,Skoda,SLAVIA ACTIVE 1.0L TSI MT,15168,Petrol,Manual,₹10.37 Lakh,Ahmedabad
+2016,Hyundai,Elite i20 SPORTZ 1.2,80656,Petrol,Manual,₹5.10 Lakh,Ahmedabad
+2021,Toyota,URBAN CRUISER HIGH GRADE AT,32375,Petrol,Automatic,₹8.69 Lakh,Ahmedabad
+2014,Maruti,Alto K10 VXI,36066,Petrol,Manual,₹2.26 Lakh,Ahmedabad
+2020,Hyundai,Creta SX 1.5 PETROL,64149,Petrol,Manual,₹11.60 Lakh,Ahmedabad
+2019,Hyundai,Creta S 1.4 DIESEL,63608,Diesel,Manual,₹9.82 Lakh,Ahmedabad
+2017,Honda,WR-V 1.5L I-DTEC S MT,109965,Diesel,Manual,₹4.50 Lakh,Ahmedabad
+2020,Maruti,Dzire VXI,61231,Petrol,Manual,₹5.73 Lakh,Ahmedabad
+2016,Maruti,Baleno DELTA PETROL 1.2,29235,Petrol,Manual,₹4.82 Lakh,Ahmedabad
+2019,Maruti,Baleno DELTA PETROL 1.2,58679,Petrol,Manual,₹5.54 Lakh,Ahmedabad
+2019,Hyundai,VENUE SX 1.0 TURBO,99901,Petrol,Manual,₹7.09 Lakh,Ahmedabad
+2022,Maruti,Swift ZXI PLUS,38909,Petrol,Manual,₹7.25 Lakh,Ahmedabad
+2014,Maruti,Celerio VXI AMT,106679,Petrol,Automatic,₹2.95 Lakh,Ahmedabad
+2021,Hyundai,Creta SX (O) 1.4 TURBO DCT,51190,Petrol,Automatic,₹13.31 Lakh,Ahmedabad
+2018,Hyundai,Elite i20 ASTA 1.2 (O),96799,CNG,Manual,₹6.48 Lakh,Ahmedabad
+2017,Jeep,Compass LONGITUDE (O) 2.0 DIESEL,97907,Diesel,Manual,₹8.85 Lakh,Ahmedabad
+2013,Maruti,Swift Dzire VXI,70348,Petrol,Manual,₹3.68 Lakh,Ahmedabad
+2016,Maruti,Vitara Brezza VDI,86345,Diesel,Manual,₹6.32 Lakh,Ahmedabad
+2018,Maruti,Dzire VXI,86832,Petrol,Manual,₹5.16 Lakh,Ahmedabad
+2017,Hyundai,Creta SX PLUS AT 1.6 DIESEL,88545,Diesel,Automatic,₹8.70 Lakh,Ahmedabad
+2020,Hyundai,AURA S 1.2 AMT,24408,Petrol,Automatic,₹6.67 Lakh,Ahmedabad
+2019,Hyundai,VENUE SX 1.0 TURBO,31832,Petrol,Manual,₹8.50 Lakh,Ahmedabad
+2021,Renault,Kwid RXT 0.8,42360,Petrol,Manual,₹3.98 Lakh,Ahmedabad
+2021,Mahindra,Thar LX D 4*4 MT HT,43189,Diesel,Manual,₹12.27 Lakh,Ahmedabad
+2017,Maruti,Alto 800 LXI,110866,Petrol,Manual,₹2.45 Lakh,Ahmedabad
+2021,Hyundai,Creta SX (O) IVT 1.5 PETROL,15747,Petrol,Automatic,₹15.17 Lakh,Ahmedabad
+2022,Tata,Tiago XZA PLUS PETROL,2507,Petrol,Automatic,₹6.36 Lakh,Ahmedabad
+2021,Hyundai,GRAND I10 NIOS MAGNA AMT 1.2 KAPPA VTVT,27427,Petrol,Automatic,₹6.30 Lakh,Ahmedabad
+2022,Mahindra,XUV700 AX 7 LUXURY D AWD AT 7 STR,38833,Diesel,Automatic,₹22.86 Lakh,Ahmedabad
+2019,Honda,City 1.5L I-VTEC VX,59711,Petrol,Manual,₹8.48 Lakh,Ahmedabad
+2021,Maruti,Swift ZXI PLUS AMT DUAL TONE,24487,Petrol,Automatic,₹7.59 Lakh,Ahmedabad
+2020,KIA,SELTOS HTX PLUS AT1.5 DIESEL,73055,Diesel,Automatic,₹12.61 Lakh,Ahmedabad
+2020,Volkswagen,Polo TRENDLINE 1.0L,52237,Petrol,Manual,₹5.07 Lakh,Ahmedabad
+2016,Maruti,Alto 800 LXI,68741,Petrol,Manual,₹2.40 Lakh,Ahmedabad
+2021,KIA,SONET HTK PLUS 1.0 DCT,53366,Petrol,Automatic,₹8.94 Lakh,Ahmedabad
+2014,Maruti,Swift VXI,124105,CNG,Manual,₹3.69 Lakh,Ahmedabad
+2018,Honda,City 1.5L I-VTE V CVT,68533,Petrol,Automatic,₹8.27 Lakh,Ahmedabad
+2023,Maruti,Alto K10 VXI,9048,Petrol,Manual,₹4.56 Lakh,Ahmedabad
+2020,Hyundai,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,27296,Petrol,Manual,₹6.59 Lakh,Ahmedabad
+2019,Renault,Kwid RXT 1.0 (O),34833,Petrol,Manual,₹3.51 Lakh,Ahmedabad
+2022,Maruti,BREZZA ZXI SMART HYBRID,13425,Petrol,Manual,₹10.51 Lakh,Ahmedabad
+2017,Ford,Ecosport TITANIUM 1.5L DIESEL,111848,Diesel,Manual,₹5.38 Lakh,Ahmedabad
+2017,Maruti,Alto 800 LXI,87934,Petrol,Manual,₹2.81 Lakh,Ahmedabad
+2018,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,27211,Petrol,Automatic,₹5.58 Lakh,Ahmedabad
+2014,Honda,Brio S MT,114719,CNG,Manual,₹3.89 Lakh,Ahmedabad
+2017,Volkswagen,Vento HIGHLINE DIESEL 1.5,111447,Diesel,Manual,₹6.28 Lakh,Ahmedabad
+2023,Maruti,Alto K10 VXI PLUS,10106,Petrol,Manual,₹4.91 Lakh,Ahmedabad
+2014,Maruti,Wagon R 1.0 VXI,99572,Petrol,Manual,₹2.97 Lakh,Ahmedabad
+2016,Honda,Jazz 1.2L I-VTEC V AT,80544,Petrol,Automatic,₹4.92 Lakh,Ahmedabad
+2020,Honda,Amaze 1.2L I-VTEC VX CVT,68560,Petrol,Automatic,₹6.97 Lakh,Ahmedabad
+2021,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,42935,Petrol,Manual,₹6.16 Lakh,Ahmedabad
+2021,Tata,Harrier XZA PLUS 2.0L DARK EDITION,49218,Diesel,Automatic,₹17.16 Lakh,Ahmedabad
+2011,Honda,Jazz 1.2 L I-VTEC SELECT,119805,Petrol,Manual,₹2.34 Lakh,Ahmedabad
+2017,Maruti,Baleno ZETA PETROL 1.2,60499,Petrol,Manual,₹5.13 Lakh,Ahmedabad
+2018,Maruti,Ciaz ZETA 1.4 AT PETROL,64686,Petrol,Automatic,₹6.48 Lakh,Ahmedabad
+2020,Tata,Tiago XZ PETROL,57697,Petrol,Manual,₹4.51 Lakh,Ahmedabad
+2012,Maruti,Wagon R 1.0 LXI,83474,Petrol,Manual,₹2.35 Lakh,Ahmedabad
+2016,Maruti,Ciaz VXI+,54635,Petrol,Manual,₹5.61 Lakh,Ahmedabad
+2019,MG,HECTOR SHARP HYBRID 1.5 PETROL,47069,Petrol,Manual,₹11.92 Lakh,Ahmedabad
+2012,Maruti,Wagon R 1.0 LXI,55994,Petrol,Manual,₹2.51 Lakh,Ahmedabad
+2021,Renault,TRIBER RXZ,48280,Petrol,Manual,₹5.89 Lakh,Ahmedabad
+2015,Honda,City 1.5L I-VTEC V MT,94999,Petrol,Manual,₹5.45 Lakh,Ahmedabad
+2021,Tata,Safari XT,23728,Diesel,Manual,₹14.63 Lakh,Ahmedabad
+2015,Hyundai,i10 MAGNA 1.1,45144,Petrol,Manual,₹2.98 Lakh,Ahmedabad
+2015,Honda,City 1.5L I-DTEC V,91432,Diesel,Manual,₹5.30 Lakh,Ahmedabad
+2018,Jeep,Compass LIMITED 2.0 DIESEL,60972,Diesel,Manual,₹9.70 Lakh,Ahmedabad
+2023,Tata,NEXON XM PLUS SUNROOF PETROL,18122,Petrol,Manual,₹9.09 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,55222,Petrol,Manual,₹4.32 Lakh,Ahmedabad
+2017,Hyundai,Eon ERA +,66667,Petrol,Manual,₹2.93 Lakh,Ahmedabad
+2021,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,11395,Petrol,Manual,₹8.74 Lakh,Ahmedabad
+2019,Datsun,Go T,62759,CNG,Manual,₹3.90 Lakh,Ahmedabad
+2022,Hyundai,VENUE SX 1.2 PETROL,22171,Petrol,Manual,₹9.79 Lakh,Ahmedabad
+2016,Maruti,Swift Dzire VXI,47275,Petrol,Manual,₹5.32 Lakh,Ahmedabad
+2021,Renault,Kwid RXT 0.8,20267,Petrol,Manual,₹4.05 Lakh,Ahmedabad
+2020,Nissan,MAGNITE XV TURBO DUAL TONE,21393,Petrol,Manual,₹6.68 Lakh,Ahmedabad
+2016,Hyundai,Elite i20 SPORTZ 1.2,33335,Petrol,Manual,₹5.22 Lakh,Ahmedabad
+2022,Tata,NEXON XZA PLUS KAZIRANGA PETROL,33058,Petrol,Automatic,₹9.99 Lakh,Ahmedabad
+2017,Maruti,IGNIS ZETA 1.2 AMT,30087,Petrol,Automatic,₹4.61 Lakh,Ahmedabad
+2012,Hyundai,i20 MAGNA 1.2,51560,Petrol,Manual,₹3.18 Lakh,Ahmedabad
+2016,Honda,Jazz 1.2L I-VTEC E,109934,Petrol,Manual,₹3.45 Lakh,Ahmedabad
+2018,Volkswagen,Ameo HIGHLINE1.5L,64394,Diesel,Manual,₹5.62 Lakh,Ahmedabad
+2015,Hyundai,i10 MAGNA 1.1,115024,CNG,Manual,₹3.03 Lakh,Ahmedabad
+2015,Honda,Brio S MT,99660,Petrol,Manual,₹2.99 Lakh,Ahmedabad
+2023,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,8899,Petrol,Manual,₹9.45 Lakh,Ahmedabad
+2013,Hyundai,i10 MAGNA 1.1,32569,Petrol,Manual,₹2.92 Lakh,Ahmedabad
+2022,KIA,SONET HTK PLUS 1.0 IMT,8535,Petrol,Manual,₹9.56 Lakh,Ahmedabad
+2019,Hyundai,VENUE SX 1.0 TURBO,23373,Petrol,Manual,₹8.25 Lakh,Ahmedabad
+2019,Hyundai,Creta SX (O) EXECUTIVE 1.6 PETROL,63467,Petrol,Manual,₹10.30 Lakh,Ahmedabad
+2019,Renault,Kwid RXT 1.0 (O),53607,Petrol,Manual,₹3.12 Lakh,Ahmedabad
+2021,Tata,Tiago XTA PETROL,16936,Petrol,Automatic,₹5.59 Lakh,Ahmedabad
+2021,Tata,Tiago XZA PLUS DUAL TONE PETROL,23447,Petrol,Automatic,₹6.33 Lakh,Ahmedabad
+2012,Hyundai,i10 MAGNA 1.1,71100,Petrol,Manual,₹2.56 Lakh,Ahmedabad
+2020,Tata,TIGOR XZ PLUS PETROL,55845,Petrol,Manual,₹5.59 Lakh,Ahmedabad
+2019,Renault,TRIBER RXZ,43496,Petrol,Manual,₹4.90 Lakh,Ahmedabad
+2014,Hyundai,i10 MAGNA 1.1,77170,CNG,Manual,₹3.13 Lakh,Ahmedabad
+2021,Hyundai,Creta S 1.5 PETROL,23186,Petrol,Manual,₹11.97 Lakh,Ahmedabad
+2022,Tata,TIGOR XZA PLUS PETROL,12248,Petrol,Automatic,₹7.33 Lakh,Ahmedabad
+2016,Hyundai,Elite i20 SPORTZ 1.2,41771,Petrol,Manual,₹5.29 Lakh,Ahmedabad
+2022,Mahindra,XUV300 W8 (O) 1.2 PETROL AMT,12801,Petrol,Automatic,₹11.54 Lakh,Ahmedabad
+2018,Datsun,Redi Go S 1.0,68162,Petrol,Manual,₹2.59 Lakh,Ahmedabad
+2017,Honda,WR-V 1.2L I-VTEC VX MT,104509,Petrol,Manual,₹5.78 Lakh,Ahmedabad
+2021,Tata,TIGOR XZA PLUS PETROL,37428,Petrol,Automatic,₹6.73 Lakh,Ahmedabad
+2016,Maruti,Celerio VXI AMT,73539,Petrol,Automatic,₹3.45 Lakh,Ahmedabad
+2017,Maruti,Ciaz S 1.4 MT PETROL,73948,Petrol,Manual,₹6.00 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,81725,Petrol,Manual,₹3.98 Lakh,Ahmedabad
+2022,Renault,Kwid RXL 0.8 (O),29056,Petrol,Manual,₹4.30 Lakh,Ahmedabad
+2015,Honda,Jazz 1.2L I-VTEC VX,80191,Petrol,Manual,₹4.03 Lakh,Ahmedabad
+2012,Hyundai,i10 MAGNA 1.2,60407,Petrol,Manual,₹2.66 Lakh,Ahmedabad
+2022,Tata,NEXON XZ PLUS (HS) DIESEL DARK EDITION,35285,Diesel,Manual,₹10.64 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,36355,Petrol,Manual,₹4.14 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,46203,Petrol,Manual,₹4.31 Lakh,Ahmedabad
+2022,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,35515,Petrol,Automatic,₹9.64 Lakh,Ahmedabad
+2022,Tata,ALTROZ XZ PLUS PETROL,19326,Petrol,Manual,₹8.24 Lakh,Ahmedabad
+2014,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,95213,Petrol,Manual,₹3.63 Lakh,Ahmedabad
+2018,Hyundai,New Elantra 2.0 SX (O) AT,83195,Petrol,Automatic,₹11.02 Lakh,Ahmedabad
+2013,Hyundai,i10 MAGNA 1.1,88118,Petrol,Manual,₹2.75 Lakh,Ahmedabad
+2022,KIA,CARENS PRESTIGE PLUS 1.4 PETROL 7 STR,33408,Petrol,Manual,₹12.53 Lakh,Ahmedabad
+2014,Hyundai,i20 ASTA 1.2,64275,Petrol,Manual,₹4.12 Lakh,Ahmedabad
+2018,Maruti,IGNIS DELTA 1.2,94910,Petrol,Manual,₹4.33 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,30295,Petrol,Manual,₹4.28 Lakh,Ahmedabad
+2022,KIA,SONET HTK PLUS 1.0 IMT,22608,Petrol,Manual,₹9.18 Lakh,Ahmedabad
+2023,Hyundai,NEW I20 ASTA (O) 1.2 AT,8123,Petrol,Automatic,₹10.57 Lakh,Ahmedabad
+2016,Hyundai,Elite i20 MAGNA 1.2,98208,Petrol,Manual,₹5.21 Lakh,Ahmedabad
+2021,Maruti,Baleno ZETA PETROL 1.2,24719,Petrol,Manual,₹6.99 Lakh,Ahmedabad
+2017,Honda,WR-V 1.5L I-DTEC VX MT,106245,Diesel,Manual,₹6.18 Lakh,Ahmedabad
+2019,Maruti,New Wagon-R VXI 1.2 AMT,27734,Petrol,Automatic,₹4.89 Lakh,Ahmedabad
+2019,Renault,TRIBER RXZ,72909,Petrol,Manual,₹5.23 Lakh,Ahmedabad
+2022,Tata,NEXON XZ PLUS (O) DIESEL DARK EDITION,26493,Diesel,Manual,₹11.69 Lakh,Ahmedabad
+2022,MG,HECTOR SHARP HYBRID 1.5 PETROL,79007,Petrol,Manual,₹13.85 Lakh,Ahmedabad
+2020,Maruti,Alto VXI,32946,Petrol,Manual,₹3.68 Lakh,Ahmedabad
+2017,Maruti,Dzire VDI,70959,Diesel,Manual,₹6.13 Lakh,Ahmedabad
+2014,Honda,Brio S MT,64049,Petrol,Manual,₹3.34 Lakh,Ahmedabad
+2016,Maruti,Ciaz ZXI+ RS,40789,Petrol,Manual,₹6.65 Lakh,Ahmedabad
+2018,Honda,WR-V 1.2L I-VTEC VX MT,33344,Petrol,Manual,₹7.36 Lakh,Ahmedabad
+2021,Tata,PUNCH CREATIVE IRA 1.2 RTN DUAL TONE,45950,Petrol,Manual,₹7.19 Lakh,Ahmedabad
+2018,Ford,FREESTYLE TITANIUM 1.2 PETROL,122377,Petrol,Manual,₹4.43 Lakh,Ahmedabad
+2021,Tata,NEXON XMA SUNROOF PETROL,34679,CNG,Automatic,₹9.13 Lakh,Ahmedabad
+2016,Ford,Ecosport TITANIUM 1.5L PETROL AT,94230,Petrol,Automatic,₹5.27 Lakh,Ahmedabad
+2017,Maruti,Alto 800 LXI,35703,Petrol,Manual,₹2.80 Lakh,Ahmedabad
+2017,Jeep,Compass LIMITED 1.4 PETROL AT,108189,Petrol,Automatic,₹9.15 Lakh,Ahmedabad
+2021,Tata,Tiago XZA PLUS PETROL,29340,Petrol,Automatic,₹6.34 Lakh,Ahmedabad
+2021,Honda,City 1.5L I-VTEC ZX,38302,Petrol,Manual,₹11.32 Lakh,Ahmedabad
+2019,Honda,Amaze 1.2L I-VTEC S,48876,Petrol,Manual,₹5.81 Lakh,Ahmedabad
+2022,Tata,NEXON XZ PLUS (PREMIUM) KAZIRANGA PETROL,19112,Petrol,Manual,₹10.47 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,62250,Petrol,Manual,₹4.10 Lakh,Ahmedabad
+2017,Maruti,IGNIS SIGMA 1.2,51758,Petrol,Manual,₹3.93 Lakh,Ahmedabad
+2018,Honda,Amaze 1.2L I-VTEC S,86432,Petrol,Manual,₹5.27 Lakh,Ahmedabad
+2021,Tata,Harrier XZA PLUS 2.0L DARK EDITION,52676,Diesel,Automatic,₹17.07 Lakh,Ahmedabad
+2018,Ford,Ecosport TITANIUM + 1.5L PETROL AT,36614,Petrol,Automatic,₹8.34 Lakh,Ahmedabad
+2020,MG,HECTOR SHARP 1.5 DCT PETROL,41697,Petrol,Automatic,₹12.33 Lakh,Ahmedabad
+2022,Tata,Tiago XZ PLUS CNG,43059,CNG,Manual,₹6.95 Lakh,Ahmedabad
+2013,Honda,Brio E MT,105481,CNG,Manual,₹2.50 Lakh,Ahmedabad
+2019,Maruti,Alto VXI,39071,Petrol,Manual,₹3.54 Lakh,Ahmedabad
+2017,Maruti,Celerio X ZXI,104045,Petrol,Manual,₹3.63 Lakh,Ahmedabad
+2023,Tata,NEXON XZA PLUS PETROL,3608,Petrol,Automatic,₹10.83 Lakh,Ahmedabad
+2021,MG,HECTOR SHARP 1.5 DCT PETROL,24295,Petrol,Automatic,₹14.36 Lakh,Ahmedabad
+2021,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,28610,Petrol,Manual,₹8.66 Lakh,Ahmedabad
+2016,Maruti,Baleno DELTA PETROL 1.2,59200,Petrol,Manual,₹4.81 Lakh,Ahmedabad
+2016,Maruti,Wagon R 1.0 VXI,80432,CNG,Manual,₹3.68 Lakh,Ahmedabad
+2014,Hyundai,Xcent S 1.2,118087,CNG,Manual,₹3.76 Lakh,Ahmedabad
+2015,Hyundai,i10 SPORTZ 1.1,42645,Petrol,Manual,₹3.88 Lakh,Ahmedabad
+2014,Maruti,Wagon R 1.0 LXI,53063,Petrol,Manual,₹3.35 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,39068,Petrol,Manual,₹4.52 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,38969,Petrol,Manual,₹6.39 Lakh,Ahmedabad
+2018,Hyundai,Creta SX 1.6 DIESEL,122548,Diesel,Manual,₹9.95 Lakh,Ahmedabad
+2022,Tata,Harrier XZA PLUS JET 2.0L,19969,Diesel,Automatic,₹18.37 Lakh,Ahmedabad
+2015,Honda,Brio S MT,91821,Petrol,Manual,₹2.99 Lakh,Ahmedabad
+2019,Honda,Amaze 1.2L I-VTEC V,69324,Petrol,Manual,₹5.90 Lakh,Ahmedabad
+2019,Maruti,New Wagon-R ZXI 1.2,24709,Petrol,Manual,₹4.78 Lakh,Ahmedabad
+2021,Hyundai,VENUE SX PLUS 1.0 TURBO DCT,14586,Petrol,Automatic,₹10.22 Lakh,Ahmedabad
+2019,Maruti,New Wagon-R ZXI 1.2 AMT,43025,Petrol,Automatic,₹5.25 Lakh,Ahmedabad
+2021,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,37265,Petrol,Automatic,₹9.04 Lakh,Ahmedabad
+2017,Honda,Jazz 1.5L I-DTEC S,121319,Diesel,Manual,₹4.40 Lakh,Ahmedabad
+2022,Maruti,Alto K10 LXI,10776,Petrol,Manual,₹4.28 Lakh,Ahmedabad
+2016,Hyundai,Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,18428,Petrol,Automatic,₹5.26 Lakh,Ahmedabad
+2016,Hyundai,Xcent S 1.2,98189,Petrol,Manual,₹4.49 Lakh,Ahmedabad
+2019,MG,HECTOR SHARP HYBRID 1.5 PETROL,37254,Petrol,Manual,₹11.99 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,123337,Petrol,Manual,₹4.67 Lakh,Ahmedabad
+2018,Jeep,Compass LIMITED PLUS PETROL AT,99670,Petrol,Automatic,₹11.18 Lakh,Ahmedabad
+2016,Hyundai,Elite i20 MAGNA 1.2,80868,Petrol,Manual,₹5.21 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,93688,Petrol,Manual,₹4.04 Lakh,Ahmedabad
+2019,Mahindra,XUV300 W8 (O) 1.2 PETROL,64132,Petrol,Manual,₹8.16 Lakh,Ahmedabad
+2020,Maruti,S PRESSO VXI PLUS AMT,66068,Petrol,Automatic,₹4.07 Lakh,Ahmedabad
+2018,Ford,Ecosport TITANIUM + 1.5L PETROL AT,100799,Petrol,Automatic,₹7.24 Lakh,Ahmedabad
+2019,Jeep,Compass LONGITUDE (O) 1.4 PETROL AT,47095,Petrol,Automatic,₹11.63 Lakh,Ahmedabad
+2022,Tata,Harrier XZ PLUS 2.0L DARK EDITION,23558,Diesel,Manual,₹19.01 Lakh,Ahmedabad
+2018,Maruti,Alto K10 VXI,46028,Petrol,Manual,₹3.20 Lakh,Ahmedabad
+2017,Maruti,Wagon R 1.0 VXI AMT,19767,Petrol,Automatic,₹4.32 Lakh,Ahmedabad
+2022,Maruti,Baleno ZETA PETROL 1.2,35783,Petrol,Manual,₹7.33 Lakh,Ahmedabad
+2022,Tata,ALTROZ XM PLUS PETROL,23443,Petrol,Manual,₹6.75 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,90561,Petrol,Manual,₹4.21 Lakh,Ahmedabad
+2022,Mahindra,XUV300 W8 (O) 1.2 PETROL,16155,Petrol,Manual,₹10.41 Lakh,Ahmedabad
+2020,MG,HECTOR SHARP 1.5 DCT PETROL,24668,Petrol,Automatic,₹14.13 Lakh,Ahmedabad
+2016,Maruti,Wagon R 1.0 LXI,25881,Petrol,Manual,₹3.63 Lakh,Ahmedabad
+2023,KIA,SONET GTX PLUS 1.0 DCT,21308,Petrol,Automatic,₹12.83 Lakh,Ahmedabad
+2021,Honda,Amaze 1.2L I-VTEC VX,45311,Petrol,Manual,₹6.92 Lakh,Ahmedabad
+2017,Maruti,Baleno ALPHA PETROL 1.2,73866,Petrol,Manual,₹5.52 Lakh,Ahmedabad
+2017,Maruti,Baleno ZETA PETROL 1.2,97030,Petrol,Manual,₹4.66 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,24738,Petrol,Manual,₹4.14 Lakh,Ahmedabad
+2019,MG,HECTOR SHARP 1.5 DCT PETROL,33986,Petrol,Automatic,₹13.13 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,38880,Petrol,Manual,₹6.02 Lakh,Ahmedabad
+2022,Mahindra,XUV300 W8(O) 1.2 PETROL DUAL TONE,11262,Petrol,Manual,₹11.34 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,24632,Petrol,Manual,₹4.98 Lakh,Ahmedabad
+2020,Mahindra,XUV300 W8 (O) 1.5 DIESEL AMT,64767,Diesel,Automatic,₹9.57 Lakh,Ahmedabad
+2017,Maruti,IGNIS DELTA 1.2 AMT,37621,Petrol,Automatic,₹4.84 Lakh,Ahmedabad
+2021,KIA,SELTOS GTX PLUS 1.4 PETROL,49814,Petrol,Manual,₹13.20 Lakh,Ahmedabad
+2020,Maruti,Alto LXI,29588,Petrol,Manual,₹3.36 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,77319,Petrol,Manual,₹3.97 Lakh,Ahmedabad
+2023,Maruti,Baleno ALPHA PETROL 1.2,10731,Petrol,Manual,₹8.76 Lakh,Ahmedabad
+2022,MG,HECTOR SHARP 1.5 PETROL CVT,16208,Petrol,Automatic,₹16.27 Lakh,Ahmedabad
+2020,Tata,ALTROZ XZ DIESEL,64138,Diesel,Manual,₹7.12 Lakh,Ahmedabad
+2017,Maruti,Baleno DELTA PETROL 1.2,89264,Petrol,Manual,₹4.77 Lakh,Ahmedabad
+2020,MG,HECTOR SHARP 1.5 DCT PETROL,35825,Petrol,Automatic,₹14.20 Lakh,Ahmedabad
+2021,KIA,SELTOS GTX PLUS DCT 1.4 PETROL,44793,Petrol,Automatic,₹14.92 Lakh,Ahmedabad
+2021,KIA,SELTOS GTX PLUS AT 1.5 DIESEL,37844,Diesel,Automatic,₹15.17 Lakh,Ahmedabad
+2020,Maruti,Baleno ZETA PETROL 1.2,57587,Petrol,Manual,₹6.39 Lakh,Ahmedabad
+2018,Maruti,Baleno DELTA CVT PETROL 1.2,104977,Petrol,Automatic,₹5.18 Lakh,Ahmedabad
+2022,KIA,SELTOS GTX PLUS 1.4 PETROL,15224,Petrol,Manual,₹14.82 Lakh,Ahmedabad
+2018,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,27894,Petrol,Manual,₹8.02 Lakh,Ahmedabad
+2018,Jeep,Compass LIMITED (O) 1.4 PETROL AT,57747,Petrol,Automatic,₹10.95 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,61905,Petrol,Manual,₹4.63 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,43149,Petrol,Manual,₹6.20 Lakh,Ahmedabad
+2021,Maruti,Baleno ZETA PETROL 1.2,36251,Petrol,Manual,₹7.03 Lakh,Ahmedabad
+2020,Maruti,Baleno ZETA PETROL 1.2,71127,Petrol,Manual,₹6.42 Lakh,Ahmedabad
+2018,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,46689,Petrol,Automatic,₹5.05 Lakh,Ahmedabad
+2014,Maruti,Wagon R 1.0 LXI,115256,CNG,Manual,₹3.27 Lakh,Ahmedabad
+2019,Maruti,Baleno DELTA PETROL 1.2,19224,Petrol,Manual,₹5.90 Lakh,Ahmedabad
+2017,Maruti,Baleno ALPHA PETROL 1.2,99026,Petrol,Manual,₹5.14 Lakh,Ahmedabad
+2018,Maruti,Baleno ZETA CVT PETROL 1.2,64827,Petrol,Automatic,₹6.08 Lakh,Ahmedabad
+2023,KIA,SELTOS GTX PLUS DCT 1.4 PETROL,6495,Petrol,Automatic,₹17.23 Lakh,Ahmedabad
+2022,Mahindra,XUV300 W8 (O) 1.5 DIESEL AMT,15946,Diesel,Automatic,₹12.38 Lakh,Ahmedabad
+2020,MG,HECTOR SHARP 1.5 DCT PETROL,15266,Petrol,Automatic,₹14.64 Lakh,Ahmedabad
+2022,Hyundai,NEW SANTRO MAGNA,5485,Petrol,Manual,₹5.17 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,112367,Petrol,Manual,₹4.28 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,56581,Petrol,Manual,₹4.05 Lakh,Ahmedabad
+2020,Maruti,Baleno ZETA PETROL 1.2,58346,Petrol,Manual,₹6.39 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,11595,Petrol,Manual,₹6.57 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,23479,Petrol,Manual,₹6.59 Lakh,Ahmedabad
+2021,Maruti,Baleno ZETA CVT PETROL 1.2,31625,Petrol,Automatic,₹7.79 Lakh,Ahmedabad
+2019,Maruti,Alto LXI,57555,Petrol,Manual,₹3.20 Lakh,Ahmedabad
+2019,KIA,SELTOS HTX PLUS 1.5 DIESEL,80499,Diesel,Manual,₹11.77 Lakh,Ahmedabad
+2017,Maruti,Baleno ALPHA PETROL 1.2,75059,Petrol,Manual,₹5.52 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,89460,Petrol,Manual,₹4.07 Lakh,Ahmedabad
+2022,Maruti,Baleno ZETA PETROL 1.2,12276,Petrol,Manual,₹7.63 Lakh,Ahmedabad
+2020,Maruti,Baleno DELTA PETROL 1.2,54733,Petrol,Manual,₹5.99 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,91275,CNG,Manual,₹5.19 Lakh,Ahmedabad
+2022,Tata,PUNCH ACCOMPLISHED MT,25659,Petrol,Manual,₹6.91 Lakh,Ahmedabad
+2012,Hyundai,i20 MAGNA (O) 1.2,70251,CNG,Manual,₹2.73 Lakh,Ahmedabad
+2020,Volkswagen,Polo COMFORTLINE 1.0L MPI,54292,Petrol,Manual,₹5.77 Lakh,Ahmedabad
+2021,Hyundai,Creta S 1.5 PETROL,14066,Petrol,Manual,₹12.19 Lakh,Ahmedabad
+2022,Hyundai,Creta SX 1.5 PETROL,43583,Petrol,Manual,₹12.77 Lakh,Ahmedabad
+2018,Maruti,Ertiga ZDI + SHVS,23534,Diesel,Manual,₹9.19 Lakh,Ahmedabad
+2020,Maruti,S PRESSO VXI,2974,Petrol,Manual,₹4.08 Lakh,Ahmedabad
+2017,Ford,Ecosport TITANIUM 1.5L PETROL,78036,Petrol,Manual,₹5.90 Lakh,Ahmedabad
+2018,Hyundai,Eon ERA +,24181,Petrol,Manual,₹3.20 Lakh,Ahmedabad
+2021,Maruti,S PRESSO VXI+,63516,Petrol,Manual,₹4.17 Lakh,Ahmedabad
+2022,Tata,PUNCH CREATIVE 1.2 AMT KAZIRANGA EDITION,15212,Petrol,Automatic,₹8.32 Lakh,Ahmedabad
+2017,Datsun,Redi Go T (O),50790,Petrol,Manual,₹2.03 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,38303,Petrol,Manual,₹6.47 Lakh,Ahmedabad
+2015,Hyundai,Creta SX PLUS 1.6 PETROL,68592,Petrol,Manual,₹6.84 Lakh,Ahmedabad
+2022,Tata,NEXON XZ PLUS PETROL DARK EDITION,20477,Petrol,Manual,₹8.47 Lakh,Ahmedabad
+2017,Hyundai,Elite i20 SPORTZ 1.2,87998,Petrol,Manual,₹5.21 Lakh,Ahmedabad
+2017,Maruti,Dzire VDI,60592,Diesel,Manual,₹5.70 Lakh,Ahmedabad
+2021,Nissan,MAGNITE XV MT,12811,Petrol,Manual,₹6.31 Lakh,Ahmedabad
+2020,Maruti,Vitara Brezza ZXI PLUS,23702,Petrol,Manual,₹8.11 Lakh,Ahmedabad
+2017,Renault,Kwid CLIMBER 1.0 AMT,33755,Petrol,Automatic,₹3.08 Lakh,Ahmedabad
+2018,Datsun,Redi Go GOLD LIMITED EDITION,47866,Petrol,Manual,₹2.23 Lakh,Ahmedabad
+2023,Mahindra,Bolero B6,14923,Diesel,Manual,₹10.07 Lakh,Ahmedabad
+2012,Hyundai,i20 MAGNA (O) 1.2,76410,Petrol,Manual,₹3.06 Lakh,Ahmedabad
+2021,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,39064,Petrol,Manual,₹5.66 Lakh,Ahmedabad
+2023,Tata,Tiago XT CNG,11522,CNG,Manual,₹6.85 Lakh,Ahmedabad
+2018,Tata,TIGOR XZ PLUS PETROL,67027,Petrol,Manual,₹4.94 Lakh,Ahmedabad
+2014,Maruti,Swift Dzire VDI,44728,Diesel,Manual,₹4.64 Lakh,Ahmedabad
+2022,Tata,ALTROZ XZA PLUS,17069,Petrol,Automatic,₹7.67 Lakh,Ahmedabad
+2021,Hyundai,VENUE SX 1.0 TURBO,37550,Petrol,Manual,₹8.93 Lakh,Ahmedabad
+2016,Hyundai,Eon ERA +,47883,Petrol,Manual,₹2.65 Lakh,Ahmedabad
+2022,Maruti,Alto LXI OPT CNG,21422,CNG,Manual,₹4.57 Lakh,Ahmedabad
+2021,Tata,Tiago XT PETROL,11786,Petrol,Manual,₹5.34 Lakh,Ahmedabad
+2021,Hyundai,NEW I20 Asta 1.0 GDI Turbo IMT,26101,Petrol,Manual,₹7.86 Lakh,Ahmedabad
+2018,Honda,Amaze 1.2L I-VTEC S,70213,CNG,Manual,₹5.56 Lakh,Ahmedabad
+2021,Hyundai,VENUE SX 1.0 TURBO,5896,Petrol,Manual,₹8.68 Lakh,Ahmedabad
+2022,Tata,Safari XT PLUS,39984,Diesel,Manual,₹16.40 Lakh,Ahmedabad
+2015,Maruti,Ertiga VDI,96118,Diesel,Manual,₹6.18 Lakh,Ahmedabad
+2016,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,99821,CNG,Manual,₹3.82 Lakh,Ahmedabad
+2020,Ford,Ecosport TITANIUM + 1.5L PETROL,22046,Petrol,Manual,₹8.31 Lakh,Ahmedabad
+2019,Honda,City 1.5L I-VTEC ZX,20884,Petrol,Manual,₹9.13 Lakh,Ahmedabad
+2012,Hyundai,i10 MAGNA 1.2,28885,Petrol,Manual,₹2.65 Lakh,Ahmedabad
+2020,Maruti,S PRESSO VXI+,26931,Petrol,Manual,₹3.95 Lakh,Ahmedabad
+2012,Honda,Brio S MT,98836,CNG,Manual,₹2.30 Lakh,Ahmedabad
+2017,Maruti,Dzire VXI AMT,21576,Petrol,Automatic,₹5.62 Lakh,Ahmedabad
+2019,Hyundai,NEW SANTRO SPORTZ MT,66915,CNG,Manual,₹4.48 Lakh,Ahmedabad
+2020,Tata,Tiago XZA PLUS PETROL,32586,Petrol,Automatic,₹5.76 Lakh,Ahmedabad
+2022,Mahindra,XUV700 AX 5 P AT 5 STR,6492,Petrol,Automatic,₹18.39 Lakh,Ahmedabad
+2019,Hyundai,New Elantra 2.0 SX AT PETROL,37705,Petrol,Automatic,₹11.10 Lakh,Ahmedabad
+2018,Maruti,Baleno ZETA PETROL 1.2,50480,Petrol,Manual,₹5.32 Lakh,Ahmedabad
+2022,Tata,NEXON XZ PLUS (HS) PETROL,17501,Petrol,Manual,₹9.45 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,69295,Petrol,Automatic,₹4.53 Lakh,Ahmedabad
+2018,Maruti,Baleno ALPHA PETROL 1.2,72942,Petrol,Manual,₹5.48 Lakh,Ahmedabad
+2019,Maruti,Alto VXI,51627,Petrol,Manual,₹3.31 Lakh,Ahmedabad
+2019,Renault,TRIBER RXZ,53484,Petrol,Manual,₹5.23 Lakh,Ahmedabad
+2021,Mahindra,Thar LX PETROL HT 4WD AT,46448,Petrol,Automatic,₹12.67 Lakh,Ahmedabad
+2021,Maruti,Alto LXI,54840,Petrol,Manual,₹3.50 Lakh,Ahmedabad
+2014,Honda,Brio S MT,34445,Petrol,Manual,₹3.65 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,41707,Petrol,Manual,₹3.93 Lakh,Ahmedabad
+2023,Tata,PUNCH CREATIVE MT,4148,Petrol,Manual,₹7.89 Lakh,Ahmedabad
+2013,Hyundai,i20 MAGNA (O) 1.2,96053,Petrol,Manual,₹3.49 Lakh,Ahmedabad
+2018,Maruti,Wagon R 1.0 VXI,30552,Petrol,Manual,₹3.80 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,53031,CNG,Manual,₹5.29 Lakh,Ahmedabad
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,90859,Petrol,Manual,₹4.46 Lakh,Ahmedabad
+2021,Tata,Tiago XZA PLUS PETROL,13321,Petrol,Automatic,₹6.34 Lakh,Ahmedabad
+2022,Tata,Safari XZA PLUS DARK EDITION,49312,Diesel,Automatic,₹18.71 Lakh,Ahmedabad
+2016,Maruti,Baleno DELTA PETROL 1.2,71982,Petrol,Manual,₹4.69 Lakh,Ahmedabad
+2015,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,39630,Petrol,Manual,₹4.28 Lakh,Ahmedabad
+2021,Maruti,Alto LXI,33626,Petrol,Manual,₹3.64 Lakh,Ahmedabad
+2023,KIA,SONET HTX 1.5 AT,11180,Diesel,Automatic,₹12.22 Lakh,Ahmedabad
+2021,Tata,ALTROZ XZ DIESEL,29327,Diesel,Manual,₹8.43 Lakh,Ahmedabad
+2021,Maruti,Baleno DELTA PETROL 1.2,54752,Petrol,Manual,₹6.22 Lakh,Ahmedabad
+2015,Hyundai,Elite i20 MAGNA 1.2,63112,Petrol,Manual,₹5.08 Lakh,Ahmedabad
+2012,Maruti,Swift VDI,96649,Diesel,Manual,₹3.39 Lakh,Ahmedabad
+2021,Tata,NEXON XZ DIESEL,57004,Diesel,Manual,₹9.80 Lakh,Ahmedabad
+2017,Maruti,Eeco 5 STR WITH A/C+HTR,93158,CNG,Manual,₹4.22 Lakh,Ahmedabad
+2016,Hyundai,Xcent SX 1.2,46296,Petrol,Manual,₹3.64 Lakh,Ahmedabad
+2019,Tata,Tiago XZA PETROL,36293,Petrol,Automatic,₹4.82 Lakh,Ahmedabad
+2021,Maruti,Swift VXI,44299,Petrol,Manual,₹6.41 Lakh,Ahmedabad
+2018,Tata,TIGOR XZ PETROL,68548,CNG,Manual,₹4.87 Lakh,Ahmedabad
+2022,Maruti,New Wagon-R ZXI 1.2,6507,Petrol,Manual,₹5.52 Lakh,Ahmedabad
+2021,Maruti,Alto LXI,5546,Petrol,Manual,₹3.61 Lakh,Ahmedabad
+2020,Maruti,New Wagon-R LXI CNG 1.0,29795,CNG,Manual,₹5.64 Lakh,Ahmedabad
+2016,Volkswagen,Polo HIGHLINE1.2L,52043,Petrol,Manual,₹4.63 Lakh,Ahmedabad
+2018,Hyundai,Elite i20 ASTA 1.2,96316,Petrol,Manual,₹5.58 Lakh,Ahmedabad
+2019,Mahindra,XUV300 W4 1.5 DIESEL,68545,Diesel,Manual,₹6.86 Lakh,Ahmedabad
+2016,Hyundai,Creta SX PLUS 1.6 PETROL,14025,Petrol,Manual,₹7.87 Lakh,Ahmedabad
+2015,Volkswagen,Polo GT TSI AT,92159,Petrol,Automatic,₹4.83 Lakh,Ahmedabad
+2017,Hyundai,Elite i20 ASTA 1.4 CRDI (O),88247,Diesel,Manual,₹6.52 Lakh,Ahmedabad
+2021,Hyundai,Creta SX (O) AT 1.5 DIESEL,50859,Diesel,Automatic,₹15.44 Lakh,Ahmedabad
+2016,Maruti,Swift VXI,55170,Petrol,Manual,₹4.48 Lakh,Ahmedabad
+2020,Mahindra,XUV500 W7,32491,Diesel,Manual,₹11.34 Lakh,Ahmedabad
+2021,Maruti,Dzire VXI,25625,Petrol,Manual,₹6.20 Lakh,Ahmedabad
+2021,MG,HECTOR SHARP 2.0 DIESEL,94595,Diesel,Manual,₹13.81 Lakh,Ahmedabad
+2023,Maruti,New Wagon-R VXI 1.0 AMT,2090,Petrol,Automatic,₹6.23 Lakh,Ahmedabad
+2019,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,44726,CNG,Manual,₹5.15 Lakh,Ahmedabad
+2020,Hyundai,NEW I20 ASTA 1.2 MT,68925,Petrol,Manual,₹7.02 Lakh,Ahmedabad
+2017,Maruti,Dzire VDI,72753,Diesel,Manual,₹6.16 Lakh,Ahmedabad
+2017,Maruti,Alto 800 LXI,76676,Petrol,Manual,₹2.74 Lakh,Ahmedabad
+2021,Tata,Harrier XZA PLUS 2.0L,47873,Diesel,Automatic,₹15.92 Lakh,Ahmedabad
+2018,Maruti,IGNIS DELTA 1.2,120953,CNG,Manual,₹4.21 Lakh,Ahmedabad
+2021,Renault,TRIBER RXT,42589,Petrol,Manual,₹5.76 Lakh,Ahmedabad
+2022,Maruti,IGNIS DELTA 1.2,26553,Petrol,Manual,₹5.44 Lakh,Ahmedabad
+2017,Maruti,Baleno ALPHA PETROL 1.2,76121,Petrol,Manual,₹5.73 Lakh,Ahmedabad
+2022,Maruti,Baleno ALPHA 1.2 AGS,8368,Petrol,Automatic,₹8.61 Lakh,Ahmedabad
+2017,Volkswagen,Polo HIGHLINE1.2L,30862,Petrol,Manual,₹4.99 Lakh,Ahmedabad
+2020,Tata,NEXON XM PETROL,14426,Petrol,Manual,₹6.90 Lakh,Ahmedabad
+2014,Hyundai,Elite i20 ASTA 1.2,86390,Petrol,Manual,₹4.55 Lakh,Ahmedabad
+2014,Maruti,Swift VXI,95421,Petrol,Manual,₹3.72 Lakh,Ahmedabad
+2019,Honda,Amaze 1.2L I-VTEC E,53036,Petrol,Manual,₹5.33 Lakh,Ahmedabad
+2018,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,51338,Petrol,Manual,₹6.41 Lakh,Ahmedabad
+2018,Renault,Duster RXS CVT,40107,Petrol,Automatic,₹5.87 Lakh,Ahmedabad
+2022,Tata,TIGOR XM CNG,23966,CNG,Manual,₹6.77 Lakh,Ahmedabad
+2021,Mahindra,Thar LX D 4*4 MT HT,52145,Diesel,Manual,₹11.75 Lakh,Ahmedabad
+2018,Maruti,Alto K10 VXI,24914,Petrol,Manual,₹3.18 Lakh,Ahmedabad
+2020,Maruti,Baleno DELTA PETROL 1.2,40205,Petrol,Manual,₹6.23 Lakh,Ahmedabad
+2022,Volkswagen,Vento HIGHLINE PLUS 1.0L TSI AT,23943,Petrol,Automatic,₹10.72 Lakh,Ahmedabad
+2019,Datsun,Redi Go T (O),20851,Petrol,Manual,₹2.46 Lakh,Ahmedabad
+2013,Honda,City 1.5L I-VTEC S MT,85713,CNG,Manual,₹3.97 Lakh,Ahmedabad
+2020,Tata,ALTROZ XT PETROL,57353,Petrol,Manual,₹6.02 Lakh,Ahmedabad
+2019,Maruti,Alto LXI,64745,Petrol,Manual,₹3.13 Lakh,Ahmedabad
+2019,Tata,NEXON XZ PLUS PETROL,44565,Petrol,Manual,₹7.62 Lakh,Ahmedabad
+2017,Honda,WR-V 1.2L I-VTEC VX MT,39909,Petrol,Manual,₹6.89 Lakh,Ahmedabad
+2021,Hyundai,Creta SX IVT 1.5 PETROL,44617,Petrol,Automatic,₹13.82 Lakh,Ahmedabad
+2017,Hyundai,Eon ERA +,74468,Petrol,Manual,₹2.73 Lakh,Ahmedabad
+2023,Mahindra,XUV300 W8 1.5 DIESEL,2634,Diesel,Manual,₹11.39 Lakh,Ahmedabad
+2017,Hyundai,Creta SX PLUS AT 1.6 PETROL,98493,Petrol,Automatic,₹9.54 Lakh,Bangalore
+2018,Renault,Kwid 1.0 MARVEL IRON MAN EDITION AMT,19178,Petrol,Automatic,₹4.07 Lakh,Bangalore
+2017,Nissan,Micra XV CVT,35474,Petrol,Automatic,₹5.28 Lakh,Bangalore
+2017,Hyundai,Eon ERA PLUS (O),33963,Petrol,Manual,₹3.81 Lakh,Bangalore
+2012,Maruti,Swift VXI,64557,Petrol,Manual,₹4.63 Lakh,Bangalore
+2019,Hyundai,Creta SX 1.6 DIESEL,43987,Diesel,Manual,₹11.52 Lakh,Bangalore
+2023,Renault,Kwid CLIMBER AMT 1.0,3996,Petrol,Automatic,₹6.31 Lakh,Bangalore
+2017,Maruti,IGNIS ZETA 1.2,47285,Petrol,Manual,₹4.66 Lakh,Bangalore
+2017,Maruti,IGNIS ZETA 1.2 AMT,22456,Petrol,Automatic,₹6.12 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO MAGNA,33609,Petrol,Manual,₹4.29 Lakh,Bangalore
+2016,Maruti,Alto K10 VXI,65484,Petrol,Manual,₹3.18 Lakh,Bangalore
+2016,Maruti,Celerio VXI,29309,Petrol,Manual,₹4.16 Lakh,Bangalore
+2014,Maruti,Alto K10 VXI,49599,Petrol,Manual,₹3.00 Lakh,Bangalore
+2012,Maruti,Alto K10 VXI,71979,Petrol,Manual,₹2.54 Lakh,Bangalore
+2021,Hyundai,NEW I20 ASTA 1.0 TURBO IMT DUAL TONE,26797,Petrol,Manual,₹10.21 Lakh,Bangalore
+2021,Renault,Kwid RXT 1.0 AMT (O),14078,Petrol,Automatic,₹5.15 Lakh,Bangalore
+2022,Maruti,Grand Vitara ALPHA SMART HYBRID ALLGRIP,14358,Petrol,Manual,₹16.16 Lakh,Bangalore
+2018,Renault,Kwid RXT 1.0 (O),48905,Petrol,Manual,₹3.46 Lakh,Bangalore
+2023,Tata,PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,7511,Petrol,Automatic,₹9.64 Lakh,Bangalore
+2017,Renault,Kwid CLIMBER 1.0 AMT,89552,Petrol,Automatic,₹3.20 Lakh,Bangalore
+2019,Mahindra,XUV300 W6 1.2 PETROL,42731,Petrol,Manual,₹7.64 Lakh,Bangalore
+2022,KIA,CARENS PREMIUM 1.4 PETROL 7 STR,41209,Petrol,Manual,₹10.96 Lakh,Bangalore
+2013,Maruti,Swift VDI,96413,Diesel,Manual,₹4.44 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,43448,Petrol,Automatic,₹11.28 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS AT 1.6 PETROL,97183,Petrol,Automatic,₹8.73 Lakh,Bangalore
+2023,Toyota,Glanza V AMT,7757,Petrol,Automatic,₹10.72 Lakh,Bangalore
+2018,Renault,Duster 85 PS RXS MT DIESEL,29137,Diesel,Manual,₹9.06 Lakh,Bangalore
+2012,Hyundai,i20 SPORTZ 1.2,99928,Petrol,Manual,₹4.06 Lakh,Bangalore
+2020,Tata,NEXON XZA PLUS (O) PETROL,38575,Petrol,Automatic,₹10.38 Lakh,Bangalore
+2022,Maruti,Baleno DELTA 1.2 AGS,43431,Petrol,Automatic,₹7.39 Lakh,Bangalore
+2021,Hyundai,Verna SX (O) 1.5 VTVT IVT,26940,Petrol,Automatic,₹13.32 Lakh,Bangalore
+2018,Hyundai,Creta SX PLUS AT 1.6 PETROL,66956,Petrol,Automatic,₹9.42 Lakh,Bangalore
+2021,Renault,Kwid CLIMBER 1.0 (O),15159,Petrol,Manual,₹4.78 Lakh,Bangalore
+2021,Renault,TRIBER RXL MT,14852,Petrol,Manual,₹6.30 Lakh,Bangalore
+2021,Renault,Kwid CLIMBER 1.0 AMT (O),29584,Petrol,Automatic,₹5.56 Lakh,Bangalore
+2018,Honda,BR-V 1.5L I-VTEC V,37010,Petrol,Manual,₹8.02 Lakh,Bangalore
+2020,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,70110,Petrol,Automatic,₹8.59 Lakh,Bangalore
+2018,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,91312,Petrol,Manual,₹5.18 Lakh,Bangalore
+2013,Ford,Ecosport TITANIUM 1.5L DIESEL,74790,Diesel,Manual,₹5.67 Lakh,Bangalore
+2019,Mahindra,XUV300 W8 (O) 1.5 DIESEL,35712,Diesel,Manual,₹10.59 Lakh,Bangalore
+2022,KIA,SELTOS HTK 1.5 PETROL,9536,Petrol,Manual,₹12.09 Lakh,Bangalore
+2016,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,63572,Petrol,Manual,₹4.49 Lakh,Bangalore
+2020,Maruti,S PRESSO VXI+,36650,Petrol,Manual,₹4.33 Lakh,Bangalore
+2013,Nissan,Terrano XL (P),101262,Petrol,Manual,₹4.51 Lakh,Bangalore
+2021,Renault,Kwid RXT 1.0 AMT (O),31053,Petrol,Automatic,₹5.00 Lakh,Bangalore
+2016,Maruti,Swift VXI,69995,Petrol,Manual,₹5.70 Lakh,Bangalore
+2012,Maruti,Swift VDI,96264,Diesel,Manual,₹4.14 Lakh,Bangalore
+2017,Renault,Kwid RXL 1.0,30823,Petrol,Manual,₹3.57 Lakh,Bangalore
+2022,Tata,NEXON XZA PLUS PETROL,31940,Petrol,Automatic,₹10.38 Lakh,Bangalore
+2022,Renault,Kwid CLIMBER MT 1.0,16120,Petrol,Manual,₹5.53 Lakh,Bangalore
+2022,KIA,CARENS LUXURY PLUS 1.4 PETROL 7 STR,20581,Petrol,Manual,₹16.68 Lakh,Bangalore
+2022,KIA,CARENS LUXURY PLUS 1.4 PETROL 6 STR,20460,Petrol,Manual,₹15.49 Lakh,Bangalore
+2017,Maruti,Baleno ALPHA PETROL 1.2,81548,Petrol,Manual,₹6.33 Lakh,Bangalore
+2012,Maruti,Ertiga VDI,113536,Diesel,Manual,₹6.55 Lakh,Bangalore
+2020,Hyundai,NEW I20 Asta 1.0 GDI Turbo IMT,22995,Petrol,Manual,₹8.95 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 (O),45725,Petrol,Manual,₹4.33 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,51652,Petrol,Automatic,₹12.11 Lakh,Bangalore
+2019,Honda,City 1.5L I-VTEC ZX CVT,30264,Petrol,Automatic,₹11.68 Lakh,Bangalore
+2016,Volkswagen,Ameo HIGHLINE1.2L,97869,Petrol,Manual,₹4.75 Lakh,Bangalore
+2014,Maruti,Ritz VXI,73631,Petrol,Manual,₹3.76 Lakh,Bangalore
+2019,Maruti,Dzire VXI,58029,Petrol,Manual,₹6.75 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,53919,Petrol,Manual,₹3.78 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO SPORTZ MT,43454,Petrol,Manual,₹4.75 Lakh,Bangalore
+2013,Skoda,Rapid ELEGANCE 1.6 MPI MT,67426,Petrol,Manual,₹4.91 Lakh,Bangalore
+2018,Maruti,Dzire VXI,19437,Petrol,Manual,₹6.99 Lakh,Bangalore
+2015,Hyundai,Elite i20 ASTA 1.2,69680,Petrol,Manual,₹5.52 Lakh,Bangalore
+2022,Tata,NEXON XZ PLUS (PREMIUM) PETROL JET,30058,Petrol,Manual,₹11.94 Lakh,Bangalore
+2019,Mahindra,XUV300 W8(O) 1.2 PETROL DUAL TONE,41165,Petrol,Manual,₹9.83 Lakh,Bangalore
+2018,Honda,Amaze 1.2L I-VTEC VX,86555,Petrol,Manual,₹6.26 Lakh,Bangalore
+2020,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,44980,Petrol,Automatic,₹8.77 Lakh,Bangalore
+2016,Maruti,Alto K10 VXI (O),19613,Petrol,Manual,₹3.65 Lakh,Bangalore
+2020,Maruti,New Wagon-R VXI (O) 1.2,15178,Petrol,Manual,₹5.81 Lakh,Bangalore
+2011,Maruti,Swift VXI,104553,Petrol,Manual,₹3.58 Lakh,Bangalore
+2023,KIA,SONET HTK PLUS 1.2 PETROL MT,21630,Petrol,Manual,₹8.90 Lakh,Bangalore
+2014,Maruti,OMNI E STD,64243,Petrol,Manual,₹2.73 Lakh,Bangalore
+2018,Maruti,Celerio ZXI AMT (O),95626,Petrol,Automatic,₹4.16 Lakh,Bangalore
+2021,Tata,ALTROZ XE PETROL,20428,Petrol,Manual,₹6.13 Lakh,Bangalore
+2012,Maruti,Omni 5 STR,37089,Petrol,Manual,₹2.44 Lakh,Bangalore
+2016,Datsun,Redi Go SPORT,79233,Petrol,Manual,₹2.40 Lakh,Bangalore
+2023,Tata,PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,1848,Petrol,Automatic,₹9.54 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI AT,87285,Petrol,Automatic,₹6.13 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,70208,Petrol,Manual,₹3.78 Lakh,Bangalore
+2021,Tata,ALTROZ XE PETROL,31073,Petrol,Manual,₹6.31 Lakh,Bangalore
+2020,Renault,TRIBER RXZ AMT,19907,Petrol,Automatic,₹7.05 Lakh,Bangalore
+2021,Datsun,Redi Go T(O) 1.0,15513,Petrol,Manual,₹3.97 Lakh,Bangalore
+2022,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,16247,CNG,Manual,₹7.86 Lakh,Bangalore
+2019,KIA,SELTOS HTX 1.5 PETROL,51695,Petrol,Manual,₹11.43 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,39182,Petrol,Manual,₹3.72 Lakh,Bangalore
+2021,Tata,Harrier XM 2.0L KRYOTEC,46225,Diesel,Manual,₹13.75 Lakh,Bangalore
+2020,Honda,Jazz 1.2L I-VTEC ZX,62299,Petrol,Manual,₹7.90 Lakh,Bangalore
+2013,Hyundai,Verna FLUIDIC 1.6 CRDI SX,46332,Diesel,Manual,₹5.36 Lakh,Bangalore
+2016,Maruti,S Cross ZETA 1.3,78922,Diesel,Manual,₹7.21 Lakh,Bangalore
+2014,Nissan,Micra Active XV,51391,Petrol,Manual,₹3.18 Lakh,Bangalore
+2012,Honda,Jazz 1.2L I-VTEC X,32864,Petrol,Manual,₹3.82 Lakh,Bangalore
+2015,Volkswagen,Polo GT TSI AT,105518,Petrol,Automatic,₹6.26 Lakh,Bangalore
+2023,Maruti,Swift VXI,9075,Petrol,Manual,₹7.61 Lakh,Bangalore
+2015,Hyundai,Elite i20 ASTA 1.2,88718,Petrol,Manual,₹4.93 Lakh,Bangalore
+2018,Nissan,Micra XV CVT,24353,Petrol,Automatic,₹4.65 Lakh,Bangalore
+2022,Hyundai,GRAND I10 NIOS SPORTZ 1.0 TURBO GDI,17693,Petrol,Manual,₹6.98 Lakh,Bangalore
+2018,Honda,Amaze 1.2L I-VTEC S,54566,Petrol,Manual,₹5.50 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO SPORTZ MT,33811,Petrol,Manual,₹5.33 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,86034,Petrol,Manual,₹3.59 Lakh,Bangalore
+2019,Hyundai,VENUE SX 1.0 TURBO,69173,Petrol,Manual,₹7.96 Lakh,Bangalore
+2022,Maruti,Ertiga ZXI AT SHVS,29126,Petrol,Automatic,₹12.54 Lakh,Bangalore
+2014,Toyota,Fortuner 3.0 4X2 AT,108796,Diesel,Automatic,₹16.09 Lakh,Bangalore
+2014,Renault,Duster 85 PS RXL DIESEL,80922,Diesel,Manual,₹6.01 Lakh,Bangalore
+2016,Volkswagen,Polo GT TSI AT,67884,Petrol,Automatic,₹7.13 Lakh,Bangalore
+2016,Maruti,Celerio VXI (O),36837,Petrol,Manual,₹4.12 Lakh,Bangalore
+2019,Volkswagen,Polo COMFORTLINE 1.0L MPI,18966,Petrol,Manual,₹5.94 Lakh,Bangalore
+2021,Maruti,New Wagon-R LXI 1.0,42481,Petrol,Manual,₹5.40 Lakh,Bangalore
+2017,Renault,Kwid RXL 1.0,62303,Petrol,Manual,₹3.11 Lakh,Bangalore
+2019,Toyota,YARIS G MT,42324,Petrol,Manual,₹8.70 Lakh,Bangalore
+2018,Tata,TIGOR XZA PETROL,70793,Petrol,Automatic,₹5.20 Lakh,Bangalore
+2022,Hyundai,Creta EX 1.5 PETROL,15137,Petrol,Manual,₹11.70 Lakh,Bangalore
+2013,Hyundai,i10 SPORTZ 1.2,34376,Petrol,Manual,₹3.11 Lakh,Bangalore
+2016,Maruti,Alto K10 VXI (O) AMT,30851,Petrol,Automatic,₹3.69 Lakh,Bangalore
+2021,Mahindra,XUV300 W6 1.2 PETROL AMT,7931,Petrol,Automatic,₹10.43 Lakh,Bangalore
+2016,Volkswagen,Polo GT TSI AT,87457,Petrol,Automatic,₹6.98 Lakh,Bangalore
+2018,Renault,Kwid RXL,45146,Petrol,Manual,₹2.95 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,67557,Petrol,Manual,₹4.29 Lakh,Bangalore
+2016,Renault,Kwid RXT 0.8 (O),37599,Petrol,Manual,₹2.97 Lakh,Bangalore
+2010,Volkswagen,Vento TRENDLINE 1.6,71366,Petrol,Manual,₹3.06 Lakh,Bangalore
+2011,Hyundai,i20 MAGNA 1.2,89386,Petrol,Manual,₹2.58 Lakh,Bangalore
+2022,Tata,PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,26123,Petrol,Automatic,₹8.56 Lakh,Bangalore
+2021,Nissan,MAGNITE XV DUAL TONE,9840,Petrol,Manual,₹7.83 Lakh,Bangalore
+2022,Tata,Safari XZA PLUS DARK EDITION,15681,Diesel,Automatic,₹22.47 Lakh,Bangalore
+2021,Maruti,S PRESSO LXI,35273,Petrol,Manual,₹3.68 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC SV CVT,37511,Petrol,Automatic,₹5.96 Lakh,Bangalore
+2019,Honda,Jazz 1.2L I-VTEC V,20269,Petrol,Manual,₹6.20 Lakh,Bangalore
+2018,Ford,FREESTYLE TITANIUM 1.2 PETROL,50067,Petrol,Manual,₹5.76 Lakh,Bangalore
+2022,Hyundai,GRAND I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,40038,Petrol,Manual,₹5.96 Lakh,Bangalore
+2023,Volkswagen,VIRTUS TOPLINE TSI 1.0 AT,13967,Petrol,Automatic,₹16.70 Lakh,Bangalore
+2019,Honda,Civic 1.8L I-VTEC ZX CVT,20315,Petrol,Automatic,₹19.18 Lakh,Bangalore
+2019,Hyundai,New Elantra 2.0 SX(O) AT PETROL,14129,Petrol,Automatic,₹15.34 Lakh,Bangalore
+2017,Honda,WR-V 1.2L I-VTEC VX MT,46533,Petrol,Manual,₹7.00 Lakh,Bangalore
+2010,Maruti,A Star LXI,103867,Petrol,Manual,₹2.03 Lakh,Bangalore
+2020,MG,HECTOR SHARP HYBRID 1.5 PETROL,39915,Petrol,Manual,₹14.93 Lakh,Bangalore
+2019,MG,HECTOR SHARP 2.0 DIESEL,49559,Diesel,Manual,₹14.47 Lakh,Bangalore
+2016,Volkswagen,Vento HIGHLINE 1.6 MPI,115178,Petrol,Manual,₹4.92 Lakh,Bangalore
+2016,Maruti,Swift Dzire ZXI,86301,Petrol,Manual,₹5.64 Lakh,Bangalore
+2017,Tata,Tiago XT PETROL,45575,Petrol,Manual,₹4.50 Lakh,Bangalore
+2017,Maruti,Vitara Brezza VDI (O),109407,Diesel,Manual,₹7.21 Lakh,Bangalore
+2017,Maruti,Dzire ZDI PLUS,121318,Diesel,Manual,₹6.46 Lakh,Bangalore
+2019,Maruti,New Wagon-R VXI (O) 1.2 AMT,16796,Petrol,Automatic,₹5.61 Lakh,Bangalore
+2012,Hyundai,i20 SPORTZ 1.2,64048,Petrol,Manual,₹3.49 Lakh,Bangalore
+2018,Datsun,Redi Go T(O) 1.0L LIMITED EDITION,62637,Petrol,Manual,₹2.62 Lakh,Bangalore
+2011,Maruti,Swift VXI,86282,Petrol,Manual,₹3.22 Lakh,Bangalore
+2014,Honda,City 1.5L I-VTEC SV,120786,Petrol,Manual,₹4.60 Lakh,Bangalore
+2023,Tata,PUNCH CREATIVE iRA PACK MT,14518,Petrol,Manual,₹9.32 Lakh,Bangalore
+2019,Honda,Civic 1.8L I-VTEC ZX CVT,32601,Petrol,Automatic,₹17.96 Lakh,Bangalore
+2023,Mahindra,BOLERO NEO N 8,17862,Diesel,Manual,₹10.62 Lakh,Bangalore
+2016,Hyundai,Creta E PLUS 1.6 PETROL,54309,Petrol,Manual,₹8.20 Lakh,Bangalore
+2017,Maruti,IGNIS DELTA 1.2,56427,Petrol,Manual,₹4.66 Lakh,Bangalore
+2019,Renault,Duster RXS CVT,67575,Petrol,Automatic,₹7.07 Lakh,Bangalore
+2014,Volkswagen,Polo COMFORTLINE 1.2L,90678,Diesel,Manual,₹4.03 Lakh,Bangalore
+2012,Hyundai,Verna FLUIDIC 1.6 VTVT SX,88309,Petrol,Manual,₹4.36 Lakh,Bangalore
+2020,Hyundai,AURA SX 1.2,21521,Petrol,Manual,₹6.55 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,43237,Petrol,Manual,₹4.92 Lakh,Bangalore
+2015,Hyundai,i10 MAGNA 1.1,65097,Petrol,Manual,₹3.41 Lakh,Bangalore
+2014,Honda,Brio VX AT,93107,Petrol,Automatic,₹3.83 Lakh,Bangalore
+2017,Maruti,IGNIS ZETA 1.2 AMT,95525,Petrol,Automatic,₹4.65 Lakh,Bangalore
+2022,Skoda,KUSHAQ MONTE CARLO 1.5L TSI DSG,18748,Petrol,Automatic,₹17.42 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX,32982,Petrol,Manual,₹8.46 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC VX,52322,Petrol,Manual,₹6.04 Lakh,Bangalore
+2012,Hyundai,i10 SPORTZ 1.2,75384,Petrol,Manual,₹3.12 Lakh,Bangalore
+2022,Tata,ALTROZ XZA PLUS,6161,Petrol,Automatic,₹8.97 Lakh,Bangalore
+2020,Hyundai,NEW SANTRO MAGNA,29027,Petrol,Manual,₹4.51 Lakh,Bangalore
+2018,Maruti,Swift ZXI AMT,44996,Petrol,Automatic,₹6.73 Lakh,Bangalore
+2022,Renault,TRIBER RXT AMT,35860,Petrol,Automatic,₹6.97 Lakh,Bangalore
+2016,Ford,Ecosport TREND 1.5L PETROL,49017,Petrol,Manual,₹5.64 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 AMT (O),23998,Petrol,Automatic,₹5.18 Lakh,Bangalore
+2017,Maruti,Swift VXI,37343,Petrol,Manual,₹5.82 Lakh,Bangalore
+2019,Maruti,Alto 800 LXI,39868,Petrol,Manual,₹3.34 Lakh,Bangalore
+2022,KIA,SELTOS HTK PLUS 1.5,28803,Petrol,Manual,₹12.32 Lakh,Bangalore
+2020,Tata,ALTROZ XZ PETROL,40143,Petrol,Manual,₹6.87 Lakh,Bangalore
+2018,Maruti,Swift ZXI AMT,29716,Petrol,Automatic,₹6.51 Lakh,Bangalore
+2010,Hyundai,Santro Xing GL,79984,Petrol,Manual,₹1.82 Lakh,Bangalore
+2017,Volkswagen,Vento HIGHLINE PETROL AT,38945,Petrol,Automatic,₹7.23 Lakh,Bangalore
+2018,Jeep,Compass SPORT 1.4 PETROL,26635,Petrol,Manual,₹12.33 Lakh,Bangalore
+2021,MG,HECTOR SMART HYBRID 1.5 PETROL,13989,Petrol,Manual,₹16.26 Lakh,Bangalore
+2019,Maruti,Swift ZXI,32730,Petrol,Manual,₹6.40 Lakh,Bangalore
+2021,MG,HECTOR SHARP 2.0 DIESEL DUAL TONE,127904,Diesel,Manual,₹15.07 Lakh,Bangalore
+2020,Renault,Duster RXZ 1.3 TURBO PETROL MT,95849,Petrol,Manual,₹7.44 Lakh,Bangalore
+2023,Mahindra,Bolero B6 (O),12465,Diesel,Manual,₹11.27 Lakh,Bangalore
+2020,Honda,Amaze 1.2L I-VTEC VX,33889,Petrol,Manual,₹6.97 Lakh,Bangalore
+2012,Toyota,Etios Liva GD,123224,Diesel,Manual,₹3.62 Lakh,Bangalore
+2021,Mahindra,Thar LX P 4WD AT CONVERTIBLE,54460,Petrol,Automatic,₹14.12 Lakh,Bangalore
+2017,Renault,Kwid RXT 1.0 AMT,76813,Petrol,Automatic,₹3.35 Lakh,Bangalore
+2021,Mahindra,Thar LX P 4WD AT CONVERTIBLE,52188,Petrol,Automatic,₹14.32 Lakh,Bangalore
+2022,Maruti,Celerio ZXI PLUS,28788,Petrol,Manual,₹5.63 Lakh,Bangalore
+2015,Maruti,Ciaz VXI+,98152,Petrol,Manual,₹5.08 Lakh,Bangalore
+2021,Tata,Tiago XZ PLUS DUAL TONE PETROL,35406,Petrol,Manual,₹6.30 Lakh,Bangalore
+2021,Hyundai,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,31259,Petrol,Automatic,₹6.99 Lakh,Bangalore
+2019,Ford,Ecosport TREND + 1.5L PETROL AT,47130,Petrol,Automatic,₹7.86 Lakh,Bangalore
+2014,Hyundai,Verna FLUIDIC 1.6 VTVT SX,46423,Petrol,Manual,₹5.83 Lakh,Bangalore
+2014,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,44032,Petrol,Automatic,₹4.08 Lakh,Bangalore
+2021,Skoda,Rapid 1.0 AMBITION TSI MT,53234,Petrol,Manual,₹8.31 Lakh,Bangalore
+2016,Hyundai,Creta SX 1.6 DIESEL,58014,Diesel,Manual,₹8.58 Lakh,Bangalore
+2022,MG,ASTOR SHARP 1.3 TURBO AT,7459,Petrol,Automatic,₹15.98 Lakh,Bangalore
+2022,Renault,Kwid RXL 1.0 AMT,36615,Petrol,Automatic,₹4.21 Lakh,Bangalore
+2022,Maruti,New Wagon-R ZXI 1.2 AMT,27743,Petrol,Automatic,₹6.35 Lakh,Bangalore
+2018,Mahindra,XUV500 W7,85256,Diesel,Manual,₹12.06 Lakh,Bangalore
+2017,Maruti,Ciaz DELTA 1.4 MT PETROL,94757,Petrol,Manual,₹5.08 Lakh,Bangalore
+2017,Skoda,Rapid AMBITION 1.6 MPI MT,101424,Petrol,Manual,₹5.79 Lakh,Bangalore
+2020,Maruti,New Wagon-R VXI (O) 1.2,66530,Petrol,Manual,₹5.49 Lakh,Bangalore
+2015,Honda,Jazz 1.2L I-VTEC SV,60512,Petrol,Manual,₹4.46 Lakh,Bangalore
+2016,Maruti,Ertiga VDI SHVS,94438,Diesel,Manual,₹7.84 Lakh,Bangalore
+2012,Honda,City 1.5L I-VTEC V MT,116738,Petrol,Manual,₹3.90 Lakh,Bangalore
+2014,Maruti,Alto 800 VXI,57348,Petrol,Manual,₹2.73 Lakh,Bangalore
+2013,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,87459,Petrol,Manual,₹3.36 Lakh,Bangalore
+2018,Datsun,Redi Go S 1.0 AMT,54687,Petrol,Automatic,₹2.99 Lakh,Bangalore
+2013,Maruti,Swift VDI,93871,Diesel,Manual,₹3.91 Lakh,Bangalore
+2019,Maruti,Baleno ZETA PETROL 1.2,59228,Petrol,Manual,₹6.68 Lakh,Bangalore
+2014,Maruti,Swift Dzire VDI,89284,Diesel,Manual,₹5.72 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,100708,Petrol,Manual,₹3.74 Lakh,Bangalore
+2018,Hyundai,Elite i20 SPORTZ 1.2,77073,Petrol,Manual,₹5.67 Lakh,Bangalore
+2018,Hyundai,Creta SX PLUS 1.6 PETROL,57288,Petrol,Manual,₹9.07 Lakh,Bangalore
+2021,KIA,SELTOS HTK PLUS 1.5 IMT,43811,Petrol,Manual,₹11.16 Lakh,Bangalore
+2019,Honda,Amaze 1.5L I-DTEC V,130578,Diesel,Manual,₹6.61 Lakh,Bangalore
+2021,Hyundai,VENUE SX 1.0 TURBO,25798,Petrol,Manual,₹9.63 Lakh,Bangalore
+2011,Hyundai,Santro Xing GL PLUS,49805,Petrol,Manual,₹2.54 Lakh,Bangalore
+2012,Maruti,Swift Dzire VXI,23960,Petrol,Manual,₹4.60 Lakh,Bangalore
+2021,Mahindra,XUV500 W11(O),28305,Diesel,Manual,₹17.96 Lakh,Bangalore
+2016,Mahindra,XUV500 W10,56575,Diesel,Manual,₹11.18 Lakh,Bangalore
+2014,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,82706,Petrol,Automatic,₹3.88 Lakh,Bangalore
+2012,Hyundai,Verna FLUIDIC 1.6 CRDI SX,123296,Diesel,Manual,₹4.42 Lakh,Bangalore
+2012,Hyundai,i20 SPORTZ 1.4 CRDI,84002,Diesel,Manual,₹3.85 Lakh,Bangalore
+2017,Maruti,Swift ZXI,57560,Petrol,Manual,₹6.26 Lakh,Bangalore
+2017,Tata,Tiago XZA PETROL,94294,Petrol,Automatic,₹4.39 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,28264,Petrol,Automatic,₹11.40 Lakh,Bangalore
+2015,Hyundai,Verna FLUIDIC 4S1.6 VTVT S O AT,32301,Petrol,Automatic,₹6.33 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ U2 1.2 CRDI,39250,Diesel,Manual,₹7.09 Lakh,Bangalore
+2018,Maruti,Swift VXI,26638,Petrol,Manual,₹6.09 Lakh,Bangalore
+2011,Maruti,Wagon R 1.0 VXI,53178,Petrol,Manual,₹2.45 Lakh,Bangalore
+2023,MG,HECTOR SHARP PRO 1.5 TURBO MT PETROL,15940,Petrol,Manual,₹19.47 Lakh,Bangalore
+2020,Volkswagen,Vento HIGHLINE 1.0L TSI AT,20510,Petrol,Automatic,₹10.86 Lakh,Bangalore
+2021,Mahindra,XUV300 W6 1.5 DIESEL,29924,Diesel,Manual,₹9.66 Lakh,Bangalore
+2017,Volkswagen,Ameo HIGHLINE DSG 1.5 DIESEL,66643,Diesel,Automatic,₹5.60 Lakh,Bangalore
+2022,Hyundai,VENUE S 1.2,9802,Petrol,Manual,₹9.05 Lakh,Bangalore
+2017,Maruti,Dzire VXI AMT,48051,Petrol,Automatic,₹5.41 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT DUAL TONE,17472,Petrol,Manual,₹6.74 Lakh,Bangalore
+2017,Maruti,Wagon R 1.0 VXI AMT,36404,Petrol,Automatic,₹4.24 Lakh,Bangalore
+2016,Hyundai,Elite i20 MAGNA 1.2,65656,Petrol,Manual,₹5.44 Lakh,Bangalore
+2020,Hyundai,VENUE SX PLUS 1.0 TURBO DCT,29075,Petrol,Automatic,₹9.84 Lakh,Bangalore
+2011,Maruti,Swift Dzire VDI,110407,Diesel,Manual,₹3.60 Lakh,Bangalore
+2012,Maruti,Swift Dzire VXI,104807,Petrol,Manual,₹3.92 Lakh,Bangalore
+2019,Hyundai,Tucson 2WD MT PETROL,31249,Petrol,Manual,₹12.41 Lakh,Bangalore
+2018,Tata,NEXON XZA PLUS DIESEL,90759,Diesel,Automatic,₹8.06 Lakh,Bangalore
+2021,Renault,Kwid RXT 1.0 AMT (O),24474,Petrol,Automatic,₹4.72 Lakh,Bangalore
+2022,Maruti,New Wagon-R ZXI 1.2,8524,Petrol,Manual,₹6.68 Lakh,Bangalore
+2015,Hyundai,i20 Active 1.4 SX,86615,Diesel,Manual,₹5.68 Lakh,Bangalore
+2021,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,10826,Petrol,Automatic,₹7.63 Lakh,Bangalore
+2016,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,82571,Petrol,Manual,₹3.72 Lakh,Bangalore
+2021,Hyundai,ALCAZAR PRESTIGE (O) 6STR 2.0 AT,12485,Petrol,Automatic,₹16.76 Lakh,Bangalore
+2016,Maruti,Baleno ZETA PETROL 1.2,47679,Petrol,Manual,₹6.07 Lakh,Bangalore
+2011,Maruti,Zen Estilo VXI,69568,Petrol,Manual,₹2.19 Lakh,Bangalore
+2015,Maruti,Swift VXI,66341,Petrol,Manual,₹5.38 Lakh,Bangalore
+2014,Tata,Zest XMA F-TRONIC DIESEL,96667,Diesel,Automatic,₹3.69 Lakh,Bangalore
+2011,Maruti,Swift VXI,57051,Petrol,Manual,₹3.47 Lakh,Bangalore
+2021,Maruti,Celerio ZXI PLUS,22245,Petrol,Manual,₹5.66 Lakh,Bangalore
+2017,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,40581,Petrol,Manual,₹4.77 Lakh,Bangalore
+2013,Hyundai,i10 SPORTZ 1.2 AT,78126,Petrol,Automatic,₹3.02 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 CRDI SX,117994,Diesel,Manual,₹7.30 Lakh,Bangalore
+2017,Skoda,Rapid STYLE 1.5 TDI AT,62834,Diesel,Automatic,₹8.82 Lakh,Bangalore
+2011,Maruti,Alto K10 VXI,109991,Petrol,Manual,₹2.01 Lakh,Bangalore
+2020,Tata,NEXON XZA PLUS (O) PETROL DUAL TONE,59046,Petrol,Automatic,₹10.47 Lakh,Bangalore
+2015,Hyundai,Creta SX PLUS AT 1.6 DIESEL,106215,Diesel,Automatic,₹8.35 Lakh,Bangalore
+2021,Hyundai,VENUE SX 1.0 (O) TURBO IMT,17981,Petrol,Manual,₹10.60 Lakh,Bangalore
+2019,Renault,Duster 110 PS RXZ 4X2 AMT DIESEL,69084,Diesel,Automatic,₹8.92 Lakh,Bangalore
+2016,Honda,City 1.5L I-VTEC V MT,111638,Petrol,Manual,₹5.25 Lakh,Bangalore
+2015,Honda,Jazz 1.2L I-VTEC V AT,48627,Petrol,Automatic,₹5.65 Lakh,Bangalore
+2020,Renault,Duster RXS 1.5 PETROL MT,26233,Petrol,Manual,₹8.00 Lakh,Bangalore
+2011,Hyundai,i10 MAGNA 1.2,43583,Petrol,Manual,₹2.69 Lakh,Bangalore
+2020,Tata,ALTROZ XZ PETROL,34901,Petrol,Manual,₹7.34 Lakh,Bangalore
+2017,Jeep,Compass LIMITED (O) 1.4 PETROL AT BLACK PACK,69429,Petrol,Automatic,₹12.69 Lakh,Bangalore
+2013,Maruti,Swift Dzire VXI,59700,Petrol,Manual,₹4.31 Lakh,Bangalore
+2020,Honda,WR-V 1.2L I-VTEC VX MT,74928,Petrol,Manual,₹8.06 Lakh,Bangalore
+2012,Hyundai,i20 ASTA 1.4 CRDI,115681,Diesel,Manual,₹3.79 Lakh,Bangalore
+2020,Renault,Kwid RXT 1.0 AMT (O),38494,Petrol,Automatic,₹5.05 Lakh,Bangalore
+2015,Mahindra,XUV500 W10,75492,Diesel,Manual,₹9.11 Lakh,Bangalore
+2021,Renault,Kwid RXT 1.0 (O),3748,Petrol,Manual,₹4.84 Lakh,Bangalore
+2022,Hyundai,VENUE SX 1.0 (O) TURBO IMT,21422,Petrol,Manual,₹11.27 Lakh,Bangalore
+2016,Maruti,Vitara Brezza VDI (O),80227,Diesel,Manual,₹6.07 Lakh,Bangalore
+2014,Hyundai,i20 SPORTZ 1.4 CRDI,102555,Diesel,Manual,₹4.32 Lakh,Bangalore
+2019,Maruti,Celerio X ZXI (O) AMT,27215,Petrol,Automatic,₹5.05 Lakh,Bangalore
+2018,Jeep,Compass LONGITUDE PLUS 1.4 PETROL AT,42770,Petrol,Automatic,₹14.24 Lakh,Bangalore
+2019,Jeep,Compass LIMITED (O) 2.0 DIESEL,92908,Diesel,Manual,₹14.61 Lakh,Bangalore
+2018,Maruti,Celerio ZXI,41806,Petrol,Manual,₹4.70 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX,60087,Petrol,Manual,₹7.97 Lakh,Bangalore
+2012,Honda,Jazz 1.2L I-VTEC X,35444,Petrol,Manual,₹3.67 Lakh,Bangalore
+2011,Hyundai,Santro Xing GLS,55224,Petrol,Manual,₹2.45 Lakh,Bangalore
+2016,Hyundai,i10 SPORTZ 1.1,48427,Petrol,Manual,₹3.86 Lakh,Bangalore
+2019,Maruti,New Wagon-R VXI 1.0 AMT,67526,Petrol,Automatic,₹5.23 Lakh,Bangalore
+2016,Maruti,Vitara Brezza ZDI,91544,Diesel,Manual,₹7.54 Lakh,Bangalore
+2020,Hyundai,Creta SX (O) 1.4 TURBO DCT,32794,Petrol,Automatic,₹15.15 Lakh,Bangalore
+2011,Maruti,Wagon R 1.0 VXI,34408,Petrol,Manual,₹2.71 Lakh,Bangalore
+2020,Honda,City 1.5L I-VTEC VX CVT,36093,Petrol,Automatic,₹12.14 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.4 CRDI (O),76454,Diesel,Manual,₹6.47 Lakh,Bangalore
+2022,Tata,NEXON XZ PLUS (HS) DIESEL,31035,Diesel,Manual,₹11.52 Lakh,Bangalore
+2019,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,18462,Petrol,Automatic,₹6.98 Lakh,Bangalore
+2020,Mahindra,XUV300 W4 1.2 PETROL,19881,Petrol,Manual,₹8.03 Lakh,Bangalore
+2013,Maruti,Wagon R Stingray VXI,97830,Petrol,Manual,₹3.03 Lakh,Bangalore
+2015,Maruti,Ciaz ZXI+,25381,Petrol,Manual,₹6.39 Lakh,Bangalore
+2013,Maruti,Swift Dzire VXI,106215,Petrol,Manual,₹4.11 Lakh,Bangalore
+2014,Maruti,Alto K10 VXI,99832,Petrol,Manual,₹2.55 Lakh,Bangalore
+2020,Tata,Tiago XZ PLUS PETROL,23692,Petrol,Manual,₹6.25 Lakh,Bangalore
+2022,Mahindra,XUV300 W6 1.2 PETROL AMT,14205,Petrol,Automatic,₹9.98 Lakh,Bangalore
+2016,Tata,Zest XMS PETROL,80078,Petrol,Manual,₹4.40 Lakh,Bangalore
+2019,Hyundai,Verna 1.6 VTVT SX (O) AT,49820,Petrol,Automatic,₹10.24 Lakh,Bangalore
+2013,Honda,City 1.5L I-VTEC V MT,103965,Petrol,Manual,₹4.80 Lakh,Bangalore
+2017,Maruti,IGNIS ZETA 1.2 AMT,68890,Petrol,Automatic,₹5.53 Lakh,Bangalore
+2017,Hyundai,Eon ERA PLUS (O),36950,Petrol,Manual,₹3.22 Lakh,Bangalore
+2016,Volkswagen,Vento HIGHLINE PETROL AT,80842,Petrol,Automatic,₹6.76 Lakh,Bangalore
+2017,Renault,Kwid RXT 0.8,48581,Petrol,Manual,₹3.04 Lakh,Bangalore
+2014,Honda,Amaze 1.2L I-VTEC VX,109589,Petrol,Manual,₹3.66 Lakh,Bangalore
+2020,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,52878,Petrol,Manual,₹8.00 Lakh,Bangalore
+2018,Jeep,Compass LONGITUDE 2.0 DIESEL,63398,Diesel,Manual,₹14.27 Lakh,Bangalore
+2020,Renault,Kwid CLIMBER 1.0 AMT (O),18336,Petrol,Automatic,₹4.84 Lakh,Bangalore
+2017,Tata,Tiago XT PETROL,28606,Petrol,Manual,₹4.55 Lakh,Bangalore
+2017,Renault,Kwid RXT 1.0,45079,Petrol,Manual,₹3.45 Lakh,Bangalore
+2011,Maruti,Wagon R 1.0 VXI,79484,Petrol,Manual,₹2.67 Lakh,Bangalore
+2019,Renault,Kwid CLIMBER 1.0,46779,Petrol,Manual,₹3.62 Lakh,Bangalore
+2018,Maruti,Swift VXI AMT,57341,Petrol,Automatic,₹6.20 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX,44659,Petrol,Manual,₹8.34 Lakh,Bangalore
+2022,Hyundai,NEW I20 ASTA (O) 1.2 AT,12885,Petrol,Automatic,₹11.03 Lakh,Bangalore
+2022,Maruti,Swift ZXI PLUS AMT DUAL TONE,31459,Petrol,Automatic,₹8.51 Lakh,Bangalore
+2022,Maruti,Baleno ZETA PETROL 1.2,34474,Petrol,Manual,₹7.75 Lakh,Bangalore
+2011,Hyundai,i20 SPORTZ (O) 1.2,65841,Petrol,Manual,₹3.06 Lakh,Bangalore
+2011,Hyundai,i10 SPORTZ 1.2,91035,Petrol,Manual,₹2.60 Lakh,Bangalore
+2016,Ford,Ecosport TITANIUM 1.5L PETROL AT,50785,Petrol,Automatic,₹7.04 Lakh,Bangalore
+2012,Hyundai,i20 SPORTZ 1.4 CRDI,83337,Diesel,Manual,₹3.69 Lakh,Bangalore
+2019,Hyundai,VENUE SX PLUS 1.0 TURBO DCT,44309,Petrol,Automatic,₹9.64 Lakh,Bangalore
+2016,Ford,Ecosport TREND 1.5L PETROL,77820,Petrol,Manual,₹6.08 Lakh,Bangalore
+2017,Renault,Kwid RXT 0.8,33582,Petrol,Manual,₹3.54 Lakh,Bangalore
+2019,Renault,Kwid CLIMBER 1.0 (O),24330,Petrol,Manual,₹4.56 Lakh,Bangalore
+2018,Hyundai,Creta SX (O) 1.6 DIESEL,40746,Diesel,Manual,₹12.17 Lakh,Bangalore
+2018,Honda,City 1.5L I-VTEC VX,85702,Petrol,Manual,₹8.35 Lakh,Bangalore
+2011,Hyundai,i10 MAGNA 1.2,130587,Petrol,Manual,₹2.18 Lakh,Bangalore
+2021,Renault,Kwid CLIMBER 1.0 (O),41535,Petrol,Manual,₹4.62 Lakh,Bangalore
+2021,Skoda,KUSHAQ STYLE 1.5L TSI MT,38566,Petrol,Manual,₹14.83 Lakh,Bangalore
+2017,Renault,Duster RXS CVT,61457,Petrol,Automatic,₹6.45 Lakh,Bangalore
+2021,Maruti,Celerio ZXI PLUS AGS,45807,Petrol,Automatic,₹6.58 Lakh,Bangalore
+2022,Mahindra,XUV300 W8 (O) 1.2 PETROL AMT,11682,Petrol,Automatic,₹12.25 Lakh,Bangalore
+2019,Hyundai,Creta SX (O) EXECUTIVE 1.6 PETROL,48476,Petrol,Manual,₹11.18 Lakh,Bangalore
+2016,Hyundai,Elite i20 SPORTZ 1.2,36748,Petrol,Manual,₹6.38 Lakh,Bangalore
+2018,Maruti,Celerio X VXI (O),39995,Petrol,Manual,₹3.81 Lakh,Bangalore
+2019,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,36365,Petrol,Automatic,₹6.63 Lakh,Bangalore
+2019,Renault,TRIBER RXL MT,50945,Petrol,Manual,₹5.81 Lakh,Bangalore
+2020,Hyundai,AURA SX 1.2 (O),41269,Petrol,Manual,₹7.12 Lakh,Bangalore
+2019,Maruti,Dzire ZXI AMT,28533,Petrol,Automatic,₹7.18 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS AT 1.6 PETROL,80561,Petrol,Automatic,₹9.03 Lakh,Bangalore
+2017,Volkswagen,TIGUAN HIGHLINE TDI AT,88461,Diesel,Automatic,₹18.34 Lakh,Bangalore
+2012,Maruti,Ertiga ZDI,106213,Diesel,Manual,₹6.07 Lakh,Bangalore
+2021,MG,HECTOR PLUS SHARP 1.5 PETROL TURBO DCT 6-STR,31138,Petrol,Automatic,₹16.98 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS 1.6 PETROL,52427,Petrol,Manual,₹9.03 Lakh,Bangalore
+2015,Maruti,Wagon R 1.0 VXI,49078,Petrol,Manual,₹3.56 Lakh,Bangalore
+2011,Hyundai,i20 SPORTZ 1.2,52325,Petrol,Manual,₹3.27 Lakh,Bangalore
+2020,Datsun,Redi Go T(O) 1.0 AMT,16537,Petrol,Automatic,₹4.40 Lakh,Bangalore
+2020,MG,HECTOR SHARP 2.0 DIESEL DUAL TONE,63301,Diesel,Manual,₹15.32 Lakh,Bangalore
+2015,Maruti,Ertiga ZXI,46440,Petrol,Manual,₹7.18 Lakh,Bangalore
+2016,Maruti,Celerio ZXI,46240,Petrol,Manual,₹4.48 Lakh,Bangalore
+2011,Hyundai,i20 SPORTZ (O) 1.2,111350,Petrol,Manual,₹2.99 Lakh,Bangalore
+2023,Maruti,New Wagon-R ZXI 1.2,2896,Petrol,Manual,₹6.93 Lakh,Bangalore
+2019,Renault,Kwid RXL,64671,Petrol,Manual,₹3.52 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 AMT (O),17107,Petrol,Automatic,₹4.90 Lakh,Bangalore
+2014,Maruti,Swift Dzire ZXI,122178,Petrol,Manual,₹4.51 Lakh,Bangalore
+2019,Maruti,Celerio VXI (O),28904,Petrol,Manual,₹4.82 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS AT 1.6 PETROL,55620,Petrol,Automatic,₹9.91 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V AT,68331,Petrol,Automatic,₹5.29 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX,15912,Petrol,Manual,₹9.13 Lakh,Bangalore
+2020,Tata,NEXON XZ PLUS PETROL,67069,Petrol,Manual,₹8.35 Lakh,Bangalore
+2017,Honda,City 1.5L I-VTEC ZX CVT,76529,Petrol,Automatic,₹7.90 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.2 (O),36174,Petrol,Manual,₹6.90 Lakh,Bangalore
+2019,Honda,City 1.5L I-VTEC VX,55227,Petrol,Manual,₹9.19 Lakh,Bangalore
+2023,Honda,Amaze 1.2L I-VTEC VX CVT,10391,Petrol,Automatic,₹9.49 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 (O),23550,Petrol,Manual,₹3.87 Lakh,Bangalore
+2018,Honda,WR-V 1.2L I-VTEC VX MT,22231,Petrol,Manual,₹7.01 Lakh,Bangalore
+2020,Hyundai,AURA SX+ 1.0 TURBO GDI MT,39864,Petrol,Manual,₹7.40 Lakh,Bangalore
+2017,Skoda,Rapid STYLE 1.5 TDI AT,94742,Diesel,Automatic,₹8.43 Lakh,Bangalore
+2018,Datsun,Redi Go S 1.0,42955,Petrol,Manual,₹3.03 Lakh,Bangalore
+2020,Mahindra,XUV500 W11 AT,59594,Diesel,Automatic,₹15.84 Lakh,Bangalore
+2021,Maruti,IGNIS DELTA 1.2 AMT,31951,Petrol,Automatic,₹6.46 Lakh,Bangalore
+2018,Maruti,Celerio ZXI,19171,Petrol,Manual,₹4.63 Lakh,Bangalore
+2022,MG,HECTOR PLUS SELECT 2.0 DIESEL TURBO MT 7-STR,15431,Diesel,Manual,₹20.80 Lakh,Bangalore
+2019,Honda,Amaze 1.5L I-DTEC V CVT,49663,Diesel,Automatic,₹7.50 Lakh,Bangalore
+2015,Maruti,Alto 800 LXI,85107,Petrol,Manual,₹2.71 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 (O),20725,Petrol,Manual,₹4.42 Lakh,Bangalore
+2017,Hyundai,i20 Active 1.2 SX,69694,Petrol,Manual,₹6.49 Lakh,Bangalore
+2014,Maruti,Celerio VXI AMT,14522,Petrol,Automatic,₹3.77 Lakh,Bangalore
+2021,Mahindra,XUV300 W8 (O) 1.2 PETROL,9715,Petrol,Manual,₹10.90 Lakh,Bangalore
+2016,Hyundai,Verna FLUIDIC 1.6 CRDI S 4S,65029,Diesel,Manual,₹7.71 Lakh,Bangalore
+2017,Maruti,Swift VXI,77191,Petrol,Manual,₹5.15 Lakh,Bangalore
+2015,Hyundai,Eon ERA +,22557,Petrol,Manual,₹3.02 Lakh,Bangalore
+2014,Mahindra,XUV500 W6,94593,Diesel,Manual,₹7.81 Lakh,Bangalore
+2021,Hyundai,ALCAZAR 1.5 SIGNATURE (O) AT 6STR,24546,Diesel,Automatic,₹18.98 Lakh,Bangalore
+2018,Mahindra,XUV500 W11 AT,36626,Diesel,Automatic,₹16.43 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,23523,Petrol,Manual,₹4.35 Lakh,Bangalore
+2017,Hyundai,Creta E PLUS 1.6 PETROL,55852,Petrol,Manual,₹8.54 Lakh,Bangalore
+2012,Hyundai,i20 ASTA 1.4 CRDI,102029,Diesel,Manual,₹4.00 Lakh,Bangalore
+2019,Datsun,Go T CVT,70260,Petrol,Automatic,₹4.31 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,29254,Petrol,Manual,₹6.15 Lakh,Bangalore
+2019,Maruti,Baleno ALPHA PETROL 1.2,36932,Petrol,Manual,₹7.27 Lakh,Bangalore
+2014,Hyundai,i10 SPORTZ 1.1,82502,Petrol,Manual,₹2.94 Lakh,Bangalore
+2014,Mahindra,XUV500 W6,119125,Diesel,Manual,₹7.33 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX,55600,Petrol,Manual,₹8.29 Lakh,Bangalore
+2019,Renault,Duster 110 PS RXS 4X2 AMT DIESEL,47106,Diesel,Automatic,₹9.41 Lakh,Bangalore
+2012,Maruti,Swift Dzire ZXI,36201,Petrol,Manual,₹5.15 Lakh,Bangalore
+2022,Hyundai,ALCAZAR 2.0 SIGNATURE (O) AT 7STR,11009,Petrol,Automatic,₹18.89 Lakh,Bangalore
+2022,Skoda,KUSHAQ STYLE 1.5L TSI DSG (6 AIRBAGS),20282,Petrol,Automatic,₹17.90 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI+,75940,Petrol,Manual,₹5.96 Lakh,Bangalore
+2011,Toyota,Etios G,100303,Petrol,Manual,₹3.15 Lakh,Bangalore
+2013,Hyundai,i20 ASTA 1.2,66176,Petrol,Manual,₹4.17 Lakh,Bangalore
+2020,Honda,Jazz 1.2L I-VTEC ZX,43340,Petrol,Manual,₹8.33 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS 1.6 PETROL,69273,Petrol,Manual,₹8.37 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,27464,Petrol,Manual,₹5.14 Lakh,Bangalore
+2019,Hyundai,VENUE SX PLUS 1.0 TURBO DCT,43922,Petrol,Automatic,₹9.00 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V,55531,Petrol,Manual,₹5.81 Lakh,Bangalore
+2014,Honda,Brio S MT,73789,Petrol,Manual,₹3.56 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI AT,96520,Petrol,Automatic,₹5.78 Lakh,Bangalore
+2021,Renault,Kwid RXT 0.8,26104,Petrol,Manual,₹4.36 Lakh,Bangalore
+2012,Honda,Brio S(O) MT,143991,Petrol,Manual,₹2.85 Lakh,Bangalore
+2018,Maruti,Celerio ZXI (O),93813,Petrol,Manual,₹4.47 Lakh,Bangalore
+2016,Honda,Amaze 1.2L I-VTEC VX,43434,Petrol,Manual,₹5.13 Lakh,Bangalore
+2016,Volkswagen,Vento HIGHLINE PETROL AT,88166,Petrol,Automatic,₹6.48 Lakh,Bangalore
+2013,Maruti,Ritz VXI,75497,Petrol,Manual,₹3.56 Lakh,Bangalore
+2020,Honda,City 1.5L I-VTEC ZX,30951,Petrol,Manual,₹10.88 Lakh,Bangalore
+2014,Mahindra,XUV500 W6,87735,Diesel,Manual,₹7.70 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS 1.6 PETROL,68811,Petrol,Manual,₹9.44 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.5 AT,18623,Diesel,Automatic,₹14.11 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 (O),11341,Petrol,Manual,₹4.10 Lakh,Bangalore
+2018,Renault,Kwid CLIMBER 1.0 AMT,52734,Petrol,Automatic,₹3.78 Lakh,Bangalore
+2019,Renault,Duster 110 PS RXZ DIESEL,80160,Diesel,Manual,₹8.21 Lakh,Bangalore
+2012,Maruti,Swift Dzire VDI,110904,Diesel,Manual,₹4.13 Lakh,Bangalore
+2023,Hyundai,VENUE SX 1.0 (O) TURBO IMT,6278,Petrol,Manual,₹12.18 Lakh,Bangalore
+2013,Honda,Brio V MT,41346,Petrol,Manual,₹3.65 Lakh,Bangalore
+2021,Skoda,Rapid AMBITION AT TSI,50295,Petrol,Automatic,₹10.73 Lakh,Bangalore
+2018,Maruti,Celerio VXI (O),69515,Petrol,Manual,₹4.35 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.0 IMT,9477,Petrol,Manual,₹12.11 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,43170,Petrol,Manual,₹7.13 Lakh,Bangalore
+2017,Skoda,Rapid STYLE 1.5 TDI AT,95524,Diesel,Automatic,₹9.86 Lakh,Bangalore
+2023,Tata,NEXON XM PETROL,16129,Petrol,Manual,₹9.12 Lakh,Bangalore
+2022,KIA,CARENS LUXURY 1.4 PETROL 7 STR,11437,Petrol,Manual,₹16.90 Lakh,Bangalore
+2012,Honda,City 1.5L I-VTEC V MT,57296,Petrol,Manual,₹4.19 Lakh,Bangalore
+2018,Renault,Duster RXS CVT,31875,Petrol,Automatic,₹7.17 Lakh,Bangalore
+2018,Nissan,Micra Active XL O,33048,Petrol,Manual,₹3.91 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,103142,Petrol,Manual,₹4.65 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,65458,Petrol,Manual,₹5.06 Lakh,Bangalore
+2022,KIA,CARENS LUXURY PLUS 1.4 PETROL 7 STR,15145,Petrol,Manual,₹17.47 Lakh,Bangalore
+2011,Honda,City 1.5L I-VTEC V MT,68165,Petrol,Manual,₹3.47 Lakh,Bangalore
+2016,Maruti,Swift VXI,65555,Petrol,Manual,₹5.79 Lakh,Bangalore
+2019,Maruti,S PRESSO VXI+,35153,Petrol,Manual,₹4.09 Lakh,Bangalore
+2021,Maruti,Celerio ZXI PLUS AGS,20405,Petrol,Automatic,₹6.46 Lakh,Bangalore
+2019,Mahindra,XUV300 W8 (O) 1.5 DIESEL,18346,Diesel,Manual,₹11.35 Lakh,Bangalore
+2021,Maruti,S PRESSO VXI+,34267,Petrol,Manual,₹4.58 Lakh,Bangalore
+2017,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,47224,Petrol,Automatic,₹5.55 Lakh,Bangalore
+2021,Renault,Kwid RXT 1.0 (O),32862,Petrol,Manual,₹4.42 Lakh,Bangalore
+2014,Renault,Duster 85 PS RXE DIESEL ADVENTURE,73314,Diesel,Manual,₹6.27 Lakh,Bangalore
+2011,Maruti,Wagon R 1.0 VXI,61600,Petrol,Manual,₹2.89 Lakh,Bangalore
+2011,Hyundai,Santro Xing GL PLUS,78152,Petrol,Manual,₹2.48 Lakh,Bangalore
+2022,Mahindra,XUV300 W8 (O) 1.2 PETROL AMT,11911,Petrol,Automatic,₹12.72 Lakh,Bangalore
+2019,Tata,NEXON XZA PLUS DIESEL,60079,Diesel,Automatic,₹8.62 Lakh,Bangalore
+2011,Hyundai,i10 MAGNA 1.1,70441,Petrol,Manual,₹2.62 Lakh,Bangalore
+2014,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,83346,Petrol,Automatic,₹4.40 Lakh,Bangalore
+2022,Renault,Kwid RXT 1.0,31621,Petrol,Manual,₹4.66 Lakh,Bangalore
+2022,KIA,SONET HTX ANNIVERSARY EDITION 1.5,21176,Diesel,Manual,₹12.54 Lakh,Bangalore
+2017,Renault,Kwid RXT 1.0,21138,Petrol,Manual,₹3.53 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,15069,Petrol,Manual,₹5.68 Lakh,Bangalore
+2014,Hyundai,Verna FLUIDIC 1.6 VTVT SX AT,107887,Petrol,Automatic,₹5.07 Lakh,Bangalore
+2019,Renault,TRIBER RXZ,70228,Petrol,Manual,₹6.48 Lakh,Bangalore
+2016,Honda,Jazz 1.2L I-VTEC V,54782,Petrol,Manual,₹5.68 Lakh,Bangalore
+2016,Volkswagen,Vento HIGHLINE PETROL AT,72451,Petrol,Automatic,₹6.80 Lakh,Bangalore
+2022,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,14772,Petrol,Manual,₹10.60 Lakh,Bangalore
+2014,Renault,Duster 110 PS RXZ 4X4 MT DIESEL,105355,Diesel,Manual,₹5.96 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS AT 1.6 PETROL,94859,Petrol,Automatic,₹8.40 Lakh,Bangalore
+2017,Maruti,Alto K10 VXI,13628,Petrol,Manual,₹3.83 Lakh,Bangalore
+2023,Renault,Kwid RXT 1.0,1768,Petrol,Manual,₹5.74 Lakh,Bangalore
+2015,Honda,Jazz 1.2L I-VTEC V AT,23660,Petrol,Automatic,₹6.03 Lakh,Bangalore
+2017,Hyundai,Verna 1.6 VTVT SX AT,58359,Petrol,Automatic,₹7.67 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS 1.6 PETROL,105587,Petrol,Manual,₹8.03 Lakh,Bangalore
+2019,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,35148,Petrol,Automatic,₹6.76 Lakh,Bangalore
+2020,KIA,SONET GTX PLUS 1.5D AT,52562,Diesel,Automatic,₹11.70 Lakh,Bangalore
+2019,Honda,Amaze 1.5L I-DTEC V CVT,54392,Diesel,Automatic,₹7.70 Lakh,Bangalore
+2017,Maruti,Dzire VDI AMT,77413,Diesel,Automatic,₹7.13 Lakh,Bangalore
+2022,Tata,NEXON XZ PLUS (PREMIUM) DARK EDITION PETROL,24386,Petrol,Manual,₹11.68 Lakh,Bangalore
+2022,Renault,Kwid CLIMBER MT 1.0,13364,Petrol,Manual,₹5.47 Lakh,Bangalore
+2022,Honda,City 1.5L I-VTEC ZX CVT,9928,Petrol,Automatic,₹14.52 Lakh,Bangalore
+2016,Renault,Duster 85 PS RXZ DIESEL,51829,Diesel,Manual,₹7.59 Lakh,Bangalore
+2016,Honda,Brio S MT,79289,Petrol,Manual,₹3.73 Lakh,Bangalore
+2017,Renault,Kwid RXT 1.0,70817,Petrol,Manual,₹3.39 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,37657,Petrol,Automatic,₹12.03 Lakh,Bangalore
+2022,Tata,NEXON XZ PLUS (O) DIESEL DARK EDITION,14434,Diesel,Manual,₹13.75 Lakh,Bangalore
+2022,Tata,NEXON XZ PLUS DIESEL KAZIRANGA,14871,Diesel,Manual,₹13.21 Lakh,Bangalore
+2022,Tata,NEXON XZA PLUS (HS) PETROL,26350,Petrol,Automatic,₹11.90 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,82689,Petrol,Manual,₹6.44 Lakh,Bangalore
+2020,Honda,City 1.5L I-VTEC VX CVT,41750,Petrol,Automatic,₹11.25 Lakh,Bangalore
+2022,KIA,SELTOS GTX PLUS 1.5 DIESEL AT,28064,Diesel,Automatic,₹18.84 Lakh,Bangalore
+2021,Renault,Duster RXZ 1.3 TURBO PETROL MT,22588,Petrol,Manual,₹10.81 Lakh,Bangalore
+2013,Hyundai,i20 MAGNA (O) 1.2,96431,Petrol,Manual,₹3.66 Lakh,Bangalore
+2020,Tata,NEXON XZ PLUS SUNROOF PETROL DUAL TONE,45321,Petrol,Manual,₹9.14 Lakh,Bangalore
+2017,Maruti,Celerio ZXI AMT,113666,Petrol,Automatic,₹4.23 Lakh,Bangalore
+2017,Renault,Kwid RXL 1.0 AMT,35566,Petrol,Automatic,₹3.36 Lakh,Bangalore
+2020,Hyundai,AURA SX PLUS 1.2 AMT,23213,Petrol,Automatic,₹6.73 Lakh,Bangalore
+2017,Hyundai,Xcent SX 1.2,55733,Petrol,Manual,₹6.13 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS 1.6 PETROL,60817,Petrol,Manual,₹9.32 Lakh,Bangalore
+2020,Tata,NEXON XZA PLUS PETROL,54568,Petrol,Automatic,₹9.65 Lakh,Bangalore
+2020,Renault,Kwid NEOTECH RXL 1.0 AMT,17546,Petrol,Automatic,₹4.73 Lakh,Bangalore
+2022,Maruti,Dzire VXI AMT,16023,Petrol,Automatic,₹7.91 Lakh,Bangalore
+2020,Tata,NEXON XZ PLUS PETROL DUAL TONE,54623,Petrol,Manual,₹8.83 Lakh,Bangalore
+2016,Hyundai,Eon ERA +,44873,Petrol,Manual,₹2.98 Lakh,Bangalore
+2015,Nissan,Micra Active XV,59365,Petrol,Manual,₹3.39 Lakh,Bangalore
+2014,Hyundai,i20 SPORTZ 1.2,57769,Petrol,Manual,₹4.93 Lakh,Bangalore
+2022,Hyundai,VENUE SX 1.0 (O) TURBO IMT,35746,Petrol,Manual,₹11.98 Lakh,Bangalore
+2020,Hyundai,AURA SX PLUS 1.2 AMT CRDI,49985,Diesel,Automatic,₹8.10 Lakh,Bangalore
+2013,Maruti,Ertiga VXI,51980,Petrol,Manual,₹6.82 Lakh,Bangalore
+2014,Renault,Duster 110 PS RXL ADVENTURE,64937,Diesel,Manual,₹6.23 Lakh,Bangalore
+2017,Maruti,Dzire ZXI PLUS AMT,105779,Petrol,Automatic,₹6.31 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,42364,Petrol,Automatic,₹6.13 Lakh,Bangalore
+2019,Renault,Duster RXS 1.5 PETROL MT,40229,Petrol,Manual,₹7.42 Lakh,Bangalore
+2021,Maruti,Baleno DELTA CVT PETROL 1.2,32596,Petrol,Automatic,₹7.10 Lakh,Bangalore
+2018,Renault,Kwid 1.0 MARVEL IRON MAN EDITION,47928,Petrol,Manual,₹3.86 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS AT 1.6 DIESEL,93290,Diesel,Automatic,₹9.37 Lakh,Bangalore
+2022,Hyundai,VENUE SX (O) 1.5 CRDI,14280,Diesel,Manual,₹12.31 Lakh,Bangalore
+2011,Maruti,Ritz VDI,72644,Diesel,Manual,₹3.85 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,44370,Petrol,Automatic,₹11.24 Lakh,Bangalore
+2018,Honda,City 1.5L I-VTEC ZX CVT,29977,Petrol,Automatic,₹9.77 Lakh,Bangalore
+2021,KIA,SELTOS GTX PLUS 1.4 PETROL DCT DUAL TONE,30378,Petrol,Automatic,₹16.70 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS AT 1.6 DIESEL,113873,Diesel,Automatic,₹9.46 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.2 (O),89398,Petrol,Manual,₹6.34 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,42552,Petrol,Manual,₹4.89 Lakh,Bangalore
+2022,Tata,NEXON XZA PLUS (O) PETROL,13619,Petrol,Automatic,₹12.63 Lakh,Bangalore
+2023,Maruti,Alto K10 VXI PLUS,5654,Petrol,Manual,₹5.50 Lakh,Bangalore
+2016,Hyundai,Creta E PLUS 1.6 PETROL,48665,Petrol,Manual,₹8.33 Lakh,Bangalore
+2014,Hyundai,i20 SPORTZ 1.2,40194,Petrol,Manual,₹4.69 Lakh,Bangalore
+2016,Honda,City 1.5L I-VTEC VX CVT,92236,Petrol,Automatic,₹7.25 Lakh,Bangalore
+2018,Maruti,Ciaz ALPHA 1.4 PETROL,49559,Petrol,Manual,₹7.33 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS 1.6 PETROL,18538,Petrol,Manual,₹9.83 Lakh,Bangalore
+2019,Honda,City 1.5L I-VTEC ZX CVT,32479,Petrol,Automatic,₹10.61 Lakh,Bangalore
+2020,Tata,NEXON XZ PLUS (O) PETROL,46447,Petrol,Manual,₹10.05 Lakh,Bangalore
+2023,Maruti,Celerio ZXI AMT,17052,Petrol,Automatic,₹6.50 Lakh,Bangalore
+2016,Volkswagen,Ameo HIGHLINE1.2L,54327,Petrol,Manual,₹5.47 Lakh,Bangalore
+2015,Maruti,Wagon R 1.0 VXI,27184,Petrol,Manual,₹3.87 Lakh,Bangalore
+2015,Mahindra,XUV500 W6,86773,Diesel,Manual,₹8.28 Lakh,Bangalore
+2019,Tata,NEXON XZA PLUS PETROL DUAL TONE,59737,Petrol,Automatic,₹8.07 Lakh,Bangalore
+2022,Maruti,Dzire ZXI Plus AMT,9369,Petrol,Automatic,₹9.02 Lakh,Bangalore
+2016,Hyundai,Creta E PLUS 1.6 PETROL,89371,Petrol,Manual,₹8.58 Lakh,Bangalore
+2023,Maruti,Celerio VXI AMT,3951,Petrol,Automatic,₹6.61 Lakh,Bangalore
+2017,Renault,Kwid CLIMBER 1.0 AMT,55810,Petrol,Automatic,₹3.82 Lakh,Bangalore
+2012,Hyundai,i10 SPORTZ 1.2,36577,Petrol,Manual,₹3.33 Lakh,Bangalore
+2016,Honda,Amaze 1.2L I-VTEC S,47097,Petrol,Manual,₹5.05 Lakh,Bangalore
+2011,Maruti,Swift VXI,96506,Petrol,Manual,₹3.52 Lakh,Bangalore
+2020,Renault,Duster RXZ 1.3 TURBO PETROL CVT,46385,Petrol,Automatic,₹10.82 Lakh,Bangalore
+2013,Maruti,Wagon R 1.0 VXI,76286,Petrol,Manual,₹3.34 Lakh,Bangalore
+2022,KIA,SONET HTK PLUS 1.5,22691,Diesel,Manual,₹11.15 Lakh,Bangalore
+2018,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,65464,Petrol,Manual,₹5.03 Lakh,Bangalore
+2018,Renault,Kwid CLIMBER 1.0 AMT,37091,Petrol,Automatic,₹3.88 Lakh,Bangalore
+2012,Hyundai,i20 SPORTZ 1.2,52538,Petrol,Manual,₹4.13 Lakh,Bangalore
+2014,Hyundai,Xcent S 1.2,65455,Petrol,Manual,₹4.26 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS 1.6 PETROL,92043,Petrol,Manual,₹8.50 Lakh,Bangalore
+2017,Honda,City 1.5L I-VTEC ZX CVT,42019,Petrol,Automatic,₹8.84 Lakh,Bangalore
+2014,Honda,City 1.5L I-VTEC V MT,74032,Petrol,Manual,₹5.39 Lakh,Bangalore
+2023,Maruti,Alto K10 VXI PLUS AMT,6675,Petrol,Automatic,₹5.80 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.2 (O),55254,Petrol,Manual,₹6.80 Lakh,Bangalore
+2016,Maruti,Celerio ZXI AMT,43855,Petrol,Automatic,₹4.65 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC VX,34743,Petrol,Manual,₹6.07 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 AMT (O),17650,Petrol,Automatic,₹4.57 Lakh,Bangalore
+2015,Maruti,Swift VXI,40348,Petrol,Manual,₹4.94 Lakh,Bangalore
+2014,Nissan,Micra XV CVT,82542,Petrol,Automatic,₹3.37 Lakh,Bangalore
+2019,Renault,Kwid CLIMBER 1.0 AMT,35567,Petrol,Automatic,₹4.39 Lakh,Bangalore
+2022,KIA,CARENS LUXURY PLUS 1.4 PETROL 7 STR,10776,Petrol,Manual,₹17.47 Lakh,Bangalore
+2019,Honda,City 1.5L I-VTEC ZX CVT,33869,Petrol,Automatic,₹10.91 Lakh,Bangalore
+2015,Maruti,Ciaz ZXI+,104650,Petrol,Manual,₹5.58 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.4 CRDI (O),79701,Diesel,Manual,₹7.31 Lakh,Bangalore
+2019,Maruti,Celerio VXI AMT,28264,Petrol,Automatic,₹5.08 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,26534,Petrol,Manual,₹4.53 Lakh,Bangalore
+2021,Maruti,Baleno ZETA CVT PETROL 1.2,26477,Petrol,Automatic,₹8.40 Lakh,Bangalore
+2020,Maruti,Ciaz DELTA 1.5 SHVS MT PETROL,60741,Petrol,Manual,₹8.45 Lakh,Bangalore
+2017,Maruti,Baleno ZETA PETROL 1.2,22396,Petrol,Manual,₹6.48 Lakh,Bangalore
+2019,Hyundai,i20 Active 1.2 SX,73607,Petrol,Manual,₹7.28 Lakh,Bangalore
+2023,KIA,CARENS LUXURY 1.4 PETROL 7 STR,5126,Petrol,Manual,₹16.56 Lakh,Bangalore
+2015,Maruti,Wagon R 1.0 VXI,45789,Petrol,Manual,₹3.86 Lakh,Bangalore
+2018,Maruti,Baleno ALPHA PETROL 1.2,52083,Petrol,Manual,₹6.82 Lakh,Bangalore
+2022,Honda,City 1.5L I-VTEC ZX,42212,Petrol,Manual,₹12.11 Lakh,Bangalore
+2013,Maruti,Swift VXI,27532,Petrol,Manual,₹4.60 Lakh,Bangalore
+2019,Mahindra,XUV300 W8 (O) 1.5 DIESEL,64772,Diesel,Manual,₹10.24 Lakh,Bangalore
+2017,Maruti,Wagon R 1.0 VXI AMT,84182,Petrol,Automatic,₹4.65 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO ASTA MT,55677,Petrol,Manual,₹4.71 Lakh,Bangalore
+2019,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,49968,Petrol,Automatic,₹8.97 Lakh,Bangalore
+2019,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,73192,Petrol,Automatic,₹5.64 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,23793,Petrol,Manual,₹6.99 Lakh,Bangalore
+2019,Mahindra,XUV300 W8 (O) 1.5 DIESEL,53460,Diesel,Manual,₹11.15 Lakh,Bangalore
+2013,Honda,City 1.5L I-VTEC S MT,89796,Petrol,Manual,₹4.53 Lakh,Bangalore
+2012,Honda,City 1.5L I-VTEC S MT,87836,Petrol,Manual,₹4.58 Lakh,Bangalore
+2012,Maruti,Swift VXI,97265,Petrol,Manual,₹4.21 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,14274,Petrol,Automatic,₹7.28 Lakh,Bangalore
+2018,Jeep,Compass LIMITED (O) 2.0 DIESEL 4X4,80713,Diesel,Manual,₹14.12 Lakh,Bangalore
+2022,Maruti,S PRESSO VXI+,11295,Petrol,Manual,₹5.03 Lakh,Bangalore
+2018,Maruti,Celerio ZXI AMT (O),80488,Petrol,Automatic,₹4.50 Lakh,Bangalore
+2015,Honda,Jazz 1.2L I-VTEC V AT,55600,Petrol,Automatic,₹6.21 Lakh,Bangalore
+2016,Maruti,Swift VXI,97896,Petrol,Manual,₹5.48 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V AT,59350,Petrol,Automatic,₹5.81 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.0 IMT,11338,Petrol,Manual,₹12.09 Lakh,Bangalore
+2014,Maruti,Ciaz VDI,86623,Diesel,Manual,₹5.60 Lakh,Bangalore
+2018,Honda,City 1.5L I-VTEC ZX CVT,25751,Petrol,Automatic,₹10.56 Lakh,Bangalore
+2022,Tata,TIGOR XZ PETROL,13622,Petrol,Manual,₹6.90 Lakh,Bangalore
+2017,Ford,Ecosport TITANIUM 1.5L PETROL AT,47695,Petrol,Automatic,₹7.47 Lakh,Bangalore
+2017,Maruti,Baleno ALPHA PETROL 1.2,67549,Petrol,Manual,₹6.81 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,51852,Petrol,Manual,₹6.58 Lakh,Bangalore
+2012,Honda,Brio S MT,74427,Petrol,Manual,₹3.02 Lakh,Bangalore
+2016,Maruti,Ciaz ZDI SHVS,60384,Diesel,Manual,₹7.22 Lakh,Bangalore
+2019,Mahindra,XUV300 W8 (O) 1.5 DIESEL AMT,41999,Diesel,Automatic,₹9.84 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,35322,Petrol,Automatic,₹4.38 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,58130,Petrol,Automatic,₹10.87 Lakh,Bangalore
+2013,Maruti,Wagon R 1.0 VXI,40896,Petrol,Manual,₹3.63 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V,55339,Petrol,Manual,₹6.05 Lakh,Bangalore
+2022,Hyundai,AURA SX PLUS 1.2 AMT,9393,Petrol,Automatic,₹7.94 Lakh,Bangalore
+2012,Hyundai,i20 SPORTZ 1.2,62951,Petrol,Manual,₹4.28 Lakh,Bangalore
+2012,Maruti,A Star VXI,71079,Petrol,Manual,₹2.79 Lakh,Bangalore
+2020,Renault,Duster RXZ 1.5 PETROL MT,41619,Petrol,Manual,₹8.68 Lakh,Bangalore
+2018,Hyundai,Eon ERA PLUS (O),57966,Petrol,Manual,₹3.54 Lakh,Bangalore
+2018,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,92759,Petrol,Manual,₹4.97 Lakh,Bangalore
+2020,KIA,SONET GTX PLUS 1.0 IMT,32712,Petrol,Manual,₹10.92 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,38333,Petrol,Automatic,₹4.42 Lakh,Bangalore
+2016,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,49460,Petrol,Manual,₹4.47 Lakh,Bangalore
+2018,Maruti,Celerio ZXI,39085,Petrol,Manual,₹4.82 Lakh,Bangalore
+2022,Maruti,Celerio VXI AMT,9778,Petrol,Automatic,₹6.19 Lakh,Bangalore
+2021,Maruti,Celerio ZXI AMT,20754,Petrol,Automatic,₹6.32 Lakh,Bangalore
+2021,Mahindra,XUV300 W8 (O) 1.5 DIESEL,38811,Diesel,Manual,₹11.12 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,69324,Petrol,Automatic,₹4.08 Lakh,Bangalore
+2021,KIA,SONET HTX PLUS 1.0 IMT,21854,Petrol,Manual,₹11.49 Lakh,Bangalore
+2023,Maruti,S PRESSO VXI (O) AMT,11631,Petrol,Automatic,₹5.77 Lakh,Bangalore
+2022,Tata,NEXON XZA PLUS (HS) PETROL,15617,Petrol,Automatic,₹12.18 Lakh,Bangalore
+2018,Hyundai,Elite i20 ASTA 1.2 (O),81961,Petrol,Manual,₹6.87 Lakh,Bangalore
+2017,Honda,City 1.5L I-VTEC VX CVT,124446,Petrol,Automatic,₹7.74 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,52074,Petrol,Manual,₹4.58 Lakh,Bangalore
+2018,Honda,Amaze 1.2L I-VTEC V CVT,59863,Petrol,Automatic,₹7.05 Lakh,Bangalore
+2022,Tata,NEXON XZA PLUS (HS) PETROL,11001,Petrol,Automatic,₹12.22 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V AT,57291,Petrol,Automatic,₹6.35 Lakh,Bangalore
+2020,KIA,SELTOS HTX PLUS AT1.5 DIESEL,54526,Diesel,Automatic,₹14.49 Lakh,Bangalore
+2022,Volkswagen,TAIGUN TOPLINE 1.0 TSI MT,7734,Petrol,Manual,₹15.84 Lakh,Bangalore
+2014,Honda,City 1.5L I-VTEC V MT,73554,Petrol,Manual,₹5.90 Lakh,Bangalore
+2020,Tata,Harrier XZA PLUS 2.0L,68859,Diesel,Automatic,₹18.16 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,50840,Petrol,Automatic,₹5.97 Lakh,Bangalore
+2017,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,60620,Petrol,Manual,₹5.27 Lakh,Bangalore
+2017,Ford,Ecosport TITANIUM 1.5L PETROL,56954,Petrol,Manual,₹7.27 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX (O) AT,61288,Petrol,Automatic,₹9.13 Lakh,Bangalore
+2016,Hyundai,Verna 1.6 CRDI SX,69384,Diesel,Manual,₹8.01 Lakh,Bangalore
+2014,Honda,Brio S MT,87590,Petrol,Manual,₹3.63 Lakh,Bangalore
+2014,Renault,Duster 85 PS RXL DIESEL,82606,Diesel,Manual,₹5.87 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,11853,Petrol,Manual,₹5.94 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,81093,Petrol,Manual,₹4.19 Lakh,Bangalore
+2016,Renault,Duster RXL 1.6 PETROL,58909,Petrol,Manual,₹6.64 Lakh,Bangalore
+2015,Maruti,Ciaz ZXI,97889,Petrol,Manual,₹5.75 Lakh,Bangalore
+2017,Maruti,Celerio ZXI AMT (O),35997,Petrol,Automatic,₹4.66 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,32241,Petrol,Manual,₹7.11 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,44868,Petrol,Automatic,₹5.81 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,41208,Petrol,Manual,₹5.31 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,49862,Petrol,Manual,₹5.23 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,93513,Petrol,Manual,₹4.03 Lakh,Bangalore
+2017,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,21223,Petrol,Manual,₹5.47 Lakh,Bangalore
+2023,Maruti,S PRESSO VXI PLUS (O) AMT,7370,Petrol,Automatic,₹6.51 Lakh,Bangalore
+2022,KIA,SONET HTX PLUS 1.0 IMT,14039,Petrol,Manual,₹12.39 Lakh,Bangalore
+2017,Maruti,Wagon R 1.0 VXI AMT,44109,Petrol,Automatic,₹4.82 Lakh,Bangalore
+2021,MG,HECTOR PLUS SHARP 1.5 PETROL TURBO DCT 6-STR,14065,Petrol,Automatic,₹18.74 Lakh,Bangalore
+2019,Maruti,Alto VXI,10041,Petrol,Manual,₹3.87 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.0 DCT,19749,Petrol,Automatic,₹12.80 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.0 IMT,11162,Petrol,Manual,₹12.29 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.0 IMT DUAL TONE,19669,Petrol,Manual,₹12.42 Lakh,Bangalore
+2017,Maruti,Baleno ZETA PETROL 1.2,23573,Petrol,Manual,₹6.82 Lakh,Bangalore
+2020,MG,HECTOR PLUS SHARP 2.0 DIESEL TURBO MT 6-STR DUAL TONE,12098,Diesel,Manual,₹18.72 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,48043,Petrol,Automatic,₹4.16 Lakh,Bangalore
+2016,Maruti,Celerio VXI AMT (O),62383,Petrol,Automatic,₹4.55 Lakh,Bangalore
+2022,KIA,SONET GTX PLUS 1.0 DCT,16176,Petrol,Automatic,₹12.92 Lakh,Bangalore
+2011,Hyundai,Eon ERA,58637,Petrol,Manual,₹2.28 Lakh,Bangalore
+2022,Hyundai,VENUE SX (O) 1.0 TURBO DCT,15703,Petrol,Automatic,₹13.31 Lakh,Bangalore
+2021,KIA,SONET GTX PLUS 1.5 AT,27903,Diesel,Automatic,₹13.73 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,74972,Petrol,Manual,₹4.85 Lakh,Bangalore
+2018,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,33903,Petrol,Manual,₹4.98 Lakh,Bangalore
+2015,Renault,Duster 85 PS RXL DIESEL,67386,Diesel,Manual,₹6.25 Lakh,Bangalore
+2015,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,41548,Petrol,Manual,₹4.36 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,40428,Petrol,Automatic,₹3.97 Lakh,Bangalore
+2020,Hyundai,NEW I20 ASTA (O) 1.2 MT,28806,Petrol,Manual,₹8.29 Lakh,Bangalore
+2019,Maruti,Ciaz SIGMA 1.5 SHVS MT PETROL,12567,Petrol,Manual,₹7.75 Lakh,Bangalore
+2018,Ford,FREESTYLE TITANIUM 1.2 PETROL,32842,Petrol,Manual,₹6.38 Lakh,Bangalore
+2014,Maruti,Alto K10 LXI,63792,Petrol,Manual,₹2.80 Lakh,Bangalore
+2023,Tata,Tiago XZA PLUS PETROL,2280,Petrol,Automatic,₹7.96 Lakh,Bangalore
+2015,Volkswagen,Polo GT TSI AT,85287,Petrol,Automatic,₹6.29 Lakh,Bangalore
+2016,Renault,Kwid RXT 0.8 (O),59775,Petrol,Manual,₹3.08 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,45834,Petrol,Automatic,₹6.56 Lakh,Bangalore
+2014,Renault,Pulse RX L DIESEL,83897,Diesel,Manual,₹2.92 Lakh,Bangalore
+2020,Tata,NEXON XZA PLUS PETROL DUAL TONE,59565,Petrol,Automatic,₹8.79 Lakh,Bangalore
+2014,Toyota,Etios CROSS 1.4 GD,121920,Diesel,Manual,₹4.56 Lakh,Bangalore
+2016,Maruti,Baleno ZETA CVT PETROL 1.2,83635,Petrol,Automatic,₹5.31 Lakh,Bangalore
+2021,Volkswagen,TAIGUN TOPLINE 1.0 TSI MT,97554,Petrol,Manual,₹11.75 Lakh,Bangalore
+2016,Honda,Amaze 1.2L I-VTEC S,51836,Petrol,Manual,₹4.21 Lakh,Bangalore
+2015,Mahindra,Scorpio S8,61590,Diesel,Manual,₹10.11 Lakh,Bangalore
+2021,Maruti,Swift VXI,13228,Petrol,Manual,₹7.19 Lakh,Bangalore
+2011,Maruti,Swift VXI,64003,Petrol,Manual,₹3.54 Lakh,Bangalore
+2022,Hyundai,VENUE S 1.2,18184,Petrol,Manual,₹8.64 Lakh,Bangalore
+2019,Hyundai,VENUE S 1.0 TURBO DCT,52244,Petrol,Automatic,₹8.17 Lakh,Bangalore
+2018,Mahindra,XUV500 W7 AT,67919,Diesel,Automatic,₹12.53 Lakh,Bangalore
+2019,Renault,TRIBER RXZ,57625,Petrol,Manual,₹6.10 Lakh,Bangalore
+2021,Maruti,S PRESSO VXI AMT,9677,Petrol,Automatic,₹4.64 Lakh,Bangalore
+2021,Hyundai,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,37258,Petrol,Manual,₹6.72 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,10218,Petrol,Automatic,₹7.04 Lakh,Bangalore
+2013,Maruti,Swift VDI,97837,Diesel,Manual,₹4.33 Lakh,Bangalore
+2022,Volkswagen,TAIGUN TOPLINE 1.0 TSI MT,15979,Petrol,Manual,₹15.52 Lakh,Bangalore
+2019,Maruti,Baleno ALPHA CVT PETROL 1.2,34783,Petrol,Automatic,₹7.74 Lakh,Bangalore
+2020,Tata,Tiago XZA PLUS PETROL,38930,Petrol,Automatic,₹6.78 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI,40339,Petrol,Manual,₹3.89 Lakh,Bangalore
+2022,Honda,City 1.5L I-VTE V CVT,17703,Petrol,Automatic,₹12.67 Lakh,Bangalore
+2017,Renault,Kwid CLIMBER 1.0 AMT,27849,Petrol,Automatic,₹3.88 Lakh,Bangalore
+2014,Maruti,Swift ZXI,41074,Petrol,Manual,₹5.16 Lakh,Bangalore
+2018,Maruti,Swift VXI AMT,29219,Petrol,Automatic,₹6.45 Lakh,Bangalore
+2018,Maruti,Celerio ZXI AMT (O),43407,Petrol,Automatic,₹4.70 Lakh,Bangalore
+2015,Maruti,Alto K10 VXI AMT,32214,Petrol,Automatic,₹3.45 Lakh,Bangalore
+2021,Maruti,S PRESSO VXI+,31209,Petrol,Manual,₹4.82 Lakh,Bangalore
+2017,Maruti,Dzire ZXI PLUS AMT,67275,Petrol,Automatic,₹6.65 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS AT 1.6 PETROL,42546,Petrol,Automatic,₹9.81 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 AMT,11581,Petrol,Automatic,₹4.49 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,39866,Petrol,Manual,₹6.74 Lakh,Bangalore
+2011,Hyundai,i10 SPORTZ 1.2,47500,Petrol,Manual,₹3.03 Lakh,Bangalore
+2016,Honda,Amaze 1.2L I-VTEC SX,73832,Petrol,Manual,₹4.53 Lakh,Bangalore
+2017,Maruti,Baleno ALPHA PETROL 1.2,54225,Petrol,Manual,₹6.70 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,45828,Petrol,Automatic,₹5.97 Lakh,Bangalore
+2019,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,51615,Petrol,Manual,₹5.24 Lakh,Bangalore
+2014,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,45424,Petrol,Automatic,₹4.48 Lakh,Bangalore
+2018,Maruti,Swift ZXI PLUS,64747,Petrol,Manual,₹7.18 Lakh,Bangalore
+2022,KIA,SELTOS HTX IVT 1.5 PETROL,39295,Petrol,Automatic,₹15.01 Lakh,Bangalore
+2017,Tata,TIGOR XZA PETROL,94257,Petrol,Automatic,₹4.65 Lakh,Bangalore
+2022,Tata,Tiago XZA PLUS PETROL,6541,Petrol,Automatic,₹6.98 Lakh,Bangalore
+2023,Hyundai,VENUE SX 1.2 PETROL,9717,Petrol,Manual,₹11.30 Lakh,Bangalore
+2020,Hyundai,NEW SANTRO ASTA AMT,18062,Petrol,Automatic,₹6.73 Lakh,Bangalore
+2020,Datsun,Redi Go T (O),39739,Petrol,Manual,₹3.36 Lakh,Bangalore
+2014,Hyundai,Verna FLUIDIC 1.6 CRDI SX,89332,Diesel,Manual,₹5.61 Lakh,Bangalore
+2017,Tata,Zest XT PETROL,53940,Petrol,Manual,₹4.33 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO SPORTZ MT,21868,Petrol,Manual,₹5.42 Lakh,Bangalore
+2022,Tata,PUNCH CREATIVE MT,20447,Petrol,Manual,₹8.13 Lakh,Bangalore
+2014,Maruti,Ciaz ZXI,70337,Petrol,Manual,₹5.47 Lakh,Bangalore
+2020,Renault,Kwid RXT 1.0 (O),19574,Petrol,Manual,₹4.71 Lakh,Bangalore
+2019,Hyundai,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,87055,Petrol,Manual,₹6.05 Lakh,Bangalore
+2023,Renault,TRIBER RXZ,20080,Petrol,Manual,₹8.03 Lakh,Bangalore
+2013,Nissan,Micra XV CVT,63505,Petrol,Automatic,₹3.58 Lakh,Bangalore
+2017,Maruti,Celerio VXI,37599,Petrol,Manual,₹4.82 Lakh,Bangalore
+2016,Maruti,Swift VXI,92616,Petrol,Manual,₹5.84 Lakh,Bangalore
+2021,Hyundai,VENUE SX 1.0 TURBO,52456,Petrol,Manual,₹9.34 Lakh,Bangalore
+2019,Renault,Kwid RXT 1.0 (O),24491,Petrol,Manual,₹4.09 Lakh,Bangalore
+2022,Renault,Kwid RXT 1.0 AMT (O),19430,Petrol,Automatic,₹5.89 Lakh,Bangalore
+2021,Maruti,XL6 ALPHA AT,38819,Petrol,Automatic,₹11.29 Lakh,Bangalore
+2018,Datsun,Redi Go T(O) 1.0L LIMITED EDITION,38846,Petrol,Manual,₹2.98 Lakh,Bangalore
+2021,Renault,Kwid CLIMBER 1.0 (O),41705,Petrol,Manual,₹4.72 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2 (O),26827,Petrol,Manual,₹7.07 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,31709,Petrol,Manual,₹5.43 Lakh,Bangalore
+2015,Maruti,Celerio VXI,13855,Petrol,Manual,₹4.15 Lakh,Bangalore
+2018,Maruti,Baleno DELTA PETROL 1.2,45037,Petrol,Manual,₹5.32 Lakh,Bangalore
+2015,Hyundai,Xcent S 1.2,54387,Petrol,Manual,₹4.29 Lakh,Bangalore
+2022,Tata,ALTROZ XZA PLUS,16221,Petrol,Automatic,₹9.69 Lakh,Bangalore
+2014,Hyundai,i20 SPORTZ 1.2,69425,Petrol,Manual,₹4.65 Lakh,Bangalore
+2021,Tata,NEXON XZA PLUS (O) PETROL DARK EDITION,28606,Petrol,Automatic,₹11.46 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.2 (O),71258,Petrol,Manual,₹7.06 Lakh,Bangalore
+2019,Datsun,Redi Go A,25135,Petrol,Manual,₹2.54 Lakh,Bangalore
+2022,Tata,NEXON XZ PLUS PETROL,15785,Petrol,Manual,₹9.96 Lakh,Bangalore
+2018,Maruti,IGNIS SIGMA 1.2,73809,Petrol,Manual,₹4.28 Lakh,Bangalore
+2017,Maruti,Baleno ZETA PETROL 1.2,48247,Petrol,Manual,₹7.14 Lakh,Bangalore
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.2,51792,Petrol,Manual,₹6.69 Lakh,Bangalore
+2017,Honda,City 1.5L I-VTEC VX CVT,93542,Petrol,Automatic,₹7.84 Lakh,Bangalore
+2021,Maruti,XL6 ZETA MT,24293,Petrol,Manual,₹9.70 Lakh,Bangalore
+2018,Maruti,Dzire VXI,38827,Petrol,Manual,₹6.27 Lakh,Bangalore
+2015,Honda,Brio S MT,30891,Petrol,Manual,₹3.70 Lakh,Bangalore
+2018,Honda,Amaze 1.5L I-DTEC S CVT,79803,Diesel,Automatic,₹6.76 Lakh,Bangalore
+2019,Honda,Jazz 1.2L I-VTEC V,45905,Petrol,Manual,₹6.38 Lakh,Bangalore
+2022,Tata,NEXON XM SUNROOF DIESEL,23036,Diesel,Manual,₹10.43 Lakh,Bangalore
+2018,Maruti,Baleno DELTA CVT PETROL 1.2,36967,Petrol,Automatic,₹6.90 Lakh,Bangalore
+2014,Maruti,Wagon R 1.0 VXI,35720,Petrol,Manual,₹3.67 Lakh,Bangalore
+2020,MG,HECTOR SHARP 1.5 DCT PETROL,30801,Petrol,Automatic,₹14.90 Lakh,Bangalore
+2019,Maruti,Celerio VXI AMT (O),66087,Petrol,Automatic,₹4.95 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,49849,Petrol,Manual,₹6.55 Lakh,Bangalore
+2017,Maruti,Baleno DELTA CVT PETROL 1.2,79589,Petrol,Automatic,₹6.51 Lakh,Bangalore
+2018,Honda,BR-V 1.5L I-VTEC V CVT,81415,Petrol,Automatic,₹8.85 Lakh,Bangalore
+2013,Honda,City 1.5L I-VTEC V MT,71720,Petrol,Manual,₹4.83 Lakh,Bangalore
+2019,KIA,SELTOS GTX PLUS DCT 1.4 PETROL,36872,Petrol,Automatic,₹14.64 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.4 CRDI,70639,Diesel,Manual,₹7.00 Lakh,Bangalore
+2022,KIA,CARENS LUXURY PLUS 1.4 PETROL 7 STR,40953,Petrol,Manual,₹15.86 Lakh,Bangalore
+2023,Maruti,Baleno ALPHA 1.2 AGS,5154,Petrol,Automatic,₹10.06 Lakh,Bangalore
+2019,KIA,SELTOS HTK PLUS 1.5 DIESEL,40508,Diesel,Manual,₹12.00 Lakh,Bangalore
+2016,Maruti,Baleno ZETA PETROL 1.2,54853,Petrol,Manual,₹6.70 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI+,34800,Petrol,Manual,₹7.19 Lakh,Bangalore
+2016,Renault,Duster 110 PS RXL 4X2 AMT,41022,Diesel,Automatic,₹8.52 Lakh,Bangalore
+2019,KIA,SELTOS GTX PLUS DCT 1.4 PETROL,29077,Petrol,Automatic,₹16.35 Lakh,Bangalore
+2019,Volkswagen,Polo COMFORTLINE 1.0L MPI,45905,Petrol,Manual,₹6.88 Lakh,Bangalore
+2016,Hyundai,Elite i20 SPORTZ 1.2,58161,Petrol,Manual,₹5.52 Lakh,Bangalore
+2019,Hyundai,Creta SX 1.6 DIESEL,75395,Diesel,Manual,₹12.89 Lakh,Bangalore
+2016,Renault,Kwid RXT 1.0,30778,Petrol,Manual,₹3.47 Lakh,Bangalore
+2020,Maruti,Alto LXI O,2598,Petrol,Manual,₹3.97 Lakh,Bangalore
+2016,Ford,Ecosport TREND 1.5L PETROL,18009,Petrol,Manual,₹7.17 Lakh,Bangalore
+2022,Tata,Safari XZ PLUS 6S ADVENTURE,39627,Diesel,Manual,₹20.12 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO SPORTZ MT,43255,Petrol,Manual,₹4.82 Lakh,Bangalore
+2018,Hyundai,Elite i20 MAGNA EXECUTIVE CVT,32293,Petrol,Automatic,₹6.35 Lakh,Bangalore
+2015,Tata,Zest XTA F-TRONIC DIESEL,79684,Diesel,Automatic,₹4.80 Lakh,Bangalore
+2017,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,40780,Petrol,Manual,₹5.64 Lakh,Bangalore
+2016,Nissan,Micra XV CVT,68447,Petrol,Automatic,₹5.31 Lakh,Bangalore
+2018,Volkswagen,Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,63531,Diesel,Automatic,₹6.75 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.2 (O),58091,Petrol,Manual,₹6.72 Lakh,Bangalore
+2016,Maruti,Swift Dzire ZXI,57333,Petrol,Manual,₹6.82 Lakh,Bangalore
+2019,Hyundai,Verna 1.6 VTVT SX + AT,37380,Petrol,Automatic,₹9.29 Lakh,Bangalore
+2015,Skoda,Rapid 1.5 TDI CR ELEGANCE PLUS AT,84329,Diesel,Automatic,₹5.11 Lakh,Bangalore
+2020,Maruti,S PRESSO VXI AMT,18350,Petrol,Automatic,₹4.59 Lakh,Bangalore
+2012,Skoda,Rapid AMBITION 1.6 MPI MT,80616,Petrol,Manual,₹3.46 Lakh,Bangalore
+2018,Maruti,Celerio VXI AMT (O),10280,Petrol,Automatic,₹5.32 Lakh,Bangalore
+2018,Hyundai,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,13259,Petrol,Manual,₹5.41 Lakh,Bangalore
+2014,Maruti,Celerio VXI,27566,Petrol,Manual,₹3.74 Lakh,Bangalore
+2014,Maruti,Celerio VXI AMT,10558,Petrol,Automatic,₹4.09 Lakh,Bangalore
+2021,Tata,Safari XZA PLUS,13787,Diesel,Automatic,₹21.66 Lakh,Bangalore
+2017,Renault,Duster RXL PETROL,67614,Petrol,Manual,₹6.93 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,48738,Petrol,Manual,₹4.41 Lakh,Bangalore
+2019,Hyundai,VENUE SX PLUS 1.0 TURBO DCT,21881,Petrol,Automatic,₹10.23 Lakh,Bangalore
+2021,KIA,SELTOS HTX PLUS 1.5 DIESEL,39132,Diesel,Manual,₹15.59 Lakh,Bangalore
+2020,Hyundai,VENUE S 1.2,17800,Petrol,Manual,₹7.32 Lakh,Bangalore
+2021,Hyundai,NEW SANTRO SPORTZ MT,23972,Petrol,Manual,₹5.66 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS MAGNA 1.2 KAPPA VTVT,21438,Petrol,Manual,₹5.99 Lakh,Bangalore
+2012,Toyota,Etios Liva GD,115572,Diesel,Manual,₹3.83 Lakh,Bangalore
+2023,KIA,SONET X LINE 1.0 DCT,5703,Petrol,Automatic,₹15.18 Lakh,Bangalore
+2021,Renault,Kwid RXL 1.0 AMT,10015,Petrol,Automatic,₹4.62 Lakh,Bangalore
+2019,Tata,Tiago XZA PLUS PETROL,16943,Petrol,Automatic,₹6.37 Lakh,Bangalore
+2023,Mahindra,XUV700 AX 3 P AT 5 STR,16638,Petrol,Automatic,₹19.27 Lakh,Bangalore
+2020,Tata,ALTROZ XZ PETROL,11336,Petrol,Manual,₹7.77 Lakh,Bangalore
+2018,Datsun,Redi Go S 1.0,35098,Petrol,Manual,₹3.25 Lakh,Bangalore
+2022,KIA,SELTOS GTX (O) 1.4,8827,Petrol,Manual,₹17.59 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC SV,89537,Petrol,Manual,₹5.52 Lakh,Bangalore
+2023,Mahindra,XUV300 W6 1.2 PETROL,10190,Petrol,Manual,₹10.35 Lakh,Bangalore
+2021,KIA,SELTOS GTX (O) 1.4 PETROL,37815,Petrol,Manual,₹14.31 Lakh,Bangalore
+2021,Tata,TIGOR XZ PLUS PETROL,53454,Petrol,Manual,₹6.73 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,60260,Petrol,Manual,₹4.43 Lakh,Bangalore
+2018,Maruti,Ciaz DELTA 1.5 SHVS MT PETROL,30948,Petrol,Manual,₹7.62 Lakh,Bangalore
+2016,Hyundai,i20 Active 1.2 S,55034,Petrol,Manual,₹6.04 Lakh,Bangalore
+2012,Maruti,Swift VXI,97699,Petrol,Manual,₹4.13 Lakh,Bangalore
+2012,Maruti,Alto K10 VXI,35084,Petrol,Manual,₹2.57 Lakh,Bangalore
+2017,Maruti,Baleno DELTA CVT PETROL 1.2,74601,Petrol,Automatic,₹6.56 Lakh,Bangalore
+2017,Maruti,IGNIS ZETA 1.2,79722,Petrol,Manual,₹4.86 Lakh,Bangalore
+2019,Hyundai,Creta SX (O) 1.6 PETROL,60704,Petrol,Manual,₹10.81 Lakh,Bangalore
+2014,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,12047,Petrol,Automatic,₹4.86 Lakh,Bangalore
+2018,Maruti,Ertiga ZDI + SHVS,69668,Diesel,Manual,₹10.05 Lakh,Bangalore
+2020,Maruti,Vitara Brezza ZXI PLUS AT SHVS,50421,Petrol,Automatic,₹9.72 Lakh,Bangalore
+2022,Maruti,XL6 ZETA MT,59304,Petrol,Manual,₹10.69 Lakh,Bangalore
+2019,Hyundai,VENUE SX 1.0 (O) TURBO,34996,Petrol,Manual,₹9.57 Lakh,Bangalore
+2017,Maruti,Baleno ALPHA PETROL 1.2,57040,Petrol,Manual,₹6.84 Lakh,Bangalore
+2016,Maruti,Celerio VXI AMT (O),62447,Petrol,Automatic,₹4.54 Lakh,Bangalore
+2023,Renault,Kwid RXT 1.0 AMT,1343,Petrol,Automatic,₹6.34 Lakh,Bangalore
+2022,KIA,SELTOS X LINE 1.5 DIESEL AT,43707,Diesel,Automatic,₹17.87 Lakh,Bangalore
+2017,Hyundai,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,34496,Petrol,Manual,₹5.28 Lakh,Bangalore
+2019,KIA,SELTOS HTK PLUS 1.5,47181,Petrol,Manual,₹9.71 Lakh,Bangalore
+2019,Tata,Tiago XZA PETROL,35928,Petrol,Automatic,₹5.20 Lakh,Bangalore
+2019,Datsun,Redi Go A,66264,Petrol,Manual,₹2.65 Lakh,Bangalore
+2014,Hyundai,Xcent S 1.2,67606,Petrol,Manual,₹4.12 Lakh,Bangalore
+2021,Hyundai,NEW I20 ASTA (O) 1.2 MT,30376,Petrol,Manual,₹8.12 Lakh,Bangalore
+2018,Mahindra,XUV500 W11,63416,Diesel,Manual,₹14.01 Lakh,Bangalore
+2021,Hyundai,Creta SX (O) 1.4 TURBO DCT DUAL TONE,21027,Petrol,Automatic,₹17.25 Lakh,Bangalore
+2016,Maruti,Celerio VXI,77319,Petrol,Manual,₹4.14 Lakh,Bangalore
+2016,Hyundai,Elite i20 ASTA 1.4 CRDI (O),86715,Diesel,Manual,₹7.19 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,27754,Petrol,Automatic,₹7.04 Lakh,Bangalore
+2015,Hyundai,Xcent S 1.2,69271,Petrol,Manual,₹4.19 Lakh,Bangalore
+2018,Skoda,Rapid AMBITION 1.6 MPI AT,18349,Petrol,Automatic,₹8.46 Lakh,Bangalore
+2021,Honda,Jazz 1.2L I-VTEC VX CVT,42493,Petrol,Automatic,₹8.93 Lakh,Bangalore
+2017,Renault,Kwid RXT 1.0 AMT (O),46878,Petrol,Automatic,₹3.78 Lakh,Bangalore
+2018,Ford,FREESTYLE TITANIUM PLUS 1.2 PETROL,66103,Petrol,Manual,₹5.38 Lakh,Bangalore
+2015,Maruti,Celerio VXI AMT,33709,Petrol,Automatic,₹4.16 Lakh,Bangalore
+2018,Maruti,Celerio VXI AMT,40683,Petrol,Automatic,₹4.97 Lakh,Bangalore
+2013,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,98718,Petrol,Manual,₹3.80 Lakh,Bangalore
+2014,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,40479,Petrol,Manual,₹4.25 Lakh,Bangalore
+2021,Maruti,Baleno DELTA PETROL 1.2,19053,Petrol,Manual,₹7.07 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,80575,Petrol,Automatic,₹4.58 Lakh,Bangalore
+2019,Maruti,Baleno DELTA PETROL 1.2,24160,Petrol,Manual,₹6.99 Lakh,Bangalore
+2021,Tata,NEXON XZ PLUS (O) PETROL,19430,Petrol,Manual,₹10.33 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,50784,Petrol,Manual,₹5.21 Lakh,Bangalore
+2018,Maruti,Ciaz ZETA 1.4 AT PETROL,50334,Petrol,Automatic,₹7.65 Lakh,Bangalore
+2013,Hyundai,i10 SPORTZ 1.2,55303,Petrol,Manual,₹3.49 Lakh,Bangalore
+2018,Maruti,Ciaz DELTA 1.5 SHVS MT PETROL,42483,Petrol,Manual,₹7.50 Lakh,Bangalore
+2018,Maruti,Baleno ALPHA DIESEL 1.3,82882,Diesel,Manual,₹7.22 Lakh,Bangalore
+2019,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,41774,Petrol,Automatic,₹9.17 Lakh,Bangalore
+2017,Renault,Duster 110 PS RXL 4X2 AMT,60774,Diesel,Automatic,₹8.54 Lakh,Bangalore
+2019,Hyundai,Elite i20 ASTA (O) CVT,23570,Petrol,Automatic,₹7.92 Lakh,Bangalore
+2023,Maruti,New Wagon-R VXI 1.0 AMT,8230,Petrol,Automatic,₹7.52 Lakh,Bangalore
+2019,Honda,Amaze 1.2L I-VTEC VX,25138,Petrol,Manual,₹7.80 Lakh,Bangalore
+2016,Maruti,Swift ZXI,74061,Petrol,Manual,₹5.70 Lakh,Bangalore
+2022,Tata,NEXON XZA PLUS KAZIRANGA PETROL,28971,Petrol,Automatic,₹12.19 Lakh,Bangalore
+2022,Tata,PUNCH CREATIVE 1.2 AMT KAZIRANGA EDITION,15486,Petrol,Automatic,₹9.14 Lakh,Bangalore
+2021,Hyundai,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,30588,Petrol,Automatic,₹7.45 Lakh,Bangalore
+2014,Volkswagen,Polo HIGHLINE1.2L,46556,Petrol,Manual,₹4.98 Lakh,Bangalore
+2017,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,69760,Petrol,Manual,₹4.53 Lakh,Bangalore
+2019,KIA,SELTOS GTX PLUS DCT 1.4 PETROL,60467,Petrol,Automatic,₹13.95 Lakh,Bangalore
+2020,KIA,SELTOS GTX PLUS 1.4 PETROL,44842,Petrol,Manual,₹11.85 Lakh,Bangalore
+2017,Honda,WR-V 1.5L I-DTEC VX MT,32067,Diesel,Manual,₹7.99 Lakh,Bangalore
+2016,Maruti,Celerio VXI AMT,63730,Petrol,Automatic,₹4.37 Lakh,Bangalore
+2017,Nissan,Micra Active XV,50268,Petrol,Manual,₹4.37 Lakh,Bangalore
+2021,Maruti,Alto VXI,22625,Petrol,Manual,₹3.98 Lakh,Bangalore
+2016,Volkswagen,Vento HIGHLINE PETROL AT,57895,Petrol,Automatic,₹7.70 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,39916,Petrol,Manual,₹4.72 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,24183,Petrol,Manual,₹5.82 Lakh,Bangalore
+2018,Honda,City 1.5L I-VTEC VX,30539,Petrol,Manual,₹8.61 Lakh,Bangalore
+2016,Maruti,Swift VXI,70649,Petrol,Manual,₹5.95 Lakh,Bangalore
+2020,Mahindra,XUV500 W7,18556,Diesel,Manual,₹14.45 Lakh,Bangalore
+2020,Hyundai,Verna SX (O) 1.5 CRDI,60943,Diesel,Manual,₹12.88 Lakh,Bangalore
+2021,KIA,SONET GTX PLUS 1.0 DCT DUAL TONE,32031,Petrol,Automatic,₹12.92 Lakh,Bangalore
+2019,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,29041,Petrol,Automatic,₹9.25 Lakh,Bangalore
+2016,Ford,Ecosport TITANIUM 1.5L PETROL,21762,Petrol,Manual,₹6.61 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI+,68828,Petrol,Manual,₹6.80 Lakh,Bangalore
+2019,Honda,City 1.5L I-VTEC VX CVT,34447,Petrol,Automatic,₹11.40 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,23731,Petrol,Manual,₹5.59 Lakh,Bangalore
+2016,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,70403,Petrol,Manual,₹4.41 Lakh,Bangalore
+2023,Tata,ALTROZ XZA PLUS,5198,Petrol,Automatic,₹8.99 Lakh,Bangalore
+2014,Maruti,Swift Dzire VXI,61615,Petrol,Manual,₹4.82 Lakh,Bangalore
+2023,KIA,CARENS PRESTIGE 1.4 PETROL 7 STR,10235,Petrol,Manual,₹13.63 Lakh,Bangalore
+2013,Maruti,Alto K10 VXI,24202,Petrol,Manual,₹3.03 Lakh,Bangalore
+2021,Maruti,Celerio ZXI PLUS AGS,25548,Petrol,Automatic,₹6.70 Lakh,Bangalore
+2017,Hyundai,i20 Active 1.4 SX,39981,Diesel,Manual,₹7.79 Lakh,Bangalore
+2017,Tata,Tiago XT PETROL,60536,Petrol,Manual,₹4.50 Lakh,Bangalore
+2018,Maruti,Swift VXI,37330,Petrol,Manual,₹5.77 Lakh,Bangalore
+2018,Maruti,Baleno ALPHA CVT PETROL 1.2,26277,Petrol,Automatic,₹7.14 Lakh,Bangalore
+2021,Maruti,IGNIS ALPHA 1.2 AMT,29003,Petrol,Automatic,₹8.03 Lakh,Bangalore
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,27218,Petrol,Manual,₹4.77 Lakh,Bangalore
+2021,Hyundai,VENUE SX 1.0 TURBO IMT,16920,Petrol,Manual,₹9.77 Lakh,Bangalore
+2015,Honda,Brio S MT,70257,Petrol,Manual,₹3.70 Lakh,Bangalore
+2019,Toyota,Glanza G,53435,Petrol,Manual,₹6.88 Lakh,Bangalore
+2014,Hyundai,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,61541,Petrol,Automatic,₹4.29 Lakh,Bangalore
+2017,Maruti,Swift ZXI,51421,Petrol,Manual,₹6.41 Lakh,Bangalore
+2021,Maruti,Baleno DELTA PETROL 1.2,17079,Petrol,Manual,₹7.15 Lakh,Bangalore
+2015,Maruti,Swift Dzire ZXI,30728,Petrol,Manual,₹5.80 Lakh,Bangalore
+2014,Volkswagen,Vento HIGHLINE 1.6 MPI,52389,Petrol,Manual,₹4.86 Lakh,Bangalore
+2017,Honda,Amaze 1.2L I-VTEC SX,47200,Petrol,Manual,₹5.70 Lakh,Bangalore
+2014,Maruti,Celerio VXI AMT,71320,Petrol,Automatic,₹3.72 Lakh,Bangalore
+2013,Hyundai,i10 SPORTZ 1.2,46079,Petrol,Manual,₹4.08 Lakh,Bangalore
+2018,Ford,Ecosport TREND 1.5L DIESEL,47693,Diesel,Manual,₹7.98 Lakh,Bangalore
+2015,Maruti,Baleno DELTA DIESEL 1.3,63916,Diesel,Manual,₹6.37 Lakh,Bangalore
+2020,Tata,TIGOR XZ PLUS PETROL,27603,Petrol,Manual,₹6.65 Lakh,Bangalore
+2013,Honda,Brio EX MT,55685,Petrol,Manual,₹3.10 Lakh,Bangalore
+2021,KIA,SELTOS GTX PLUS AT 1.5 DIESEL,17276,Diesel,Automatic,₹16.61 Lakh,Bangalore
+2019,Maruti,New Wagon-R VXI 1.2 AMT,13515,Petrol,Automatic,₹5.91 Lakh,Bangalore
+2016,Maruti,Celerio ZXI AMT,51729,Petrol,Automatic,₹4.97 Lakh,Bangalore
+2016,Maruti,Swift VXI,43756,Petrol,Manual,₹6.15 Lakh,Bangalore
+2017,Honda,City 1.5L I-VTEC VX CVT,39311,Petrol,Automatic,₹9.00 Lakh,Bangalore
+2019,KIA,SELTOS HTX PLUS 1.5 DIESEL,24108,Diesel,Manual,₹14.07 Lakh,Bangalore
+2016,Ford,Ecosport TREND+ 1.5L DIESEL,52176,Diesel,Manual,₹6.39 Lakh,Bangalore
+2014,Toyota,Camry 2.5L AT,113336,Petrol,Automatic,₹9.34 Lakh,Bangalore
+2017,Maruti,Celerio VXI (O),57214,Petrol,Manual,₹4.65 Lakh,Bangalore
+2019,KIA,SELTOS GTX PLUS DCT 1.4 PETROL,66007,Petrol,Automatic,₹14.78 Lakh,Bangalore
+2022,Hyundai,Creta SX (O) 1.4 TURBO DCT,20634,Petrol,Automatic,₹17.70 Lakh,Bangalore
+2023,Mahindra,Thar LX P 2WD AT HT,11796,Petrol,Automatic,₹14.90 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,23912,Petrol,Automatic,₹4.27 Lakh,Bangalore
+2023,Tata,PUNCH CREATIVE AMT 1.2 RTN DUAL TONE,2806,Petrol,Automatic,₹9.56 Lakh,Bangalore
+2017,Maruti,OMNI E 8 STR,20461,Petrol,Manual,₹3.26 Lakh,Bangalore
+2017,Hyundai,Grand i10 ERA 1.2 KAPPA VTVT,81602,Petrol,Manual,₹4.05 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC VX CVT,83630,Petrol,Automatic,₹6.51 Lakh,Bangalore
+2022,Maruti,S PRESSO VXI+,6410,Petrol,Manual,₹4.86 Lakh,Bangalore
+2022,Hyundai,NEW SANTRO SPORTZ MT,19934,Petrol,Manual,₹5.87 Lakh,Bangalore
+2013,Hyundai,i20 MAGNA (O) 1.2,80835,Petrol,Manual,₹3.59 Lakh,Bangalore
+2018,Maruti,Ciaz DELTA DIESEL 1.3,80245,Diesel,Manual,₹7.01 Lakh,Bangalore
+2019,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,12878,Petrol,Automatic,₹7.22 Lakh,Bangalore
+2014,Maruti,Ertiga VXI,92745,Petrol,Manual,₹5.71 Lakh,Bangalore
+2020,Hyundai,Creta SX (O) IVT 1.5 PETROL,38702,Petrol,Automatic,₹14.89 Lakh,Bangalore
+2014,Volkswagen,Polo HIGHLINE1.2L,37711,Petrol,Manual,₹5.60 Lakh,Bangalore
+2017,Hyundai,Elite i20 ASTA 1.2,35728,Petrol,Manual,₹7.30 Lakh,Bangalore
+2021,Maruti,IGNIS SIGMA 1.2,39945,Petrol,Manual,₹5.24 Lakh,Bangalore
+2013,Maruti,Ertiga VXI,92751,Petrol,Manual,₹6.26 Lakh,Bangalore
+2015,Maruti,Swift VXI,69474,Petrol,Manual,₹5.39 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX,78703,Petrol,Manual,₹8.54 Lakh,Bangalore
+2017,Maruti,Ciaz ALPHA 1.4 PETROL,43129,Petrol,Manual,₹7.06 Lakh,Bangalore
+2018,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,26623,Petrol,Manual,₹5.15 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO SPORTZ AMT,52278,Petrol,Automatic,₹5.12 Lakh,Bangalore
+2015,Hyundai,Xcent S (O) 1.2,71143,Petrol,Manual,₹4.53 Lakh,Bangalore
+2017,Maruti,Baleno ALPHA PETROL 1.2,49591,Petrol,Manual,₹7.25 Lakh,Bangalore
+2013,Hyundai,Verna FLUIDIC 1.6 CRDI SX,103388,Diesel,Manual,₹4.34 Lakh,Bangalore
+2023,Tata,TIAGO NRG XZ AMT,2370,Petrol,Automatic,₹8.09 Lakh,Bangalore
+2018,Maruti,Dzire VXI,38445,Petrol,Manual,₹6.82 Lakh,Bangalore
+2023,Maruti,Grand Vitara SIGMA SMART HYBRID,20888,Petrol,Manual,₹11.19 Lakh,Bangalore
+2022,Maruti,Alto K10 VXI PLUS,13847,Petrol,Manual,₹5.11 Lakh,Bangalore
+2016,Hyundai,Grand i10 ASTA AT 1.2 KAPPA VTVT,93065,Petrol,Automatic,₹4.71 Lakh,Bangalore
+2014,Hyundai,Xcent S 1.2,72810,Petrol,Manual,₹4.09 Lakh,Bangalore
+2019,Hyundai,Creta SX AT 1.6 PETROL,6606,Petrol,Automatic,₹12.40 Lakh,Bangalore
+2022,Hyundai,VENUE S+ 1.2,33680,Petrol,Manual,₹8.55 Lakh,Bangalore
+2023,Tata,TIAGO NRG XZ AMT,7402,Petrol,Automatic,₹7.96 Lakh,Bangalore
+2013,Honda,City 1.5L I-VTEC S MT,41334,Petrol,Manual,₹4.73 Lakh,Bangalore
+2023,Renault,Kwid RXT 1.0,1994,Petrol,Manual,₹5.92 Lakh,Bangalore
+2016,Maruti,Baleno DELTA CVT PETROL 1.2,62524,Petrol,Automatic,₹6.03 Lakh,Bangalore
+2016,Skoda,Rapid 1.6 MPI STYLE AT,35390,Petrol,Automatic,₹7.22 Lakh,Bangalore
+2017,Renault,Duster RXS CVT,21357,Petrol,Automatic,₹7.30 Lakh,Bangalore
+2020,Maruti,Swift ZXI PLUS AMT,38807,Petrol,Automatic,₹7.42 Lakh,Bangalore
+2018,Datsun,Redi Go T(O) 1.0 AMT,44972,Petrol,Automatic,₹3.25 Lakh,Bangalore
+2015,Maruti,Swift VXI,74874,Petrol,Manual,₹4.84 Lakh,Bangalore
+2020,Renault,Kwid RXT 1.0 (O),87693,Petrol,Manual,₹4.23 Lakh,Bangalore
+2017,Maruti,Celerio VXI,42178,Petrol,Manual,₹4.43 Lakh,Bangalore
+2017,Maruti,Baleno RS 1.0 PETROL,36274,Petrol,Manual,₹6.70 Lakh,Bangalore
+2019,Maruti,Baleno ALPHA CVT PETROL 1.2,65568,Petrol,Automatic,₹6.86 Lakh,Bangalore
+2015,Hyundai,Eon D-LITE+,71802,Petrol,Manual,₹2.60 Lakh,Bangalore
+2014,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,80602,Petrol,Manual,₹4.16 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI,68199,Petrol,Manual,₹6.73 Lakh,Bangalore
+2016,Maruti,Celerio ZXI AMT (O),39987,Petrol,Automatic,₹4.47 Lakh,Bangalore
+2022,Hyundai,NEW I20 SPORTZ 1.2 MT DUAL TONE,38428,Petrol,Manual,₹8.45 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,31281,Petrol,Manual,₹4.82 Lakh,Bangalore
+2017,Tata,Tiago XZA PETROL,57920,Petrol,Automatic,₹4.61 Lakh,Bangalore
+2021,Toyota,Glanza G CVT,28290,Petrol,Automatic,₹8.02 Lakh,Bangalore
+2023,Maruti,Ertiga ZXI+ AT SHVS,11016,Petrol,Automatic,₹13.64 Lakh,Bangalore
+2016,Maruti,Ciaz ZXI AT,66695,Petrol,Automatic,₹6.29 Lakh,Bangalore
+2018,Mahindra,XUV500 W6,80292,Diesel,Manual,₹10.98 Lakh,Bangalore
+2015,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,99767,Petrol,Manual,₹4.19 Lakh,Bangalore
+2013,Hyundai,Eon ERA +,59056,Petrol,Manual,₹2.72 Lakh,Bangalore
+2015,Hyundai,Elite i20 MAGNA 1.2,74832,Petrol,Manual,₹4.96 Lakh,Bangalore
+2013,Honda,Amaze 1.5L I-DTEC S,63567,Diesel,Manual,₹3.80 Lakh,Bangalore
+2017,Honda,WR-V 1.2L I-VTEC VX MT,46215,Petrol,Manual,₹6.92 Lakh,Bangalore
+2020,KIA,SONET GTX PLUS 1.0 IMT,31141,Petrol,Manual,₹11.33 Lakh,Bangalore
+2015,Maruti,Ciaz ZXI AT,83683,Petrol,Automatic,₹4.80 Lakh,Bangalore
+2023,Mahindra,XUV300 W4 1.2 PETROL,6978,Petrol,Manual,₹9.38 Lakh,Bangalore
+2016,Mahindra,TUV300 T8,54242,Diesel,Manual,₹6.67 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI AMT,44237,Petrol,Automatic,₹3.98 Lakh,Bangalore
+2014,Volkswagen,Vento HIGHLINE 1.6 MPI,85997,Petrol,Manual,₹5.23 Lakh,Bangalore
+2016,Nissan,Micra Active XV,87764,Petrol,Manual,₹3.62 Lakh,Bangalore
+2021,Toyota,Glanza G,21442,Petrol,Manual,₹7.98 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS AT 1.6 PETROL,40475,Petrol,Automatic,₹10.25 Lakh,Bangalore
+2020,Renault,Kwid CLIMBER 1.0 (O),18244,Petrol,Manual,₹4.60 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,9281,Petrol,Manual,₹6.31 Lakh,Bangalore
+2016,Maruti,Celerio VXI AMT (O),38929,Petrol,Automatic,₹4.73 Lakh,Bangalore
+2016,Honda,Jazz 1.2L I-VTEC VX,62722,Petrol,Manual,₹5.32 Lakh,Bangalore
+2018,Maruti,Baleno ALPHA CVT PETROL 1.2,19161,Petrol,Automatic,₹7.39 Lakh,Bangalore
+2021,Honda,Jazz 1.2L I-VTEC V CVT,5141,Petrol,Automatic,₹9.22 Lakh,Bangalore
+2021,Hyundai,Creta SX 1.5 PETROL,24743,Petrol,Manual,₹14.04 Lakh,Bangalore
+2014,Hyundai,Eon ERA +,35510,Petrol,Manual,₹2.85 Lakh,Bangalore
+2017,Maruti,Baleno ALPHA CVT PETROL 1.2,22358,Petrol,Automatic,₹7.15 Lakh,Bangalore
+2013,Hyundai,Verna FLUIDIC 1.6 VTVT SX,59998,Petrol,Manual,₹4.50 Lakh,Bangalore
+2016,Maruti,Wagon R 1.0 VXI,30478,Petrol,Manual,₹4.06 Lakh,Bangalore
+2018,Maruti,Ciaz ALPHA 1.4 PETROL,45811,Petrol,Manual,₹7.38 Lakh,Bangalore
+2020,Ford,FREESTYLE TITANIUM 1.2 PETROL,77236,Petrol,Manual,₹5.96 Lakh,Bangalore
+2019,Maruti,S PRESSO VXI (O),44848,Petrol,Manual,₹4.18 Lakh,Bangalore
+2019,Maruti,Celerio ZXI AMT (O),23686,Petrol,Automatic,₹5.34 Lakh,Bangalore
+2017,Honda,City 1.5L I-VTEC VX CVT,70058,Petrol,Automatic,₹8.08 Lakh,Bangalore
+2018,Ford,Ecosport TITANIUM 1.5L PETROL,36331,Petrol,Manual,₹7.95 Lakh,Bangalore
+2023,Maruti,Alto K10 VXI AMT,3136,Petrol,Automatic,₹5.67 Lakh,Bangalore
+2016,Maruti,Swift ZXI,14031,Petrol,Manual,₹5.91 Lakh,Bangalore
+2015,Maruti,Wagon R 1.0 VXI AMT,38523,Petrol,Automatic,₹4.09 Lakh,Bangalore
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.2,62456,Petrol,Manual,₹6.43 Lakh,Bangalore
+2020,Maruti,Celerio ZXI AMT (O),15808,Petrol,Automatic,₹6.06 Lakh,Bangalore
+2011,Maruti,Alto K10 VXI,74886,Petrol,Manual,₹2.37 Lakh,Bangalore
+2013,Maruti,Alto 800 VXI,46661,Petrol,Manual,₹2.95 Lakh,Bangalore
+2021,Tata,Harrier XMA 2.0L KRYOTEC,28570,Diesel,Automatic,₹14.74 Lakh,Bangalore
+2022,Tata,Harrier XT PLUS 2.0L KRYOTEC,49190,Diesel,Manual,₹17.40 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V AT,37652,Petrol,Automatic,₹6.80 Lakh,Bangalore
+2021,Mahindra,XUV300 W8 (O) 1.2 PETROL,6528,Petrol,Manual,₹12.24 Lakh,Bangalore
+2022,Tata,PUNCH ACCOMPLISHED DAZZLE PACK AMT,3572,Petrol,Automatic,₹8.70 Lakh,Bangalore
+2014,Hyundai,Eon MAGNA +,97619,Petrol,Manual,₹2.61 Lakh,Bangalore
+2023,Mahindra,XUV300 W8 (O) 1.2 PETROL AMT,5990,Petrol,Automatic,₹13.90 Lakh,Bangalore
+2017,Honda,WR-V 1.5L I-DTEC VX MT,56702,Diesel,Manual,₹8.06 Lakh,Bangalore
+2012,Hyundai,i10 SPORTZ 1.2,57348,Petrol,Manual,₹3.40 Lakh,Bangalore
+2014,Maruti,Swift VXI,75750,Petrol,Manual,₹4.77 Lakh,Bangalore
+2014,Renault,Duster 85 PS RXE DIESEL ADVENTURE,90841,Diesel,Manual,₹6.27 Lakh,Bangalore
+2019,Mahindra,XUV500 W7 AT,39448,Diesel,Automatic,₹14.08 Lakh,Bangalore
+2023,Renault,Kwid CLIMBER AMT 1.0,6308,Petrol,Automatic,₹6.46 Lakh,Bangalore
+2016,Maruti,Swift VXI,53462,Petrol,Manual,₹5.81 Lakh,Bangalore
+2020,Maruti,S PRESSO VXI PLUS AMT,18106,Petrol,Automatic,₹5.02 Lakh,Bangalore
+2019,Maruti,New Wagon-R VXI 1.0 AMT,30598,Petrol,Automatic,₹5.52 Lakh,Bangalore
+2019,Maruti,Eeco 5 STR WITH A/C+HTR,24968,Petrol,Manual,₹4.73 Lakh,Bangalore
+2015,Honda,Jazz 1.2L I-VTEC SV,99867,Petrol,Manual,₹4.24 Lakh,Bangalore
+2016,Maruti,Vitara Brezza ZDI PLUS,60503,Diesel,Manual,₹7.79 Lakh,Bangalore
+2015,Maruti,Celerio VXI,46241,Petrol,Manual,₹3.77 Lakh,Bangalore
+2022,Toyota,Innova Crysta 2.4 ZX 7 STR,3597,Diesel,Manual,₹27.02 Lakh,Bangalore
+2016,Maruti,Ertiga ZDI + SHVS,81649,Diesel,Manual,₹7.76 Lakh,Bangalore
+2016,Hyundai,Creta SX PLUS 1.6 PETROL,76040,Petrol,Manual,₹8.16 Lakh,Bangalore
+2016,Hyundai,i20 Active 1.4 SX,82644,Diesel,Manual,₹5.99 Lakh,Bangalore
+2017,Maruti,Baleno DELTA PETROL 1.2,33972,Petrol,Manual,₹5.97 Lakh,Bangalore
+2021,Renault,TRIBER RXZ AMT,16146,Petrol,Automatic,₹7.08 Lakh,Bangalore
+2019,KIA,SELTOS GTX AT 1.4 PETROL,41535,Petrol,Automatic,₹11.74 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC VX,60317,Petrol,Manual,₹6.06 Lakh,Bangalore
+2017,Tata,Tiago XT PETROL,67872,Petrol,Manual,₹4.02 Lakh,Bangalore
+2017,Renault,Kwid RXL 1.0 AMT,32890,Petrol,Automatic,₹3.52 Lakh,Bangalore
+2020,Maruti,IGNIS ZETA 1.2,30628,Petrol,Manual,₹5.68 Lakh,Bangalore
+2016,Mahindra,TUV300 T8,38328,Diesel,Manual,₹5.96 Lakh,Bangalore
+2016,Ford,Ecosport TITANIUM+ 1.5L DIESEL,98741,Diesel,Manual,₹6.27 Lakh,Bangalore
+2020,Tata,TIGOR XZA PLUS PETROL,33984,Petrol,Automatic,₹7.03 Lakh,Bangalore
+2018,Hyundai,Verna 1.4 EX PETROL,70838,Petrol,Manual,₹7.06 Lakh,Bangalore
+2020,Maruti,Ciaz ALPHA AT 1.5 SHVS PETROL,12867,Petrol,Automatic,₹9.80 Lakh,Bangalore
+2017,Hyundai,Elite i20 ERA 1.2,10914,Petrol,Manual,₹5.69 Lakh,Bangalore
+2019,Maruti,Swift ZXI AMT,21955,Petrol,Automatic,₹6.92 Lakh,Bangalore
+2014,Maruti,Celerio VXI AMT,44064,Petrol,Automatic,₹3.63 Lakh,Bangalore
+2017,Maruti,Baleno DELTA CVT PETROL 1.2,39585,Petrol,Automatic,₹5.85 Lakh,Bangalore
+2017,Maruti,Celerio ZXI AMT (O),30660,Petrol,Automatic,₹4.69 Lakh,Bangalore
+2013,Hyundai,i20 MAGNA (O) 1.4 CRDI,94514,Diesel,Manual,₹3.60 Lakh,Bangalore
+2019,Datsun,Redi Go T(O) 1.0,15881,Petrol,Manual,₹2.73 Lakh,Bangalore
+2013,Honda,Brio S MT,31104,Petrol,Manual,₹3.27 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,86716,Petrol,Manual,₹3.96 Lakh,Bangalore
+2013,Honda,Brio S MT,27050,Petrol,Manual,₹3.38 Lakh,Bangalore
+2018,Tata,Tiago XZ PETROL,72597,Petrol,Manual,₹4.53 Lakh,Bangalore
+2022,Hyundai,Creta SX (O) AT 1.5 DIESEL,27509,Diesel,Automatic,₹18.46 Lakh,Bangalore
+2019,Honda,Amaze 1.2L I-VTEC V,22419,Petrol,Manual,₹6.40 Lakh,Bangalore
+2015,Tata,Zest XMS PETROL,75916,Petrol,Manual,₹3.72 Lakh,Bangalore
+2021,Toyota,URBAN CRUISER PREMIUM GRADE MT DUAL TONE,14232,Petrol,Manual,₹9.68 Lakh,Bangalore
+2013,Maruti,Wagon R 1.0 VXI,66823,Petrol,Manual,₹2.86 Lakh,Bangalore
+2017,Maruti,Ertiga ZDI SHVS,108489,Diesel,Manual,₹8.43 Lakh,Bangalore
+2014,Hyundai,Santro Xing GLS PLUS AUDIO,74647,Petrol,Manual,₹2.74 Lakh,Bangalore
+2019,Hyundai,NEW SANTRO SPORTZ AMT,20560,Petrol,Automatic,₹5.46 Lakh,Bangalore
+2018,Ford,Ecosport TITANIUM 1.5L PETROL,48498,Petrol,Manual,₹7.60 Lakh,Bangalore
+2023,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,11028,Petrol,Manual,₹7.54 Lakh,Bangalore
+2016,Maruti,Baleno DELTA PETROL 1.2,56956,Petrol,Manual,₹6.07 Lakh,Bangalore
+2016,Mahindra,Bolero ZLX BS IV,139583,Diesel,Manual,₹5.54 Lakh,Bangalore
+2022,Tata,ALTROZ XZ I-TURBO PETROL,19400,Petrol,Manual,₹8.10 Lakh,Bangalore
+2020,Tata,Tiago XZA PLUS DUAL TONE PETROL,26526,Petrol,Automatic,₹6.28 Lakh,Bangalore
+2018,Mahindra,KUV 100 NXT K6+ P 6 STR,5291,Petrol,Manual,₹5.36 Lakh,Bangalore
+2017,Maruti,Dzire VXI AMT,57398,Petrol,Automatic,₹5.66 Lakh,Bangalore
+2018,Hyundai,Elite i20 ASTA 1.2 (O),50068,Petrol,Manual,₹6.92 Lakh,Bangalore
+2013,Hyundai,i20 ASTA 1.2,78316,Petrol,Manual,₹4.08 Lakh,Bangalore
+2014,Maruti,Swift ZDI,109999,Diesel,Manual,₹5.19 Lakh,Bangalore
+2015,Renault,Kwid RXT 0.8,44512,Petrol,Manual,₹3.07 Lakh,Bangalore
+2016,Hyundai,i10 SPORTZ 1.1,16798,Petrol,Manual,₹4.16 Lakh,Bangalore
+2014,Hyundai,Santro Xing GL PLUS,69029,Petrol,Manual,₹2.52 Lakh,Bangalore
+2019,Honda,Civic 1.8L I-VTEC ZX CVT,28069,Petrol,Automatic,₹17.91 Lakh,Bangalore
+2018,Honda,City 1.5L I-VTEC VX,38673,Petrol,Manual,₹8.91 Lakh,Bangalore
+2020,Tata,Tiago XZ PLUS DUAL TONE PETROL,25101,Petrol,Manual,₹5.68 Lakh,Bangalore
+2019,Maruti,Swift ZXI PLUS,25462,Petrol,Manual,₹7.28 Lakh,Bangalore
+2020,Jeep,Compass LONGITUDE PLUS 1.4 PETROL AT,55863,Petrol,Automatic,₹13.62 Lakh,Bangalore
+2017,Honda,Jazz 1.2L I-VTEC V AT,67757,Petrol,Automatic,₹5.66 Lakh,Bangalore
+2017,Maruti,Ertiga VXI AT,88211,Petrol,Automatic,₹7.18 Lakh,Bangalore
+2018,Tata,NEXON XZA PLUS DIESEL,63671,Diesel,Automatic,₹8.72 Lakh,Bangalore
+2012,Honda,City 1.5L I-VTEC S MT,101853,Petrol,Manual,₹3.74 Lakh,Bangalore
+2014,Maruti,Swift VXI,89872,Petrol,Manual,₹4.50 Lakh,Bangalore
+2017,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,96375,Petrol,Manual,₹4.36 Lakh,Bangalore
+2016,Ford,Ecosport TITANIUM 1.5L PETROL,106057,Petrol,Manual,₹5.02 Lakh,Bangalore
+2023,Maruti,Swift VXI AMT,13994,Petrol,Automatic,₹7.63 Lakh,Bangalore
+2014,Mahindra,XUV500 W6,93087,Diesel,Manual,₹7.57 Lakh,Bangalore
+2022,Nissan,MAGNITE XV TURBO CVT DUAL TONE,5275,Petrol,Automatic,₹9.18 Lakh,Bangalore
+2017,Tata,NEXON XZ PLUS PETROL DUAL TONE,17466,Petrol,Manual,₹7.79 Lakh,Bangalore
+2016,Maruti,Vitara Brezza VDI (O),58038,Diesel,Manual,₹7.97 Lakh,Bangalore
+2015,Maruti,Ciaz VXI+,95738,Petrol,Manual,₹5.17 Lakh,Bangalore
+2013,Maruti,Swift Dzire VXI,70963,Petrol,Manual,₹4.35 Lakh,Bangalore
+2013,Honda,Amaze 1.2L I-VTEC VX,43884,Petrol,Manual,₹3.91 Lakh,Bangalore
+2014,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,76725,Petrol,Manual,₹3.84 Lakh,Bangalore
+2015,Maruti,Wagon R 1.0 VXI,77640,Petrol,Manual,₹3.59 Lakh,Bangalore
+2019,Renault,Kwid CLIMBER 1.0,27220,Petrol,Manual,₹3.88 Lakh,Bangalore
+2022,MG,HECTOR PLUS SHARP 1.5 PETROL TURBO HYBRID MT 6-STR,37636,Petrol,Manual,₹16.66 Lakh,Bangalore
+2021,Renault,Duster RXZ 1.5 PETROL MT,18262,Petrol,Manual,₹9.26 Lakh,Bangalore
+2018,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,117675,Petrol,Manual,₹4.96 Lakh,Bangalore
+2016,Hyundai,Elite i20 MAGNA 1.2,55009,Petrol,Manual,₹5.40 Lakh,Bangalore
+2021,Maruti,Swift VXI,10637,Petrol,Manual,₹6.93 Lakh,Bangalore
+2017,Renault,Duster RXL 1.6 PETROL,48000,Petrol,Manual,₹6.25 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,17285,Petrol,Automatic,₹6.76 Lakh,Bangalore
+2023,Maruti,Alto K10 VXI PLUS,8882,Petrol,Manual,₹5.15 Lakh,Bangalore
+2016,Mahindra,TUV300 T8,98798,Diesel,Manual,₹6.20 Lakh,Bangalore
+2022,Maruti,Baleno DELTA PETROL 1.2,9254,Petrol,Manual,₹7.63 Lakh,Bangalore
+2015,Maruti,Wagon R 1.0 VXI,110669,Petrol,Manual,₹3.32 Lakh,Bangalore
+2022,KIA,SONET HTK PLUS 1.2,14811,Petrol,Manual,₹9.51 Lakh,Bangalore
+2014,Maruti,Swift Dzire VXI,100458,Petrol,Manual,₹4.17 Lakh,Bangalore
+2017,Maruti,Ciaz ZXI+ AT,73371,Petrol,Automatic,₹6.61 Lakh,Bangalore
+2017,Maruti,Baleno ZETA PETROL 1.2,75431,Petrol,Manual,₹5.86 Lakh,Bangalore
+2018,Mahindra,XUV500 W11 AT,60820,Diesel,Automatic,₹15.21 Lakh,Bangalore
+2014,Maruti,Celerio VXI,96979,Petrol,Manual,₹3.23 Lakh,Bangalore
+2013,Maruti,Ritz VXI,73335,Petrol,Manual,₹3.68 Lakh,Bangalore
+2014,Maruti,Swift ZXI,56168,Petrol,Manual,₹5.16 Lakh,Bangalore
+2016,Honda,Brio S MT,53924,Petrol,Manual,₹3.86 Lakh,Bangalore
+2018,Renault,Kwid RXT 1.0 AMT,29224,Petrol,Automatic,₹3.77 Lakh,Bangalore
+2012,Honda,City 1.5L I-VTEC V AT,110307,Petrol,Automatic,₹4.06 Lakh,Bangalore
+2020,Renault,TRIBER RXZ,41840,Petrol,Manual,₹6.11 Lakh,Bangalore
+2018,Maruti,Swift ZXI AMT,54397,Petrol,Automatic,₹6.65 Lakh,Bangalore
+2021,Tata,Tiago XZ PETROL,26041,Petrol,Manual,₹6.33 Lakh,Bangalore
+2014,Maruti,Swift VXI,95421,Petrol,Manual,₹4.20 Lakh,Bangalore
+2011,Maruti,Wagon R 1.0 VXI,38782,Petrol,Manual,₹2.66 Lakh,Bangalore
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.2,39915,Petrol,Manual,₹7.01 Lakh,Bangalore
+2014,Maruti,Swift Dzire VXI,61511,Petrol,Manual,₹4.21 Lakh,Bangalore
+2017,Hyundai,Creta SX PLUS 1.6 PETROL,61235,Petrol,Manual,₹9.03 Lakh,Bangalore
+2014,Maruti,Swift VXI,71516,Petrol,Manual,₹4.78 Lakh,Bangalore
+2018,Renault,Duster RXS CVT,29311,Petrol,Automatic,₹7.21 Lakh,Bangalore
+2021,Skoda,KUSHAQ AMBITION 1.0L TSI AT,17310,Petrol,Automatic,₹13.66 Lakh,Bangalore
+2013,Maruti,Swift Dzire VXI,98155,Petrol,Manual,₹4.37 Lakh,Bangalore
+2016,Maruti,Swift VXI,44499,Petrol,Manual,₹5.12 Lakh,Bangalore
+2016,Nissan,Terrano XL (P),93598,Petrol,Manual,₹5.66 Lakh,Bangalore
+2020,Tata,NEXON XZA PLUS PETROL,40443,Petrol,Automatic,₹8.90 Lakh,Bangalore
+2015,Maruti,Celerio VXI AMT,29628,Petrol,Automatic,₹4.14 Lakh,Bangalore
+2014,Mahindra,XUV500 W6,92368,Diesel,Manual,₹7.71 Lakh,Bangalore
+2017,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,28474,Petrol,Manual,₹5.03 Lakh,Bangalore
+2022,Maruti,Dzire ZXI Plus AMT,24567,Petrol,Automatic,₹8.60 Lakh,Bangalore
+2019,Honda,Amaze 1.2L I-VTEC VX CVT,41243,Petrol,Automatic,₹7.19 Lakh,Bangalore
+2018,Tata,NEXON XZA PLUS DIESEL,34059,Diesel,Automatic,₹9.77 Lakh,Bangalore
+2016,Maruti,Baleno ALPHA PETROL 1.2,27306,Petrol,Manual,₹6.64 Lakh,Bangalore
+2017,Hyundai,Grand i10 ASTA 1.2 KAPPA VTVT,45003,Petrol,Manual,₹5.00 Lakh,Bangalore
+2011,Hyundai,i10 MAGNA 1.2,72455,Petrol,Manual,₹2.71 Lakh,Bangalore
+2012,Hyundai,i10 ERA 1.1,56699,Petrol,Manual,₹2.69 Lakh,Bangalore
+2020,Maruti,S PRESSO VXI PLUS AMT,24864,Petrol,Automatic,₹4.79 Lakh,Bangalore
+2014,Hyundai,Grand i10 MAGNA 1.1 CRDI,54106,Diesel,Manual,₹4.58 Lakh,Bangalore
+2021,Maruti,Baleno ZETA CVT PETROL 1.2,29413,Petrol,Automatic,₹8.63 Lakh,Bangalore
+2015,Maruti,Ciaz VDI (O) SHVS,87856,Diesel,Manual,₹6.00 Lakh,Bangalore
+2013,Hyundai,i10 ASTA 1.2,61285,Petrol,Manual,₹4.11 Lakh,Bangalore
+2014,Hyundai,Xcent SX AT 1.2 (O),96431,Petrol,Automatic,₹4.22 Lakh,Bangalore
+2015,Renault,Duster 110 PS RXZ DIESEL PLUS,105373,Diesel,Manual,₹6.39 Lakh,Bangalore
+2018,Maruti,Baleno ALPHA PETROL 1.2,26449,Petrol,Manual,₹7.08 Lakh,Bangalore
+2016,Honda,Jazz 1.2L I-VTEC V AT,74069,Petrol,Automatic,₹5.54 Lakh,Bangalore
+2016,Maruti,Baleno ZETA PETROL 1.2,29641,Petrol,Manual,₹6.28 Lakh,Bangalore
+2016,Maruti,Alto K10 VXI (O) AMT,15385,Petrol,Automatic,₹4.16 Lakh,Bangalore
+2020,Maruti,S PRESSO VXI+,21196,Petrol,Manual,₹4.36 Lakh,Bangalore
+2018,Hyundai,Verna 1.6 VTVT SX (O) AT,19792,Petrol,Automatic,₹9.94 Lakh,Bangalore
+2018,Renault,Duster RXS CVT,69110,Petrol,Automatic,₹7.66 Lakh,Bangalore
+2016,Maruti,Celerio ZXI AMT,28404,Petrol,Automatic,₹4.20 Lakh,Bangalore
+2014,Honda,City 1.5L I-VTEC SV,55894,Petrol,Manual,₹5.47 Lakh,Bangalore
+2015,Hyundai,Xcent S (O) 1.2,88423,Petrol,Manual,₹3.95 Lakh,Bangalore
+2017,Maruti,Dzire VXI AMT,29486,Petrol,Automatic,₹6.25 Lakh,Bangalore
+2012,Maruti,Swift ZXI,105772,Petrol,Manual,₹3.88 Lakh,Bangalore
+2014,Hyundai,Xcent S 1.2,82065,Petrol,Manual,₹3.76 Lakh,Bangalore
+2017,Mahindra,TUV300 T8,32940,Diesel,Manual,₹8.06 Lakh,Bangalore
+2013,Renault,Duster 85 PS RXL DIESEL,88309,Diesel,Manual,₹4.32 Lakh,Bangalore
+2018,Honda,City 1.5L I-VTEC VX,70183,Petrol,Manual,₹7.99 Lakh,Bangalore
+2019,Hyundai,Grand i10 MAGNA 1.2 KAPPA VTVT,14199,Petrol,Manual,₹4.83 Lakh,Bangalore
+2011,Maruti,Swift Dzire VXI,61266,Petrol,Manual,₹3.55 Lakh,Bangalore
+2020,Maruti,S PRESSO VXI+,31237,Petrol,Manual,₹4.28 Lakh,Bangalore
+2018,Honda,WR-V 1.5L I-DTEC VX MT,84652,Diesel,Manual,₹7.40 Lakh,Bangalore
+2015,Volkswagen,Vento HIGHLINE PETROL AT,68669,Petrol,Automatic,₹6.12 Lakh,Bangalore
+2022,Maruti,Ertiga VXI SHVS,9884,Petrol,Manual,₹10.33 Lakh,Bangalore
+2019,Hyundai,Elite i20 ASTA 1.2 (O),25298,Petrol,Manual,₹7.11 Lakh,Bangalore
+2017,Maruti,Baleno ZETA PETROL 1.2,31727,Petrol,Manual,₹6.31 Lakh,Bangalore
+2018,Hyundai,Xcent E+,73536,Petrol,Manual,₹4.56 Lakh,Bangalore
+2018,Maruti,Eeco 5 STR WITH A/C+HTR,66374,Petrol,Manual,₹4.45 Lakh,Bangalore
+2021,KIA,SELTOS X LINE 1.4 PETROL DCT,13509,Petrol,Automatic,₹16.14 Lakh,Bangalore
+2018,Mahindra,KUV 100 NXT K8 P 6 STR,35107,Petrol,Manual,₹4.81 Lakh,Bangalore
+2018,Mahindra,XUV500 W11,44080,Diesel,Manual,₹13.85 Lakh,Bangalore
+2017,Maruti,Alto K10 VXI (O) AMT,17897,Petrol,Automatic,₹4.18 Lakh,Bangalore
+2014,Maruti,Alto K10 VXI,29477,Petrol,Manual,₹3.06 Lakh,Bangalore
+2016,Ford,Ecosport TREND 1.5L PETROL,93059,Petrol,Manual,₹5.95 Lakh,Bangalore
+2018,Maruti,Baleno RS 1.0 PETROL,61005,Petrol,Manual,₹6.54 Lakh,Bangalore
+2020,Ford,FREESTYLE TITANIUM 1.2 PETROL,29049,Petrol,Manual,₹5.89 Lakh,Bangalore
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.2 CVT,38639,Petrol,Automatic,₹7.43 Lakh,Bangalore
+2020,Hyundai,Creta S 1.5 PETROL,30447,Petrol,Manual,₹11.83 Lakh,Bangalore
+2022,Maruti,Baleno SIGMA PETROL 1.2,7259,Petrol,Manual,₹6.97 Lakh,Bangalore
+2018,Tata,NEXON XM PETROL,38482,Petrol,Manual,₹6.35 Lakh,Bangalore
+2015,Maruti,Ertiga ZDI,57858,Diesel,Manual,₹7.75 Lakh,Bangalore
+2016,Honda,City 1.5L I-VTEC V MT,58750,Petrol,Manual,₹6.25 Lakh,Bangalore
+2013,Volkswagen,Polo HIGHLINE1.2L,85861,Petrol,Manual,₹4.16 Lakh,Bangalore
+2021,Tata,PUNCH ACCOMPLISHED MT,4700,Petrol,Manual,₹7.58 Lakh,Bangalore
+2015,Maruti,Alto 800 LXI,48319,Petrol,Manual,₹3.13 Lakh,Bangalore
+2018,Tata,NEXON XZ PLUS DIESEL,69566,Diesel,Manual,₹7.50 Lakh,Bangalore
+2013,Honda,Amaze 1.5L I-DTEC EX,73662,Diesel,Manual,₹3.51 Lakh,Bangalore
+2020,Renault,TRIBER RXL MT,42247,Petrol,Manual,₹6.05 Lakh,Bangalore
+2019,Volkswagen,Vento HIGHLINE PLUS 1.2 AT 16 ALLOY,41272,Petrol,Automatic,₹9.86 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC V MT,40477,Petrol,Manual,₹5.97 Lakh,Bangalore
+2016,Hyundai,Elite i20 SPORTZ 1.2,50641,Petrol,Manual,₹5.90 Lakh,Bangalore
+2017,Maruti,Dzire ZDI PLUS AMT,89319,Diesel,Automatic,₹7.06 Lakh,Bangalore
+2015,Nissan,Terrano XL (D),65385,Diesel,Manual,₹5.92 Lakh,Bangalore
+2021,Maruti,Vitara Brezza ZXI PLUS AT SHVS,22250,Petrol,Automatic,₹10.54 Lakh,Bangalore
+2019,KIA,SELTOS HTX IVT 1.5 PETROL,43392,Petrol,Automatic,₹12.61 Lakh,Bangalore
+2019,Toyota,Glanza V,34240,Petrol,Manual,₹7.14 Lakh,Bangalore
+2014,Maruti,Celerio ZXI (O),29601,Petrol,Manual,₹3.95 Lakh,Bangalore
+2019,Hyundai,Elite i20 SPORTZ PLUS 1.2,21733,Petrol,Manual,₹7.27 Lakh,Bangalore
+2015,Maruti,Celerio VXI AMT,52643,Petrol,Automatic,₹4.04 Lakh,Bangalore
+2019,Hyundai,Creta SX 1.6 PETROL DUAL TONE,36336,Petrol,Manual,₹10.56 Lakh,Bangalore
+2017,Hyundai,Elite i20 SPORTZ 1.2,78959,Petrol,Manual,₹5.67 Lakh,Bangalore
+2023,Maruti,Ertiga ZXI SHVS,7989,Petrol,Manual,₹11.79 Lakh,Bangalore
+2020,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,17849,Petrol,Manual,₹5.81 Lakh,Bangalore
+2015,Mahindra,XUV500 W8,91778,Diesel,Manual,₹8.43 Lakh,Bangalore
+2018,Tata,Tiago XZA PETROL,21979,Petrol,Automatic,₹5.28 Lakh,Bangalore
+2021,Tata,NEXON XZA PLUS SUNROOF PETROL,35445,Petrol,Automatic,₹10.30 Lakh,Bangalore
+2016,Tata,Tiago XZ PETROL,70138,Petrol,Manual,₹3.92 Lakh,Bangalore
+2015,Honda,City 1.5L I-VTEC V MT,71841,Petrol,Manual,₹5.59 Lakh,Bangalore
+2021,Renault,TRIBER RXE MT,4252,Petrol,Manual,₹5.82 Lakh,Bangalore
+2018,Maruti,Ciaz ALPHA 1.5 SHVS PETROL,91521,Petrol,Manual,₹6.55 Lakh,Bangalore
+2021,Maruti,Alto VXI PLUS,28158,Petrol,Manual,₹4.08 Lakh,Bangalore
+2018,Maruti,Dzire ZXI,68309,Petrol,Manual,₹6.09 Lakh,Bangalore
+2015,Maruti,Celerio VXI,39773,Petrol,Manual,₹4.20 Lakh,Bangalore
+2013,Ford,Ecosport TREND 1.5L DIESEL,79454,Diesel,Manual,₹4.73 Lakh,Bangalore
